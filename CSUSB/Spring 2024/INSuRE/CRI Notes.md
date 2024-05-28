@@ -1,0 +1,1 @@
+The CRI is a standard interface that **allows different container runtimes to be used with Kubernetes**. This makes it easier to switch between different container runtimes without having to make major changes to Kubernetes.
