@@ -1,0 +1,1 @@
+**Shared Responsibility**: Security is everyone's responsibility. Organizations are responsble to their stakeholders. 
