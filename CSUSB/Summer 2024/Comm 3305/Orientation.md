@@ -21,7 +21,7 @@ Content that is "transmitted as digital data, which as its simplest involves dig
 - Online or offline
 - Digital media translates this media faster than anything else
 - Internet based media
-- ![[Pasted image 20240604175921.png]]
+ ![[Pasted image 20240604175921.png]]
 
 
 #### Components of the communication process
@@ -62,5 +62,108 @@ The fundamental properties that **determine** how the technology can be used.
 
 ![[Pasted image 20240604183325.png]]
 - Started before the pandemic, not completed
-- *What are the affordances?*
-- 
+- *What are the affordances?* fundamental properties that determine how the technology can be used
+- Flat surface? Afford builing to be built (lol) and allows residents to look through them since they're glass
+- In the years since, they've used this technology in different ways, now they're used for tagging. They've been reappropriated as a surface to do art. 
+	- Some think it's beautiful, others think it's an eyesore.
+
+#### Constraints
+The fundamental properties that *limit* how the technology can be used
+- Scissors
+	- Because they're designed with the big and small hole, it can't be used for other ways, for example, as a weapon. 
+	- You have to place your whole hand around it. Less easier to use as a weapon than other objects.
+- Watch
+	- Athletic people work out all the time and go swimming, but, it may constrain the ability to use this in other activities like rock climbing. 
+	- It can be cumbersome and interfere with other workouts
+	- Much more focused on style and fashion, rather than practical fitness workouts
+
+In **Communication**, tech affordances are the manner in which a tool or medium affords uses to individuals
+![[Pasted image 20240604191818.png]]
+
+![[Pasted image 20240604192312.png]]
+###### Affordances
+Ability to upload digital music files to the ipod, and lets you scroll through and listen to music in your pocket, and create a music collection
+
+###### Constrains
+Can't be used as a telephone. Therefore, when the iPhone came out, the iPod became obsolete. 
+
+![[Pasted image 20240604192506.png]]
+
+![[Pasted image 20240604192522.png]]
+
+- Benefits: How does the product make the lives of their consumers better?
+- Affords the ability to take better pictures,  faster navigate the iPhone, longer battery life, customize the iPhone like you couldn't before, and use in emergency instances despite being outside of wifi range and data plan. 
+- **Affordances are used in marketing**
+
+#### Affordances and constraints of a virtual headset?
+
+![[Pasted image 20240604192705.png]]
+###### Affordances
+Affords the ability to emerse ourselves in a virtual world. Not cumbersome, which means it lets us keep our legs and arms free, so we can use our limbs as part of the emersive experience
+
+###### Constraints
+It's bulky on your head, so you can't walk around anywhere with it. You have to be constrained in a single room. The technology is not there yet.
+
+#### Affordances and constraints to social media
+![[Pasted image 20240604192907.png]]
+
+###### Affordances
+Instagram affords the ability to emphasize story telling through images. 
+
+###### Constraints
+Can't post a lot of text. 
+
+#### Tik Tok
+###### Affordances
+Affords the ability to create and consume reels more seemessly than any other platform
+
+#### Technological affordances vary 
+Technological affordances **vary** based on these factors
+- **Personal**
+- **Perceptual**
+- **Material**
+	- What are these devices made of? Titanium? Are they durable? Less durable?
+- **Contextual*
+	- *
+
+![[Pasted image 20240604222109.png]]
+
+Tumblr is a safe space for swifties lol 
+![[Pasted image 20240604222032.png]]
+- Other platforms have more bullying
+
+
+Movie shot on iPhone 
+![[Pasted image 20240604231857.png]]
+
+What are the affordances/constraints of Tinder and eHarmony and what is their significance?
+
+#### Tinder
+###### Affordances
+Tinder focuses on images and offers the ability to swipe right if you like and left if you don't
+
+###### Constraints
+Tinder constrains the ability to write long bios
+
+#### eHarmony
+
+###### Affordances
+Allows people to write big biographies with detailed looks into their lives
+
+###### Constraints
+You can't easily swipe through profiles like you could on Tinder
+
+You can't make quick impulsive decisions on eHarmony like you can on Tinder. Would this have an impact on society? You can argue that the affordances of Tinder is making changes to dating, relationships, monogamy, sex. 
+
+The affordances of tinder can match with people who want to make more matches, commit less, and have more sex. 
+
+eHarmony could appeal to people whos affordances are more aligned with people who want long term relationships
+
+#### Takeaways and Further Thought
+- Digital media do not just involve tech. specs and features, but cultural **assumptions**, **values**, and **norms**.
+
+- The full range of communication **context** applies to digital media
+	- Five types of context: Relationship., social, psychological, physical, cultural context. 
+	- All apply to digital media
+- Affordances are a form of **power**
+
