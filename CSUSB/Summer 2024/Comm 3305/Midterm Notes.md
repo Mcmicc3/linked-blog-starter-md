@@ -10,6 +10,7 @@ NOTES:
 
 # UNIT 1
 
+  
 
 1. How did we define digital media? Do digital media have to be Internet-based?
     
@@ -53,9 +54,9 @@ Noise: Interferes with communication
 
 Technical features: describe appearance, components, and/or capabilities, think about the item itself as well, ex: an apple watch that is a digital clock but is made to look like an anolog style to give that sense of nostalgia back to the customer, the old fashion leather, the signature in the middle of the brand that looks fancy and comes from a well known company, see how all of that effects the individuals perception of the item
 
-Afforances: Fundamental properties that determine how the technology is use, ex: door knob, it affords people to go through the door, affords people to be locked out of the door, scissors have two holes that are meant for your fingers to go through so you can afford to cut things, ex: skyscrapers, glass is flat allows people to afford to see out window, afford a surface to be tagged on  
+Affordances: Fundamental properties that determine how the technology is use, ex: door knob, it affords people to go through the door, affords people to be locked out of the door, scissors have two holes that are meant for your fingers to go through so you can afford to cut things, ex: skyscrapers, glass is flat allows people to afford to see out window, afford a surface to be tagged on  
 
-Constraints: Fundamnetal properties that limit how the tech can be used, ex: Scissors have a constraint by being a poor weapon, airmaze apple watch with leather strap can effect mountain climbing,
+Constraints: Fundamental properties that limit how the tech can be used, ex: Scissors have a constraint by being a poor weapon, airmaze apple watch with leather strap can effect mountain climbing,
 
   
 
@@ -132,7 +133,8 @@ Contraints of eHarmony: Makes quick image based judgments on people 
 12. Explain the assertion that affordances are a form of power.
     
 
-  
+What people think they can do with communication tech with media and how people view they can use media. They control, influence, and regulate behaviors/decisons by shaping environment that promotes a single goal/action. 
+
   
 
 # UNIT 2
@@ -211,7 +213,7 @@ Social construction of technology: The view that people are the sources of chang
 
 Following the social construction of technology idea, technology developers might be responsible for change in society by changing social contexts. Ex. → Humans develop oversexualized females in social media, video games, movies, etc.
 
-  
+sexual
 
 21. What examples did we use to demonstrate this? 
     
@@ -294,37 +296,100 @@ It reflected our fears about AI, such as their power and whether or not they hav
 
   
 
-31. What is the significance of Manuel Castells’ concept of the “network society”?
+31. What is the significance of Manuel Castells’ concept of the “network society”? 
     
 
+Networks can be found online and offline (like a family and our class) The presence and dominance of the communication network, which has increased because of online. Entities that can influence communication networks have power in society. COMMUNICATION IS POWER. He calls our time the Network Society. 
+
+  
   
 
 32. From the perspective of the “network society” (our contemporary society), who and what have power through communication? Why is this point significant, and how is this a big change from the mass media era?
     
+
+Governments have power such as a revolution. They can turn off internet access and block certain sites from being reached. Private sectors such as Google prioritize certain things in updates, or Zuckerberg buying a new social media platform. Internet companies also are private sectors because they have the power to offer/not offer broadband service in an area. Users can also be a major factor because they can help frame the discourse that occurs, such as activists, and #METOO. The big change is in the past it was passive consumption that has now turned into an active engagement. 
 
   
 
 33. What is convergence culture? What elements or entities are converging?
     
 
+An attempt to come to terms with how older media has integrated with new media.
+
+Offline and mass media doesn’t disappear, but converges with internet-based media.
+
+Convergence culture is 
+
+Old Media: Means Offline
+
+New Media: Means Online 
+
+This culture occurs when old and new media collide 
+
+Grassroots: They are media produced by users without much of corporate money. EX: Social Media account 
+
+Corporate Media Intersect: A major corporate entity intersecting with a grassroot. EX: CNN news intersecting with students post on Bert Is Evil Website 
+
+Power of media producer and Media consumer are wild cards essentially and are unpredictable. EX: Mixing/Matching content 
+
   
 
 34.  How did the “Bert is Evil” incident demonstrate convergence culture? How did convergence culture signal a cultural shift?
     
+
+Bert was in a 911 mastermind Osama bin Laden picture (it was photoshopped by a student), associating Bert with Osama upset the producers of the Muppets and threatened legal action but held no ground. The outrage caused the student to remove the “BERT IS EVIL” pictures/cite. Convergence was demonstrated by first the grassroots aka the student making the web page and corporate media intersect by the CNN intersecting with the student's website. 
+
+Cultural Shift: Consumers are encouraged to seek out new info and make connections among dispersed media content. EX: Media can be online or social media, TV, Radio, Newspaper. Ex: Will Smith slap went viral, turned into memes, using old media such as comic book memes are great examples of this culture 
 
   
 
 35.  How did the marketing/PR campaign for the horror movie Smile demonstrate convergence culture?
     
 
+They had people in crowds at a Baseball game smiling just like in the movie. This caused news outlets to talk about it, causing more buzz around the film on social media. It was also turned into a meme. 
+
   
 
 36. What is Participatory Culture? Is this a description of merely being online? Of logging onto a social media site?
     
 
+- A culture with
+
+- low barriers to artistic expression and civic engagement
+    
+- strong support for creating/sharing creations
+    
+- informal mentorship ( a guideline as to how to comply to the environment)
+    
+- members who believe their contributions matter 
+    
+- members who feel social connection with each other
+    
+
+- Describes a set of values
+
+→ Diversity and Democracy in interactions
+
+- Does NOT mean being active online
+
+→ it’s about a shared practice and culture
+
+- May or may NOT be oppositional/resistant to dominant ideologies
+
   
 
 37. What are the qualities of participatory culture that were discussed in the lecture? In other words, what should be present in order for participatory culture to be present?
+    
+
+- low barriers to artistic expression and civic engagement
+    
+- strong support for creating/sharing creations
+    
+- informal mentorship ( a guideline as to how to comply to the environment)
+    
+- members who believe their contributions matter 
+    
+- members who feel social connection with each other
     
 
   
@@ -337,6 +402,10 @@ It reflected our fears about AI, such as their power and whether or not they hav
 39. Explain the values of diversity and democracy specifically as they relate to participatory culture.
     
 
+Diversity: lots of different kinds of people are members of the digital community
+
+Democracy in Interactions: most people feel that they have roughly the same ability to make their voice heard
+
   
 
 40. Explain the meaning and importance of the following points of caution regarding participatory culture, discussed in the lecture: 
@@ -344,21 +413,42 @@ It reflected our fears about AI, such as their power and whether or not they hav
 
 • Digital media are NOT inherently participatory
 
+Digital media offers the ability to find participatory cultures and communities. Just because you are on digital media, it does not mean that you are engaging with participatory culture. Participatory culture is only present if its characteristics and values are present
+
 • Participatory cultures may or may NOT be oppositional or resistant to the dominant culture/ideology
+
+Communities may or may not utilize the use of participatory culture to exhibit their resistance upon certain views.  
+
+Ex. Harry Potter Alliance mobilized their online community to advocate for change in the exploitative conditions of the workspace that created chocolate frogs
+
+Ex. Reddit page, ‘NatureIs*uckingLit’, is simply a community that discusses and talks about cool things in nature without talking about exploitation of companies like oil companies. This is not oppositional to dominant ideologies
 
 • Participatory culture did NOT originate with digital media (what pre-Internet examples of participatory culture were discussed?)
 
+We are wrong to assume that cultures that occur or are interesting within digital media are utterly new or unprecedented.
+
+Ex. Subcultures such as the punks and hippies can be understood as participatory cultures if they meet the characteristics. These c communities existed long before the internet 
+
 • New media companies are now capitalizing directly on people’s participation
+
+New media conglomerates have figured out how to make money off of participatory culture. It’s a point of caution, in terms of not looking at  participatory culture always in a utopian perspective. 
 
 • Participatory culture can have NEGATIVE or HARMFUL effects (what two examples were discussed?)
 
+Ex. Pro Ana or Thinsperation websites may meet the parameters of participatory culture, but can clearly be harmful to society, such as young women.
+
+Ex. Conspiracy Theory Communities could lead to large scale distrust of institutions and government. It can even lead to offline violence, like amongst QAnon communities.
+
 • Online, people find ways of maintaining status/distinction
+
+The concept of status hierarchies do not go away just because we have digital cultures that are sometimes participatory. Online, people find different ways of maintaining status of distinction
 
   
 
 41. What is the potential connection between the perspective of participatory culture and technological determinism (specifically, utopian narratives)?
     
 
+  
   
 
 42. Is the perspective of participatory culture empowering or disempowering with regard to users, and why?
@@ -368,6 +458,8 @@ It reflected our fears about AI, such as their power and whether or not they hav
 
 43. Explain the assertion that “participation” is something to aspire to.
     
+
+Many people, in frequency, live on digital media. However, that doesn’t mean that those spaces are inherently democratic. Democracy and diversity are the important values of participatory culture. 
 
   
 
@@ -461,14 +553,21 @@ Gaming: informal community participatory politics :World of Warcraft 
 53. What is cancel culture, as we understand it in society now?
     
 
+- Collective strategies by activist using social pressures to achieve cultural ostracism (shunning)  of targets (someone or something) accused of offensive words or deeds
+    
+
   
 
 54. Explain the Dave Chappelle incident and criticism in which some thought activists were trying to “cancel” him. Was he really cancelled?
     
 
-  
+- Dave chappelle who is a comedian, mentioned how gender and sex are the same thing and made jokes which lead trans folks to feel “mocked”. He made a remark about being canceled and to “bring it on” type of deal. Activists were trying to cancel him as well as netflix for airing it. Also, netflix employees who were transgender decided to perform a walkout/strike. Not cancelled. 
+    
 
 55. Is the idea of “cancelling” someone new? What famous novel was used to demonstrate this point?
+    
+
+- No it is not new to public shame. The famous novel was the Scarlet Letter. 
     
 
   
@@ -476,42 +575,63 @@ Gaming: informal community participatory politics :World of Warcraft 
 56. Explain the two opposing perspectives we used to think about cancel culture. What examples did we use to demonstrate each perspective? 
     
 
+- First perspective, mob mentality & it is just public shaming that is out of control (mob mentality and public shaming run amok) – silences freedom of speech and open debates
+    
+- Second perspective, form of empowerment from those groups who lack power (a form of empowerment)
+    
+
   
 
 57. With regard to the perspective that views cancel culture as a form of empowerment, explain the assertion that analyses of “cancel culture” must start with the power relations by which it is defined.
     
 
-  
+- Damaging reputations, derailing careers, denying access to public platforms
+    
+- Effective tool for networked groups to achieve social justice and cultural change 
+    
 
 58. In which communities did “cancel culture” originate and in which community has “cancel culture” become popularized?
     
 
-  
-
-59. What role do digital media play in cancel culture? 
+- Originated in queer communities and popularized through black twitter (networked of culturally connected communications using the platform to draw attention to issues of concern to black communities)
     
 
-  
+59. What role does digital media play in cancel culture? 
+    
+
+- Grew among decentralized networks of like-minded digital activists mobilizing around progressive social causes and uniting around hashtags #blm #metoo
+    
+- Viral online posts with accusations spark coverage in mass media like cable tv, radio, etc. 
+    
+- Intense culture wars arise in part because of activists connected through digital social networks
+    
 
 60. Explain the following statement: The politics of outrage is thought to be reinforced by filter bubbles and echo chambers among like-minded people online.
     
 
-  
+- Filter bubbles is where we all have these F.B. and the only information entering is the one often consistent with what we already believe (algotherm) 
+    
+- People are largely living in echo chambers or hearing opinions about society that are close to what we already believe
+    
 
 61. What are two points of caution with regard to attributing “cancel culture” entirely to digital media communities?
     
 
-  
+- Culture wars intensified by right wing commentators on cable tv and talk radio and conservative newspaper in the UK 
+    
+- Think about the timeline when social media was invented and became popular (overstating the role of digital media in cancel culture) 
+    
 
 62. Why are cancellation – and its criticism – about power? Explain the following statement: Digital media are likely to reflect and reinforce cancelation practices rather than drive them.
     
 
-  
+- It is meant to hold people accountable for their actions and comments. 
+    
 
 # Unit 6
 
   
-  
+
 
 63. Explain the assertion that identity is constructed of language, social structures, gender orientation, and cultural patterns
     
