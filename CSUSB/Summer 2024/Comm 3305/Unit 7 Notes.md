@@ -140,4 +140,30 @@ Dominant discourses around sexuality (and gender) often view sec (and gender) as
 
 ![[Pasted image 20240627173613.png]]
 
-2. Are the expressions of gender and sexuality online infleucned by the technology being used, tje
+2. Are the expressions of gender and sexuality online influenced by the technology being used, the people using it, "society" at large, or all these?
+![[Pasted image 20240627174910.png]]
+
+3. How does the use of tech. **reward**, **discourage** or **punish** normative or non-normative gender or sexual identity?
+
+![[Pasted image 20240627175004.png]]
+
+![[Pasted image 20240627175012.png]]
+
+![[Pasted image 20240627175106.png]]
+
+![[Pasted image 20240627175222.png]]
+
+4. Participatory coommunities may resist dominant paradigms of economics, ownership, or intellectual property, but they often **invoke conventionally sexest tropes**
+![[Pasted image 20240627181340.png]]
+
+# Takeaways and Further Thought
+
+- Many scholars of identity: Race, gender, and sexuality are **socially constructed**
+- The internet has generally **not** brought about more equality and progress
+- By encouraging or praising or sanctioning certain kinds of behvaior/displays, the internet and digital media can **produce** race, gender, and sexuality
+- Technologies, human decisions, and society in general **all** help to produce online race, gender, and sexuality
+- But online communities can also be important spaces for **resistance** and **solidarity**
+- Other types of difference also important: (dis)ability, class, etc.
+
+
+![[Pasted image 20240627181437.png]]
