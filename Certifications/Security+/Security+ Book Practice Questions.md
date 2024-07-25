@@ -49,3 +49,47 @@
 48. C *Review tcpreplay, Cuckoo*
 49. B *Review Pseudo-anonmyization, Tokenization, Data minimization, and Anonymization, **Flag***
 50. C 
+
+# Chapter 1 Practice Test
+1. C
+2. B
+3. A
+4. A
+5. `A`
+6. `D` (**Flag**) Detective control
+7. D
+8. A
+9. B
+10. `B` (**Flag**)   managerial control 
+11. C
+12. D
+13. B
+14. A
+15. `B`   syslog
+# Chapter 2 Practice Test
+1. `E,F`      Facial recognition, Gait analysis
+2. `B` (**Flag**)
+3. B
+4. `B` (**Flag**)  CER
+5. B
+6. `A`
+7. C
+8. `D` (**Flag**)   User account, Service account
+9. D
+10. D
+11. C
+12. B
+13. D
+14. B
+15. C (**Flag**)  
+
+
+# Chapter 3 Practice Test
+# Chapter 4 Practice Test
+# Chapter 5 Practice Test
+# Chapter 6 Practice Test
+# Chapter 7 Practice Test
+# Chapter 8 Practice Test
+# Chapter 9 Practice Test
+# Chapter 10 Practice Test
+# Chapter 11 Practice Test
