@@ -85,7 +85,39 @@
 
 
 # Chapter 3 Practice Test
+1. `A`  SSL is deprecated and shouldn't be used
+2. B
+3. C
+4. `B` (**Flag**)
+5. A
+6. B
+7. B
+8. A
+9. B
+10. `C` (**Flag**)
+11. `D`
+12. A
+13. C (**Flag**)
+14. B
+15. `A E`
+
 # Chapter 4 Practice Test
+1. B (**Flag**)   Heuristic-based detection
+2. C
+3. C
+4. `D` (**Flag**)   Honeyfile
+5. `A` (**Flag**)   PEAP
+6. B (**Flag**)     Wireless Footprinting
+7. A
+8. C
+9. `D`    Evil twin
+10. `C`   Wireless Jamming
+11. `B`    Bluesnarfing
+12. B (**Flag**)    site-to-site 
+13. `C` (**Flag**)   Full tunnel VPN
+14. B
+15. D (**Flag**)     agentless network access control
+
 # Chapter 5 Practice Test
 # Chapter 6 Practice Test
 # Chapter 7 Practice Test
