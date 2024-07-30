@@ -2,7 +2,17 @@
 
 IRP Life cycle
 IRP Process
+Known Environment
+Unknown Environment
+Partially Known Environment
 Cyber Kill Chain
+Pharming
+smishing
+Vishing
+Pretexting
+Static Code Analysis
+Risk Register
+Dynamic Code Analysis
 MITRE ATT&CK Framework
 Diamond Model of Intrusion Analysis
 Normalization
@@ -15,12 +25,14 @@ Policy enforcement point
 Policy administrator
 		- The policy administrator exists in the control plane, and it sends decisions to the policy enforcement point (PEP). 
 BPDU Guard
+Integrity Measurements
 IV Attack
 Bluesnarfing
 Bluejacking
 Full tunnel VPN
 Split tunnel VPN
 Site-to-site VPN
+~ Remote Attestation
 ~ HoneyToken
 		- Fake record inserted into a database to detect data theft
 		- If you receive a message from an intentionally fake account that's never meant to be used, you know that your data was stolen
@@ -29,10 +41,13 @@ Site-to-site VPN
 ~WPA3
 		- Supports SAE
 		- SAE uses a passphrase but adds strong security defenses to the technology
-
+Active/active
+Active/Passive
+Persistence
 
 # Acronyms
 
+DRP
 ISA
 Air gapping - Network of devices that are separated from the internet and LANs. No physical or wireless connection to other networks
 IPsec
@@ -73,6 +88,7 @@ MTTR
 		- Ex: Two websites host by two different organizations, the organizations trust each other, and use SAML as a federated identity management system. 
 		- Authenticate with one website and don't have to authenticate with the other. (Google, Facebook)
 ~ Kerberos
+~ CASB
 ~ OAuth
 		- Open standard
 		- Provides secure access to protected resources
@@ -124,6 +140,11 @@ MTTR
 ~ Tokenization
 ~ Data Minimization
 ~ Anonymization
+~ SED
+~ 
+~ MDM
+~ VDI
+~ MAM
 ~ COPE
 	- Corporate owned personally enabled
 	- partitions for remote wipe
@@ -135,6 +156,8 @@ MTTR
 		- Low CER means more accurate
 ~OpenID Connect
 ~OAuth
+~SCAP
+~CVSS
 ~ SAML
 ~ TPM (*Trusted platform module*)
 		- Provides disk encryption

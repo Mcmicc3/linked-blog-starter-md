@@ -119,9 +119,89 @@
 15. D (**Flag**)     agentless network access control
 
 # Chapter 5 Practice Test
+1. B
+2. C
+3. D
+4. A
+5. B
+6. C
+7. C
+8. B
+9. A
+10. A (**Flag**)
+11. A
+12. D (**Flag**)
+13. D
+14. A
+15. A
 # Chapter 6 Practice Test
+1. B
+2. B
+3. D (**Flag**)
+4. B
+5. B
+6. A
+7. B
+8. B (**Flag**)
+9. B (**Flag**)
+10. B
+11. A
+12. D
+13. B
+14. D
+15. C
 # Chapter 7 Practice Test
+1. D
+2. A
+3. B
+4. D
+5. A
+6. A
+7. B
+8. A
+9. C (**Flag**)
+10. D
+11. D
+12. A (**Flag**)
+13. C
+14. A
+15. C
+
 # Chapter 8 Practice Test
+1. C (**Flag**)
+2. A (**Flag**)
+3. A
+4. B (**Flag**)
+5. D
+6. B (**Flag**)
+7. A
+8. D
+9. A (**Flag**)
+10. C
+11. D
+12. A (**Flag**)
+13. D (**Flag**)
+14. B
+15. A
+
 # Chapter 9 Practice Test
+1. A
+2. C
+3. B
+4. A,C,D
+5. D
+6. A
+7. C
+8. A
+9. C (**Flag**)
+10. C (**Flag**)
+11. B
+12. B
+13. D
+14. A
+15. B
+
+
 # Chapter 10 Practice Test
+
 # Chapter 11 Practice Test
