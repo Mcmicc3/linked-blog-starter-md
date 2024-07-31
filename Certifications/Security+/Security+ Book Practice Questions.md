@@ -69,28 +69,28 @@
 # Chapter 2 Practice Test
 1. `E,F`      Facial recognition, Gait analysis
 2. `B` (**Flag**)
-3. B
-4. `B` (**Flag**)  CER
+3. B              HOTP, TOTP, SMS
+4. `B` (**Flag**)  CER, FRR, FAR
 5. B
 6. `A`
 7. C
 8. `D` (**Flag**)   User account, Service account
 9. D
 10. D
-11. C
-12. B
+11. C     OpenID Connect, OAuth
+12. B      SAML, 
 13. D
 14. B
 15. C (**Flag**)  
 
 
 # Chapter 3 Practice Test
-1. `A`  SSL is deprecated and shouldn't be used
-2. B
-3. C
+1. `A`  SSL 
+2. B    SRTP
+3. C     
 4. `B` (**Flag**)
 5. A
-6. B
+6. B     port 587
 7. B
 8. A
 9. B
@@ -103,7 +103,7 @@
 
 # Chapter 4 Practice Test
 1. B (**Flag**)   Heuristic-based detection
-2. C
+2. C             BPDU Guard
 3. C
 4. `D` (**Flag**)   Honeyfile
 5. `A` (**Flag**)   PEAP
@@ -111,37 +111,37 @@
 7. A
 8. C
 9. `D`    Evil twin
-10. `C`   Wireless Jamming
-11. `B`    Bluesnarfing
-12. B (**Flag**)    site-to-site 
-13. `C` (**Flag**)   Full tunnel VPN
+10. `C`   Wireless Jamming, IV Attack
+11. `B`    Bluesnarfing, Bluejacking
+12. B (**Flag**)    site-to-site, full tunnel VPN, Split tunnel VPN, Remote access VPN
+13. `C` (**Flag**)   Full tunnel VPN, IPsec using Tunnel Mode, IPsec using Transport mode
 14. B
 15. D (**Flag**)     agentless network access control
 
 # Chapter 5 Practice Test
 1. B
-2. C
+2. C      
 3. D
 4. A
-5. B
-6. C
-7. C
-8. B
-9. A
-10. A (**Flag**)
+5. B       MDM, SED
+6. C       Remote attestation
+7. C       
+8. B        XaaS
+9. A        
+10. A (**Flag**)      CASB
 11. A
-12. D (**Flag**)
-13. D
-14. A
-15. A
+12. D (**Flag**)       FDE, SED, MAM
+13. D        VDI
+14. A         
+15. A          Sideloading
 # Chapter 6 Practice Test
 1. B
 2. B
-3. D (**Flag**)
+3. D (**Flag**)    Pretexting, Pharming, Smishing
 4. B
 5. B
 6. A
-7. B
+7. B                Vishing, 
 8. B (**Flag**)
 9. B (**Flag**)
 10. B
@@ -151,36 +151,36 @@
 14. D
 15. C
 # Chapter 7 Practice Test
-1. D
+1. D        
 2. A
 3. B
 4. D
 5. A
 6. A
 7. B
-8. A
-9. C (**Flag**)
+8. A    Obfuscation
+9. C (**Flag**)   Static code analysis, dynamic code analysis
 10. D
 11. D
-12. A (**Flag**)
-13. C
+12. A (**Flag**)  Normalization, stored procedures
+13. C    A race condition
 14. A
 15. C
 
 # Chapter 8 Practice Test
 1. C (**Flag**)
-2. A (**Flag**)
+2. A (**Flag**)        Risk register
 3. A
-4. B (**Flag**)
-5. D
-6. B (**Flag**)
+4. B (**Flag**)         Attestation
+5. D                  DNSEnum, 
+6. B (**Flag**) 
 7. A
 8. D
 9. A (**Flag**)
-10. C
+10. C                Persistence
 11. D
 12. A (**Flag**)
-13. D (**Flag**)
+13. D (**Flag**)      CVSS, SCAP, MITRE
 14. B
 15. A
 
@@ -189,19 +189,48 @@
 2. C
 3. B
 4. A,C,D
-5. D
+5. D          RAID-6
 6. A
 7. C
-8. A
+8. A           Active/active, Active/passive, persistence
 9. C (**Flag**)
 10. C (**Flag**)
 11. B
 12. B
-13. D
-14. A
+13. D          DRP, RTO
+14. A           RPO, 
 15. B
 
-
 # Chapter 10 Practice Test
+1. B
+2. A
+3. D
+4. B
+5. A
+6. A  (**Flag**)
+7. A (**Flag**)      CRL, CSR, OCSP
+8. B (**Flag**)
+9. B (**Flag**)
+10. B (**Flag**)   Perfect forward secrecy, Stapling, Pinning
+11. D
+12. D
+13. A
+14. C (**Flag**)  Domain validation, Extended Validation
+15. D (**Flag**)  Ephemeral, session, key escrow
 
 # Chapter 11 Practice Test
+1. A     AUP, MSA
+2. B
+3. A
+4. A
+5. A
+6. D
+7. C
+8. A
+9. AB
+10. D
+11. D
+12. A
+13. B (**Flag**)    Legal hold
+14. B
+15. A,B,D

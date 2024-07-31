@@ -1,75 +1,108 @@
 # Terms, Concepts, and Technologies
 
-IRP Life cycle
-IRP Process
-Known Environment
-Unknown Environment
-Partially Known Environment
-Cyber Kill Chain
-Pharming
-smishing
-Vishing
-Pretexting
-Static Code Analysis
-Risk Register
-Dynamic Code Analysis
-MITRE ATT&CK Framework
-Diamond Model of Intrusion Analysis
-Normalization
-acquisition
-Heuristic-based
+~ IRP Life cycle
+~ IRP Process
+~ Known Environment
+~ Unknown Environment
+~ Partially Known Environment
+~ Cyber Kill Chain
+~ Pharming
+~ smishing
+~ Vishing
+~ Pretexting
+~ Static Code Analysis
+~ Risk Register
+~ Dynamic Code Analysis
+~ MITRE ATT&CK Framework
+~ Diamond Model of Intrusion Analysis
+~ Normalization
+~ acquisition
+~ VPN concentrator
+		- Dedicated device used for VPNs, popular with Larger organizations
+		- Includes all the services needed to create a VPN, including strong encryption and authentication techniques, and it supports many clients
+		- Typically placed in a screened subnet
+		- The firewall between the internet and the screened subnet would forward VPN traffic to the VPN concentrator
+~ IEEE 802.1x
+		- Port-based authentication protocol.
+		- Requires users or devices to authenticate when they connect to a specific WAP or physical port
+		- Works for both physical, VPN connections and wireless networks
+~ Heuristic-based
 		- Also known as *Anomaly based*, or trend based.
 		- Identifies issues by comparing it against a baseline
-Policy enforcement point
+~ Policy enforcement point
 		- 
-Policy administrator
+~ Policy administrator
 		- The policy administrator exists in the control plane, and it sends decisions to the policy enforcement point (PEP). 
-BPDU Guard
-Integrity Measurements
-IV Attack
-Bluesnarfing
-Bluejacking
-Full tunnel VPN
-Split tunnel VPN
-Site-to-site VPN
+~ BPDU Guard
+~ Key escrow
+~ Integrity Measurements
+~ IV Attack
+		- IV is a number used by encryption systems
+		- A wireless IV attack attempts to discover the pre-shared key after first discovering the IV
+		- Some encryption systems reuse the same IV, making it easier to discover.
+		- Attackers use packet injection techniques. AP responds with more packets, increasing the probability that it will reuse a key. 
+~ Bluesnarfing
+		- Refers to the unauthorized access to, or theft of information from, a bluetooth device. 
+		- Attack can access information, such as email, contact lists, calendars, and text messages
+~ Bluejacking
+		- Practice of sending unsolicited messages to nearby bluetooth devices. 
+		- Messages are typically text but can also be images or sounds
+		- Relatively harmless but does cause some confusion when users start receiving messages. 
+~ Bluebugging
+		- Similar to bluesnarfing
+		- In addition to gaining full access, the attacker installs a backdoor
+		- Attackers can also listen to phone calls, enable call forwarding, send messages, and more
+~ Full tunnel VPN
+~ Split tunnel VPN
+~ Site-to-site VPN
+~ Attestation
+		- Formal process for reviewing user permissions. 
+		- Managers formally review each user's permissions and certify that those permissions are necessary to carry out the user's job responsibilities
 ~ Remote Attestation
 ~ HoneyToken
 		- Fake record inserted into a database to detect data theft
 		- If you receive a message from an intentionally fake account that's never meant to be used, you know that your data was stolen
 ~WPA2
 		- Supports PSK
-~WPA3
+~SAE Mode (WPA3)
 		- Supports SAE
 		- SAE uses a passphrase but adds strong security defenses to the technology
-Active/active
-Active/Passive
-Persistence
+		- Replaces PSK mode of WPA2
+~ Enhanced Open mode (WPA3)
+		- Replaces the insecure and unencrypted open mode of WPA2 with technology that uses strong encryption to protect the communications of unauthenticated users. 
+		- *Allows you to easily run a secure guest network*
+~ Enterprise mode  (WPA3)
+		- Just like enterprise mode in WPA2, uses a RADIUS server to authenticate a user
+~ Active/active
+~ Active/Passive
+~ Persistence
+
 
 # Acronyms
 
-DRP
-ISA
-Air gapping - Network of devices that are separated from the internet and LANs. No physical or wireless connection to other networks
-IPsec
-VPC endpoint?
-VPC - Virtual Private Cloud    (VPC Endpoint, peering, gateway transit Internet gateway)
-SED - Self encrypting drive 
-PBKDF2 - key stretching
-COOP - Continuity of Operations
-IoC - Indicators of Compromise
-MOA - Memorandum of Agreement
-ISA - Interconnection Security Agreement
-MSA - Measurement System Analysis
-DPO - Ensure data privacy regulation compliance
-Custodian/steward - responsible for managing data in alignment with data owner **big distinction between the data owner and the custodian**
-Data Processor - Handles data in accordance with privacy guidelines
-Data Controller - Ensures data complies with applicable regulations
-PHI (Protected Health Information)
-RPO
-RTO
-MTBF
-MTTF
-MTTR
+~ DRP
+~ ISA
+~ Air gapping - Network of devices that are separated from the internet and LANs. No physical or wireless connection to other networks
+~ IPsec
+~ VPC endpoint?
+~ VPC - Virtual Private Cloud    (VPC Endpoint, peering, gateway transit Internet gateway)
+~ SED - Self encrypting drive 
+~ PBKDF2 - key stretching
+~ COOP - Continuity of Operations
+~ IoC - Indicators of Compromise
+~ MOA - Memorandum of Agreement
+~ ISA - Interconnection Security Agreement
+~ MSA - Measurement System Analysis
+~ DPO - Ensure data privacy regulation compliance
+~ Custodian/steward - responsible for managing data in alignment with data owner **big distinction between the data owner and the custodian**
+~ Data Processor - Handles data in accordance with privacy guidelines
+~ Data Controller - Ensures data complies with applicable regulations
+~ PHI (Protected Health Information)
+~ RPO
+~ RTO
+~ MTBF
+~ MTTF
+~ MTTR
 
 ~ auth.log
 ~ aggregating
@@ -102,6 +135,7 @@ MTTR
 ~ WAF
 ~ DNSSEC
 ~ L2TP
+~ AUP
 ~ IPsec using Tunnel mode and transport mode
 ~ CYOD (*Choose your own device*)
 ~ Embedded RTOS
@@ -143,6 +177,9 @@ MTTR
 ~ SED
 ~ 
 ~ MDM
+~ SSL
+		- SSL is deprecated and shouldn't be used
+		- Replaced with TLS
 ~ VDI
 ~ MAM
 ~ COPE
@@ -155,10 +192,10 @@ MTTR
 ~ CER  (*Crossover Error Rate*)
 		- Low CER means more accurate
 ~OpenID Connect
-~OAuth
+~ RADIUS
+		-
 ~SCAP
 ~CVSS
-~ SAML
 ~ TPM (*Trusted platform module*)
 		- Provides disk encryption
 ~ Generic account (*Shared account*)
@@ -204,6 +241,16 @@ MTTR
 		- Supports older systems to run older authentication methods like PAP, within a TLS tunnel
 		- *Requires a certificate on the 802.1x server but not the clients*
 
+## Questions
+Which three pieces of information are needed for WPA2-Enterprise mode?
+1. IP of RADIUS Server
+2. Port of RADIUS Server
+3. Shared Secret
+
+What are the three modes of WPA3?
+1. Enhanced open mode
+2. SAE mode
+3. Enterprise mode
 ## Secure ports
 FTPS: port 990
 SRTP: port 5004
@@ -211,6 +258,8 @@ SFTP: port 22 (just like SSH)
 LDAPS: 636
 LDAP: 389
 587
+
+## General
 
 
 
