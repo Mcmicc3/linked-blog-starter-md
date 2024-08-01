@@ -84,6 +84,17 @@
 ~ ISA
 ~ Air gapping - Network of devices that are separated from the internet and LANs. No physical or wireless connection to other networks
 ~ IPsec
+		- Method of encrypting data in transit
+		- Supports both Tunnel mode and Transport mode
+		- IPsec provides security in two ways, *Authentication* and *encryption*
+			- IPsec includes an Authentication Header (AH) to allow each of the IPsec conversations hosts to authenticate with each other before exchanging data
+			- IPsec includes Encapsulation Security Payload (ESP) to encrypt the data and provide CIA. 
+~ Tunnel mode (IPsec)
+		- Encrypts the entire IP packet, including both the payload and the packet headers
+		- VPNs commonly use Tunnel mode
+		- **Benefit**: IP addressing used within the **internal network is encrypted** and not visible to anyone who intercepts the traffic
+~ Transport mode (IPsec)
+		- Only encrypts the payload and is **commonly used in private networks**, but **not with VPNs**.
 ~ VPC endpoint?
 ~ VPC - Virtual Private Cloud    (VPC Endpoint, peering, gateway transit Internet gateway)
 ~ SED - Self encrypting drive 
@@ -136,7 +147,6 @@
 ~ DNSSEC
 ~ L2TP
 ~ AUP
-~ IPsec using Tunnel mode and transport mode
 ~ CYOD (*Choose your own device*)
 ~ Embedded RTOS
 ~ Shadow IT
