@@ -17,6 +17,18 @@
 ~ Diamond Model of Intrusion Analysis
 ~ Normalization
 ~ acquisition
+
+~ VM Sprawl
+		- Occurs when an organization has many VMs that aren't appropriately managed.
+		- Someone makes a test VM. The admin orchestrates a software patch for all the VMs, but because he's unaware of this one, it doesn't get updated, leaving it vulnerable for an attack. 
+~ Resource Reuse
+		- In the context of cloud computing risks refers to the potential for data or resources to remain on a shared infrastructure even after a customer has finished using them, making them potentially accessible to other users of the cloud service.
+		- Leads to risk of data leakage, as well as unauthorized access to sensitive data or systems. 
+~ Agent NAC
+		- Agents on clients can be either *permanent* or *dissolvable*. A permanent agent (sometimes called a *persistent NAC agent*) is installed on the client and stays on the client. NAC uses the agent when the client attempts to log on remotely
+		- A dissolvable agent is downloaded and runs on the client when the client logs on remotely. It collects the information it needs, identifies the client as healthy or not, and reports the status back to the NAC system. Others remove themselves after the remote session ends.
+~ Agentless NAC
+		- Scans a client remotely without installing code on the client, either permanently or temporarily,. This is similar to how vulnerability scanners scan network systems looking for vulnerabilities.
 ~ VPN concentrator
 		- Dedicated device used for VPNs, popular with Larger organizations
 		- Includes all the services needed to create a VPN, including strong encryption and authentication techniques, and it supports many clients
@@ -34,6 +46,7 @@
 ~ Policy administrator
 		- The policy administrator exists in the control plane, and it sends decisions to the policy enforcement point (PEP). 
 ~ BPDU Guard
+		- Used to protect against BPDU-related attacks
 ~ Key escrow
 ~ Integrity Measurements
 ~ IV Attack
@@ -52,13 +65,35 @@
 		- Similar to bluesnarfing
 		- In addition to gaining full access, the attacker installs a backdoor
 		- Attackers can also listen to phone calls, enable call forwarding, send messages, and more
-~ Full tunnel VPN
-~ Split tunnel VPN
-~ Site-to-site VPN
 ~ Attestation
 		- Formal process for reviewing user permissions. 
 		- Managers formally review each user's permissions and certify that those permissions are necessary to carry out the user's job responsibilities
+~ Measured Boot
+		- Form of boot integrity. 
+		- Goes through enough of the boot process to perform these checks without allowing a user to interact with the system. If it detects that the system has lost integrity and can no longer be trusted, the system won't boot. 
+~ TPM
+		- Hardware chip *embedded* on the *computer's motherboard* that stores cryptographic keys used for encryption. Most Desktop and laptop computers include a TPM
+		- Once enabled, the TPM provides full disk encryption capabilities. 
+		- It keep shard drives encrypted and protected until the system completes a system verification and authentication process
+		- Has an endorsement key, which is a unique asymmetric key pair burned into the TPM chip that provides a hardware root of trust. 
+~ Secure Boot Attestation
+		- A process that is supported by TPM
+		- When the TPM is configured, it captures signatures of key files used to boto the computer and stores a report of the signatures securely within the TPM. 
+		- When the system boots, the *Secure boot* process checks the files against the stored signatures to ensure they haven't changed. 
+		- If it detects that the files have been modified, such as from malware, it blocks the boot process to protect the date on the drive. 
+~ HSM (*Hardware security module*)
+		- Security device you can add to a system to manage, generate, and securely store cryptographic keys. 
+		- High-performance HSMs are externel network appliances using a TCP/IP network connection. Smaller HSMs come as expansion cards you install within a server or as devices you plug into computer ports
+		- Difference between TPM is that HSMs are *removeable* or *external devices*. 
+		- Both HSM and TPM provide secure encryption capabilities by storing and using encryption keys. 
+~ microSD HSM
+		- microSD card that includes an HSM. 
+		- Supports cryptographic operations like encryption, decryption, digital signatures, generates hashes.
+		- 
 ~ Remote Attestation
+		- Form of Boot integrity through TPM
+		- A process that works like the secure boot process. However, instead of checking the boot files against the report stored in the TPM, it uses a separate system. Again, when the TPM is configured, it *captures* the *signatures of key files*, but *sends this report to a remote system*.
+		- When the system boots, it checks the files and sends a current report to the remote system. The remote system verifies the files are the same and attests, or confirms, that the system is safe. 
 ~ HoneyToken
 		- Fake record inserted into a database to detect data theft
 		- If you receive a message from an intentionally fake account that's never meant to be used, you know that your data was stolen
@@ -76,6 +111,11 @@
 ~ Active/active
 ~ Active/Passive
 ~ Persistence
+~ Wireless Footprinting
+		- Creates a detailed diagram of wireless access points and hotspots within an organization. 
+		- Typically displays a heat map and dead spots if they exist
+~ Wi-Fi Analyzers
+		- Provide a graph showing channel overlaps but not a diagram of wireless access points
 
 
 # Acronyms
@@ -88,13 +128,44 @@
 		- Supports both Tunnel mode and Transport mode
 		- IPsec provides security in two ways, *Authentication* and *encryption*
 			- IPsec includes an Authentication Header (AH) to allow each of the IPsec conversations hosts to authenticate with each other before exchanging data
-			- IPsec includes Encapsulation Security Payload (ESP) to encrypt the data and provide CIA. 
 ~ Tunnel mode (IPsec)
 		- Encrypts the entire IP packet, including both the payload and the packet headers
 		- VPNs commonly use Tunnel mode
 		- **Benefit**: IP addressing used within the **internal network is encrypted** and not visible to anyone who intercepts the traffic
 ~ Transport mode (IPsec)
 		- Only encrypts the payload and is **commonly used in private networks**, but **not with VPNs**.
+~ Full tunnel VPN
+		- All traffic goes through the encrypted tunnel while the user is connected to the VPN. 
+		- Disadvantage is that it's slow
+~ Split tunnel VPN
+		- An administrator decides what traffic should use the encrypted VPN tunnel. 
+		- Possible to configure the tunnel to encrypt only the traffic going to the private IP address used within the private network.
+~ Site-to-site VPN
+		- Includes two VPN servers that act as gateways for two networks separated geographically. 
+		- Example: One VPN is on the headquarters, and the other is a remote site
+		- Transparent to end users, they're unaware of it
+~ Always-On VPN
+		- Can be used with site-to-site VPNs and direct access VPNs
+		- On mobile, if a user connects to free internet access at a coffee shop, the device will automatically connect to the always-on VPN
+~ L2TP as a Tunneling Protocol
+		- Also used for VPNs. 
+		- Doesn't provide encryption, usually used with IPsec, then passed to L2TP for transport
+~ PAP
+		- Used for authentication, *No longer supported*
+		- Used with dial-up connections
+~ CHAP
+		- Uses Point-to-Point (PPP) for authentication but more secure
+		- Goal is to allow the client to pass credentials over a public network without allowing attackers to intercept the data and later use it in an attack
+		- Client and server both know a shared secret
+~ TACACS+ 
+		- Alternative to RADIUS, and provides two essential security benefits
+		- First, it encrypts the entire authentication process, whereas RADIUS encrypts the password only (by default)
+		- Second, TACACS+ uses multiple challenges and responses between the client and the server
+		- **Cisco** created TACACS+, and it can interact with Kerberos, allowing a VPN concentrator to interact in a Active Directory environment. *Reminder, AD uses Kerberos for authentication* 
+~ RADIUS
+		- Centralized authentication server. All requests for every sensitive resources gets authenticated by the RADIUS server
+		- Can be used as an 802.1x server with WPA2 & WPA3 Enterprise mode. 
+		- Can be used with EAP to encrypt entire sessions
 ~ VPC endpoint?
 ~ VPC - Virtual Private Cloud    (VPC Endpoint, peering, gateway transit Internet gateway)
 ~ SED - Self encrypting drive 
@@ -114,7 +185,16 @@
 ~ MTBF
 ~ MTTF
 ~ MTTR
-
+~ DLP (*Data Loss Prevention*)
+		- Techniques and technologies used to prevent data exfiltration
+		- They can block USB flash drives and control the sue of removable media. They can also examine outgoing data and detect many types of unauthorized data transfers
+		- In network-based DLP, all traffic leaving the network is directed through an appliance that can examine the traffic by searching for specific key words, phrases, or character strings. 
+		- Software based DLP is installed on individual systems, identifying data exfiltration attempts and blocking them from succeeding. 
+		- It can sniff through email attachements, zip folders, emails
+~ EDR (*Endpoint Detection and Response*)
+		- Endpoint Security Software technology that focuses on detecting and responding to threats at the endpoint level, often using advanced behavioral analysis techniques to identify suspicious activity and contain threats before they can cause damage
+~ XDR (*Extended Detection and Response*) 
+		- Is a next-generation security technology that goes beyond the endpoint to include other types of devices and systems, such as network devices, cloud infrastructure, and IoT devices, providing a more comprehensive view of the entire IT environment and enabling faster threat detection and response. 
 ~ auth.log
 ~ aggregating
 ~ syslog
@@ -132,6 +212,7 @@
 		- Ex: Two websites host by two different organizations, the organizations trust each other, and use SAML as a federated identity management system. 
 		- Authenticate with one website and don't have to authenticate with the other. (Google, Facebook)
 ~ Kerberos
+		- Used to authenticate inside Active Directory environments
 ~ CASB
 ~ OAuth
 		- Open standard
@@ -139,10 +220,7 @@
 		- Downloading an app, and it requests access to your google calendar, We are giving this application authorization, without giving it our password, or anything else.
 		- Auth in this case stands for *Authorization*, not authentication!
 ~ ESP
-~ TPM
-~ HSM (*Hardware security module*)
-		- SD card used for smart phones
-		- Supports cryptographic operations like encyption, decryption, digital signatures, generates hashes, 
+
 ~ WAF
 ~ DNSSEC
 ~ L2TP
