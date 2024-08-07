@@ -1,6 +1,48 @@
 # Terms, Concepts, and Technologies
 
-~ IRP Life cycle
+~ Centralized model
+		- Centralized is an architecture model that involves using a single point of control or authority to manage a system or service. 
+		- Centralized systems or services can have advantages such as simplicity, consistency, and security, but also disadvantages such as single point of failure, scalability issues, and lack of autonomy.
+~ Decentralized Model
+		- Decentralized is an architecture model that involves using multiple distributed points of control or authority to manage a system or service. 
+		- Decentralized systems or services can have advantages such as resilience, scalability, and autonomy, but also disadvantages such as complexity, inconsistency, and security challenges.
+~ On-Premises model
+		- On-premises is an architecture model that involves hosting and managing infrastructure on the organization’s own premises. 
+		- It can be centralized *or* decentralized.
+~ Regulated data
+		- Regulated data implies that it's a category of data that adheres to specific compliance standards due to its sensitive nature.
+~ Rule-based access control
+		- "Rule-based access control" is a broad term that can encompass various access control mechanisms.
+~ Gap Analysis
+		- A gap analysis identifies the differences between the current state of a system or process and its desired future state, providing a roadmap for achieving those desired outcomes.
+~ Threat scope reduction
+		- Threat scope reduction refers to the proactive steps and strategies taken to reduce the potential areas of attack within a system or network. 
+		- By limiting the avenues that attackers can exploit, organizations can more effectively secure their assets.
+~ Recurring Report
+		- A recurring report is a report generated at regular intervals, such as weekly, monthly, or quarterly, to keep stakeholders updated on ongoing security metrics, trends, and concerns.
+~ Policy Review
+		- A policy review is a periodic assessment of the organization's security policies to ensure they remain current and effective.
+~ Threat Intelligence Briefing
+		- A threat intelligence briefing is a specialized report highlighting current and emerging threats, often sourced from external threat intelligence providers.
+~ Incident Report
+		- An incident report is a detailed account of a specific security breach or event, outlining what occurred, its impact, and the steps taken in response.
+~ Directive Control
+		- Directive controls guide actions and ensure consistent behavior or actions within an organization.
+~ Synchronized backups
+		- Synchronized backups refer to the continuous updating of backup copies as changes occur in real-time, but the location isn't necessarily offsite.
+~ Serverless Architecture
+		- Serverless architecture is a cloud-computing model focusing on applications’ runtime
+~ Responsibility Matrix
+		- A responsibility matrix in cloud architecture is crucial for clearly defining the roles and responsibilities between the client and the cloud service provider, ensuring accountability and security compliance.
+~ Horizontal Password Attack
+		- In a horizontal password attack, an attacker targets multiple accounts by trying a few common passwords across them.
+		- It's a method to bypass account lockout policies that would trigger if too many failed attempts are made on a single account.
+~ Vertical password attack
+		- A vertical password attack involves targeting a single user account and trying a large number of password combinations until the correct one is found.
+		- Brute force??
+~ Credential Stuffing
+		- In a credential stuffing attack, an adversary uses previously stolen username-password pairs to gain unauthorized access.
+~ IRP Life cycle  
 ~ IRP Process
 ~ Known Environment
 ~ Unknown Environment
@@ -12,7 +54,8 @@
 ~ Pretexting
 ~ Static Code Analysis
 ~ Risk Register
-~ Dynamic Code Analysis
+~ Dynamic Analysis (Dynamic Code Analysis)
+		- Dynamic analysis evaluates software during its runtime, aiming to uncover vulnerabilities that might not be visible in a static state.
 ~ MITRE ATT&CK Framework
 ~ Diamond Model of Intrusion Analysis
 ~ Normalization
@@ -116,13 +159,25 @@
 		- Typically displays a heat map and dead spots if they exist
 ~ Wi-Fi Analyzers
 		- Provide a graph showing channel overlaps but not a diagram of wireless access points
-
-
+~ Air gapping 
+		- Network of devices that are separated from the internet and LANs. No physical or wireless connection to other networks
+		- An air-gapped network is a network that is physically isolated from other networks and the internet. This provides a high level of security, but also limits the functionality and connectivity of the network.
+~ Race condition 
+		- 
 # Acronyms
 
+~ DKIM
+		- implementing DKIM (DomainKeys Identified Mail), allows companies to sign emails originating from their domain cryptographically.
+		- This allows receivers to verify that an email claiming to be from the domain genuinely is.
+~ SPF
+		- SPF (Sender Policy Framework) is valuable in identifying which servers are authorized to send emails on behalf of a domain, it doesn't cryptographically sign the emails for this assurance.
+~ DMARC
+		- DMARC (Domain-based Message Authentication, Reporting, and Conformance) uses the results of DKIM and SPF checks, but on its own, it doesn't cryptographically sign emails.
 ~ DRP
 ~ ISA
-~ Air gapping - Network of devices that are separated from the internet and LANs. No physical or wireless connection to other networks
+~ SDN
+		- Software-defined networking (SDN) is a paradigm that decouples the control plane from the data plane in a network, allowing for centralized and dynamic management of network resources and policies. 
+		- This provides greater flexibility, efficiency, and automation of the network.
 ~ IPsec
 		- Method of encrypting data in transit
 		- Supports both Tunnel mode and Transport mode
@@ -172,9 +227,17 @@
 ~ PBKDF2 - key stretching
 ~ COOP - Continuity of Operations
 ~ IoC - Indicators of Compromise
-~ MOA - Memorandum of Agreement
+~ MOA  (*Memorandum of Agreement*)
+		- The Memorandum of Understanding (MOU) outlines the terms of a partnership between two organizations and how they will collaborate on specific projects or initiatives.
+		- While it may establish the overall collaboration, it does not include service levels and performance metrics.
+		- Not legally binding
 ~ ISA - Interconnection Security Agreement
 ~ MSA - Measurement System Analysis
+~ MSA (*Master Service Agreement*)
+		- The Master Service Agreement is a comprehensive document that establishes the overall framework for a long-term business relationship between a company and a vendor 
+		- It outlines the general terms and conditions, but it does not specifically detail the service levels and performance metrics.
+~ SOW (*State of Work*) or WO (*Work Order*)
+		- The Work Order (WO) or Statement of Work (SOW) is a document that provides detailed instructions and requirements for specific tasks or projects to be carried out by the vendor. It may include information on deliverables, timelines, and costs, but it **does not** focus on service levels and performance metrics.
 ~ DPO - Ensure data privacy regulation compliance
 ~ Custodian/steward - responsible for managing data in alignment with data owner **big distinction between the data owner and the custodian**
 ~ Data Processor - Handles data in accordance with privacy guidelines
@@ -195,6 +258,9 @@
 		- Endpoint Security Software technology that focuses on detecting and responding to threats at the endpoint level, often using advanced behavioral analysis techniques to identify suspicious activity and contain threats before they can cause damage
 ~ XDR (*Extended Detection and Response*) 
 		- Is a next-generation security technology that goes beyond the endpoint to include other types of devices and systems, such as network devices, cloud infrastructure, and IoT devices, providing a more comprehensive view of the entire IT environment and enabling faster threat detection and response. 
+		- The main significance of implementing XDR in the given scenario is its ability to integrate and correlate security data from various sources, such as endpoints, network, and cloud environments. 
+		- By doing so, XDR can detect and respond to sophisticated, multi-vector cyber threats more effectively, which aligns with XYZ Corp's goal to address the increase in sophisticated cyberattacks. While XDR may contribute to enforcing security policies, its **primary role** is to detect and respond to multi-vector cyber threats across the IT environment.
+		- XDR's primary purpose is to enhance threat detection and response capabilities.
 ~ auth.log
 ~ aggregating
 ~ syslog
@@ -230,26 +296,30 @@
 ~ Shadow IT
 ~ Authorized Hacker
 ~ Criminal Syndicate
-~ Race condition exploit
+
 ~ Pointer/object dereference
 ~ Dynamic code analysis
 ~ Normalization
 ~ Risk Register
 ~ SOAR
-~ SLE  
-		- *Single loss expextancy. Cost of loss per occurrence*
-~ ARO
-~ ALE
+~ SLE (*Single loss expextancy*) 
+		- Cost of loss per occurrence
+~ ARO (*Anual Rate of Occurance*)
+~ ALE (*Annual Loss Expectancy*)
 ~ Credentialed scan 
-		- *Vulnerability scan that includes credentials*
+		- Vulnerability scan that includes credentials
 ~ Non Credentialed scan 
-		- *Vulnerability scan that doesn't include credentials*
-~ MTBF 
-		- *Mean Time Before Failure. Average time things that can't be repaired break, like HDDs or routers*
+		- Vulnerability scan that doesn't include credentials
+~ MTBF (*Mean Time Before Failure*)
+		-  Average time things that can't be repaired break, like HDDs or routers
 ~ RTO
 ~ RPO
 ~ Rainbow table
-~ Password Spraying
+~ Password Spraying (Spraying Attack)
+		- A spraying attack is a type of password attack that involves trying common passwords against multiple accounts, hoping to find a match.
+~ TOU (*Time of Use*)
+		- A Time-of-use (TOU) vulnerability arises when there's an opportunity for an attacker to manipulate a resource after its creation but before its use by an application
+		- An application creates a temporary file with stored data in it to be used later, but an attacker deletes it, or manipulates it before the application can use that file
 ~ CRL
 ~ OCSP
 ~ CSR
@@ -339,6 +409,22 @@ What are the three modes of WPA3?
 1. Enhanced open mode
 2. SAE mode
 3. Enterprise mode
+
+What is the significance of SNMP?
+1. SNMP's main main purpose is the managing and monitoring network devices.
+2.  It provides capabilities to handle network performance, control network configurations, and store data related to various network components.
+3. It allows network administrators to monitor performance, troubleshoot issues, as well as plan for future network growth
+4. SNMP does aid in collecting data from different network devices to maintain proper functionality and security
+
+How do you calculate the ALE?
+- The ALE is calculated by multiplying the SLE by the ARO
+
+What is the difference between an amplified attack, and a reflected attack
+1. An amplified attack is a type of DDoS attack that involves sending requests with spoofed source IP addresses to servers that generate large responses, amplifying the traffic sent to the target server. 
+2. A reflected attack is a type of distributed denial-of-service (DDoS) attack that involves sending requests with spoofed source IP addresses to servers that redirect the responses to the target server, reflecting the traffic back to it.
+
+In digital forensics, What is MOST crucial to consider when determining the requirements for an investigative report?
+- Understanding the audience, whether it's legal professionals, executives, or technical teams, determines the report's depth, language, and emphasis.
 ## Secure ports
 FTPS: port 990
 SRTP: port 5004
@@ -348,7 +434,6 @@ LDAP: 389
 587
 
 ## General
-
 
 
 
