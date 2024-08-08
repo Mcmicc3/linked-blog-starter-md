@@ -1,5 +1,6 @@
 # Terms, Concepts, and Technologies
 
+
 ~ Centralized model
 		- Centralized is an architecture model that involves using a single point of control or authority to manage a system or service. 
 		- Centralized systems or services can have advantages such as simplicity, consistency, and security, but also disadvantages such as single point of failure, scalability issues, and lack of autonomy.
