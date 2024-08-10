@@ -1,5 +1,26 @@
 # Terms, Concepts, and Technologies
 
+~ Policy-driven access control
+		- Policy-driven access control is an approach where permissions are set based on organizational policies, roles, or requirements, ensuring that users have the right level of access that aligns with their job functions or responsibilities. 
+		- Permissions are assigned based on predefined roles in an organization, and individuals are then assigned to those roles. 
+		- Users are given the minimum levels of access necessary to perform their job functions. If a condition is not explicitly met, access is denied by default.
+~ Unique Secret Keys
+		- Unique secret keys for programmatic access are crucial for ensuring that interactions with the cloud are secure and authenticated.
+~ Infrastructure Monitoring
+		- Infrastructure monitoring is focused on ensuring the foundational IT components, like servers, data centers, and networking equipment, are both functional and secure.
+~ Systems Monitoring
+		- Systems monitoring evaluates the hardware, operating systems, and the essential services that applications run on
+~ Application Monitoring
+		- Applications monitoring pertains to overseeing individual software solutions and ensuring their security and performance.
+~ Passive Mode
+		- In passive mode, the firewall monitors traffic without actively blocking or allowing it. 
+		- This can be useful for observing traffic patterns but wouldn't be ideal for a mission-critical system where active protection is essential.
+~ Fail-Open
+		- A fail-open mode would allow all access requests during a malfunction. 
+		- In a high-security environment, this could lead to unauthorized access to sensitive data.
+~ Fail-closed
+		- When security is paramount, as with sensitive data storage, a fail-closed mode ensures that all access requests are denied during system malfunctions, preventing any potential unauthorized access.
+		- This method involves limiting traffic based on a predefined rate.
 ~ Technical Debt
 		- Technical debt represents the future cost of rectifying present-day shortcuts or less optimal solutions. 
 		- It can arise when known inefficiencies aren't addressed due to various constraints, like time.
@@ -344,6 +365,23 @@
 		- They may have authority over the security of a particular system or data repository
 # Acronyms
 
+~ SASE (*Secure Access Service Edge*)
+		- SASE (Secure access service edge) combines network security and WAN capabilities in a single cloud-based service, making it an ideal solution for ensuring secure and reliable access to data and applications irrespective of user/device location.
+~ SIEM (*Security Information and Event Management*)
+		- Their primary purpose is to provide real-time analysis of security alerts and to offer a holistic view of an organization's security scenario
+		- SIEM systems can indeed create and maintain a record of an organization's IT equipment as a part of their comprehensive data collection. 
+		- One of the critical roles of SIEM is the real-time monitoring and analysis of security alerts across an organization's network. 
+		- SIEM systems collect and aggregate log data from an array of sources within an organization’s IT infrastructure, providing a centralized view of the security landscape.
+		- SIEM systems are **NOT** primarily used for software procurement or asset management.
+~ RDP (*Remote Desktop Protocol*)
+		- Remote Desktop Protocol (RDP) port is a type of open service port that is commonly used for remote desktop servers and can be exploited by attackers to perform screen capture, keystroke logging, or malware delivery attacks. 
+		- It is the default port for RDP, the protocol used to remotely control a Windows based system’s desktop.
+~ SSH (*Secure Shell*)
+		- Secure Shell (SSH) port is a type of open service port that is commonly used for remote access servers and can be exploited by attackers to perform on-path attacks, such as session hijacking or replay. 
+		- It is the default port for SSH, the protocol used to securely access remote systems. SSH is cross-platform, not Windows based.
+~ VNC (*Virtual Network Computing*)
+		- Virtual Network Computing (VNC) port is a type of open service port that is commonly used for remote desktop servers and can be exploited by attackers to perform screen capture, keystroke logging, or malware delivery attacks. 
+		- It is the default port for VNC, the protocol used to remotely view and interact with a system’s desktop. It is not specific to Windows-based systems.
 ~ SQLi (*Structured Query Language Injection*)
 		- SQLi is a web-based vulnerability that occurs when an attacker injects malicious SQL statements into a database query that is then executed by the database server. 
 		- The statements can manipulate or extract data from the database, or execute commands on the server.
@@ -475,6 +513,7 @@
 		- The data controller is the entity that determines the purposes, conditions, and means of processing personal data. 
 		- They make decisions about how and why data is processed.
 		- their role is more focused on data **governance** **and compliance** with data protection regulations.
+		- The controller is responsible for defining how personal data is handled and ensuring it meets GDPR and other regulatory requirements.
 ~ Data Broker
 		- A data broker collects and sells data to other organizations
 ~ PHI (Protected Health Information)
@@ -508,18 +547,23 @@
 		- When you think about it, Windows is build with DAC
 		- Has three modes: Enforcing mode, Permissive mode, Disabled mode. 
 ~ SAML (*Security Assertion Markup Language*)
-		- Used for SSO
+		- Implementing a federation protocol, such as Security Assertion Markup Language (SAML), is the most effective approach for achieving a seamless user login experience for both internal employees and external partners. 
+		- SAML allows for the secure exchange of authentication and authorization data between different organizations, enabling users to log in using their own organization's credentials while accessing resources and applications from other federated organizations without the need for separate accounts. 
+		- It simplifies identity management and enhances user experience while maintaining centralized control.
 		-  XML based data format used for SSO on web browsers. 
 		- Ex: Two websites host by two different organizations, the organizations trust each other, and use SAML as a federated identity management system. 
-		- Authenticate with one website and don't have to authenticate with the other. (Google, Facebook)
+		- Authenticate with one website and don't have to authenticate with the other. 0\(Google, Facebook)
+		- SAML is an XML-based standard for exchanging authentication and authorization data between parties. It's focused more on Single Sign-On (SSO)
 ~ Kerberos
 		- Used to authenticate inside Active Directory environments
+		- Kerberos is an authentication protocol that uses tickets to prevent eavesdropping and replay attacks. It relies on a trusted third-party, the Key Distribution Center (KDC), to facilitate mutual authentication between clients and services.
 ~ CASB
 ~ OAuth
 		- Open standard
 		- Provides secure access to protected resources
 		- Downloading an app, and it requests access to your google calendar, We are giving this application authorization, without giving it our password, or anything else.
 		- Auth in this case stands for *Authorization*, not authentication!
+		- OAuth is an open standard for access delegation. It allows third-party services to use account information without exposing user passwords.
 ~ ESP
 ~ WAF (*Web Application Firewall*)
 		- Web application firewalls (WAF) are used to prevent attacks on backend databases and web server based software. 
@@ -636,6 +680,7 @@
 		- Core component of SSO
 		- Allows users and applications to **retrieve information** about users from the organization's directory = a centralized repository of information about **user accounts, devices, and other objects**
 		- **Handles queries** for Active Directory 
+		- LDAP is a protocol used to access and manage directory information over a network.
 ~ Federation
 		- Supports SSO for users in different environments/separate networks
 		- With my credentials in this company, I can access files from another without signing in again. 
@@ -740,6 +785,16 @@ What is an example of the CVE format:
 Why are CVEs important to Cybersecurity Professionals?
 - CVEs allow cybersecurity professionals to talk about vulnerabilities in a consistent manner, ensuring everyone is on the same page.
 - Standardized way of sharing vulnerability data
+
+What is an example of the importance of automating user provisioning?
+- Automated user provisioning helps in granting immediate access rights, reducing waiting times and hence improving productivity
+
+What is the significance of the key length in encryption standards?
+- Key length in encryption determines the minimum length that an encryption key can be to ensure a strong level of security. 
+- While length will impact the key's complexity, the key length doesn't set other factors beyond the minimum length.
+
+What is a common issue with SCADA systems?
+- Many SCADA systems utilize legacy communication protocols that lack modern security features, making them vulnerable to unauthorized interception or tampering.
 ## Secure ports
 FTPS: port 990
 SRTP: port 5004
