@@ -1,5 +1,86 @@
 # Terms, Concepts, and Technologies
-
+~ Ease of Deployment
+		- Ease of Deployment assesses how straightforward a system can be set up
+~ Compute
+		- Compute resources, encompassing CPU, memory, and storage, are fundamental in virtualized environments, acting as the backbone that ensures virtual machines (VMs) operate efficiently and meet the demands of various applications and services
+~ Restricted Activities
+		- Restricted activities are specific actions that are not permitted to be performed due to policies or security reasons.
+~ Intelligence Agencies
+		- Intelligence agencies collect and analyze information related to national security
+~ Regulatory Agencies
+		- Regulatory agencies have the authority to create and enforce rules and standards that organizations in various sectors must follow to ensure security and compliance.
+~ Jump Server
+		- A jump server is used as an intermediary for managing devices in a separate security zone
+~ Adaptive Policy Enforcement / Adaptive Identity?
+		- Adapting access decisions in real-time based on ongoing user actions
+		- Continuously assesses risk and behavior
+		- Adaptively enforce policies
+~ Detection Phase
+		- Primarily focused on **identifying and classifying incidents** based on their **severity and impact.**
+~ Eradication Phase
+		- Removing the root cause of the incident to **prevent recurrence** is part of the Eradication phase in the **incident response process**
+~ Root Cause Analysis
+		- Root Cause Analysis is crucial in **incident response** as it helps to **understand how the incident occurred, what vulnerabilities were exploited, and how to prevent similar incidents in the future.** 
+		- By identifying the root cause, organizations can address underlying weaknesses in their security measures and implement necessary improvements to enhance their overall security posture.
+~ Package Monitoring
+		- Package monitoring involves keeping track of software packages for updates or changes, ensuring they're secure and don't contain vulnerabilities, crucial in environments with many dependencies.
+~ Content Categorization
+		- Content categorization systematically **classifies websites** based on their overall theme, making it **easier to block** access to unsuitable or irrelevant categories of web content.
+~ Full Backup
+		- A full backup involves making a complete copy of all data in the system. While comprehensive, it's typically scheduled to occur at regular intervals (e.g., nightly or weekly)
+~ Differential Backup
+		- Differential backups capture all changes made since the last full backup.
+		- Accumulate changes since the last full backup
+~ Incremental Backup
+		- Incremental backups save only the changes made since the last backup, whether that was a full or another incremental backup.
+~ Journaling
+		- Journaling is a form of backup that involves recording all transactions in a system which can be used to restore the system to a previous state.
+~ Approval Process
+		- The approval process ensures that proposed changes in an organization are properly evaluated and authorized, helping to manage risks and align with business goals.
+~ Testing Process
+		- Testing Processes focuses mainly on checking the functionality and is typically done after a change is approved.
+~ Development Process
+		- Development Processes are centered on creating new tools or systems.
+~ Deployment Process
+		- Deployment Processes handle the actual implementation of changes and occurs after the approval process, without involving the initial evaluations or approvals.
+~ Attack Surface Management
+		- Managing the attack surface encompasses reducing potential points of access for threats
+~ Playbooks
+		- Playbooks are comprehensive sets of instructions that outline predefined responses to specific situations or events. 
+		- They are often used in incident response and cybersecurity for guiding actions during security incidents. 
+		- Valuable for incident management
+~ Microgrids
+		- primarily focus on creating local energy grids that can disconnect from the traditional grid and operate autonomously.
+~ Change Management
+		- The change management procedure outlines the steps and guidelines for managing changes to IT systems within an organization. 
+		- It includes processes for requesting, evaluating, approving, implementing, and reviewing changes to minimize the risk of disruptions and ensure that changes are carried out in a controlled and coordinated manner.
+~ Intellectual Property
+		- Intellectual property refers to creations of the mind like inventions, literature & artistic works, designs, symbols, and names and images used in commerce, which includes things like trade secrets and patents.
+~ Regulated Data
+		- Regulated data is any data that falls under regulatory **laws and guidelines.**
+~ Critical Data
+		- The term "Critical" describes data that is important for the **functioning** of an organization or enterprise. The critical nature doesn't inherently imply the data is shielded from public view.
+~ Private Data
+		- Private data refers to data that is intended for selected individuals or entities only. It typically includes personal data that should be shielded from public view for security or privacy reasons.
+~ Severity
+		- Severity ranking may determine how serious an impact might
+~ Probability
+		- probability **quantifies** the **likelihood** of a risk event occurring.
+		- Probability refers to the **expected frequency** of occurrence of a specific risk within a given time frame.
+		- Probability is a quantitative measure, usually **expressed as a number** between 0 and 1, **or as a percentage**, indicating the statistical likelihood of a risk event.
+~ Likelihood
+		- likelihood assesses the chance of a risk event happening
+		- Likelihood is a **qualitative term** used to express the **chance** of a risk occurring, typically **described in** terms of **low, medium, or high.**
+~ Impact
+		- Impact specifically refers to the magnitude of the consequences if a risk event occurs, typically assessed in terms of financial loss, operational disruption, or other forms of damage.
+~ Audit Committee
+		- The audit committee is responsible for overseeing and evaluating an organization's internal controls, financial reporting, and compliance processes. 
+		- This includes assessing the effectiveness of security controls and regulatory compliance. 
+		- Audit committees are internal to an organization.  External auditing is conducted by external, third-party entities. 
+		- Audit committees are independent entities within an organization.  Their job is to evaluate and oversee internal controls from an objective, unbiased viewpoint.
+		- The audit committee plays a pivotal role in making sure that the organization meets necessary regulatory standards while also acknowledging the evolving cybersecurity landscape
+~ Side loading
+		- Side loading is the process of installing applications on a mobile device from sources other than the official app store, which can allow unauthorized applications to be installed.
 ~ Policy-driven access control
 		- Policy-driven access control is an approach where permissions are set based on organizational policies, roles, or requirements, ensuring that users have the right level of access that aligns with their job functions or responsibilities. 
 		- Permissions are assigned based on predefined roles in an organization, and individuals are then assigned to those roles. 
@@ -32,13 +113,14 @@
 		- The **key difference between key stretching and regular hashing or salting** is the number of times the hashing is done. Hashing is the process of converting an input of any length into a fixed size string of text, using a mathematical function. Hashing doesn't add data to the input before completing the conversion.
 ~ Integrated Penetration Testing
 		- Integrated penetration testing refers to a comprehensive approach that combines different types of penetration tests to assess an organization's overall security posture.
-~ Screen-locking ransomeware
+~ Screen-locking ransomware
 		- This type of ransomware intimidates users by locking them out of their device and displaying threatening messages.
 ~ Crypto-malware ransomware
 		- Crypto-malware encrypts a user's files and holds them for ransom.
 ~ Virtualization Detection
 		- Virtualization detection refers to methods used by malware or attackers to detect if they are operating within a virtual environment, often to alter their behavior accordingly.
 ~ Security Zones
+		- Security zones allow an organization to segregate a network into different areas to **control and restrict access** based on business needs
 		- Security zones are used to segment a network into smaller, more manageable areas
 ~ Adaptive Identity
 		- Adaptive identity allows for more flexible and dynamic access control by using contextual data to make dynamic access control decisions. 
@@ -51,11 +133,13 @@
 		- Malicious update is an application-based attack that involves replacing a legitimate update for a program with a malicious one. 
 		- The attacker can compromise the program, steal data, or perform other malicious actions.
 ~ Directory Traversal
-		- A directory traversal attack is a type of application attack that involves manipulating the input parameters to access files or directories that are not intended to be accessible by the user, such as configuration files, source code, or system files.
+		- A directory traversal attack is a type of application attack that involves **manipulating the input parameters** to access files or directories that are not intended to be accessible by the user, such as configuration files, source code, or system files.
+		- Directory traversal is a web-based attack that involves exploiting a vulnerability in a web server or application to access files or directories that are outside the intended scope. 
+		- It can allow an attacker to read, modify, delete, or execute files or directories on the server.
 ~ Injection Attack
 		- An injection attack is a type of application attack that involves inserting malicious code or commands into an application or database to execute unauthorized actions or access sensitive data.
 ~ Virtualization
-		- Virtualization is a technology that allows creating multiple isolated environments on a single physical device. 
+		- Virtualization is a technology that allows creating **multiple isolated environments** on a **single physical device.** 
 		- It can offer benefits such as resource optimization, isolation, flexibility, and security.
 ~ Containerization
 		- Containerization is a technology that allows running applications in isolated environments called containers, **NOT** creating multiple isolated environments on a single physical device.
@@ -76,6 +160,7 @@
 		- A centralized work environment is a traditional setup where all employees work from a single location or office.
 ~ Decentralized Environment
 		- A decentralized work environment is a system where different departments or teams work from separate, independent locations but not necessarily from home.
+		- Decentralized is a network design that involves distributing the control and authority among multiple nodes or entities
 ~ Collaborative Environment
 		- A collaborative environment is setup prioritizing team collaborations, often involving open spaces and group project areas but not focused on location.
 ~ Configuration Management
@@ -112,8 +197,10 @@
 ~ RFID Cloning
 		- Radio Frequency Identification cloning involves copying the data from one RFID tag (like those found in many security pass cards) and then using a duplicate or "clone" to gain unauthorized access. 
 		- The mysterious nighttime entries using legitimate employee credentials suggest this.
-~ Exposure Factor
+~ EF (*Exposure Factor*)
+		- The exposure factor represents the percentage of asset loss that would occur if a specific risk is realized. It is a **quantitative risk** analysis metric
 		- Exposure Factor is an estimate of the potential damage to an asset if a given threat exploits a vulnerability, and it is not directly connected to the asset’s total value or frequency of threat events. 
+		- The exposure factor (EF) is a component used to calculate the Single loss expectancy (SLE) by representing the percentage of loss an asset would suffer from a risk event.
 		- An exposure factor of 100% suggests that a security incident or threat event would render the asset entirely unusable or worthless. 
 		- The exposure factor is the proportion of an asset's value estimated to be affected or jeopardized during a particular security incident or threat event. 
 		- Exposure factor is usually expressed as a percentage representing the portion of the asset's value likely to be lost in an incident.
@@ -141,6 +228,8 @@
 		- risk register is a tool used in the risk management process to document and track identified risks
 		- It comes after risk identification and analysis.
 ~ Homomorphic Encryption
+		- Homomorphic encryption allows data to be **processed** **without** being **decrypted**, effectively securing data-in-use. 
+		- **Computations can be performed** on the encrypted data directly, and the results, when decrypted, match as if the operations were done on the plaintext.
 		- Homomorphic encryption allows for computations on ciphertext, without the need for decryption first.
 ~ Digital Certificate Rotation
 		- Digital certificate rotation is the practice of changing digital certificates at regular intervals.
@@ -194,6 +283,7 @@
 ~ Serverless Architecture
 		- Serverless architecture is a cloud-computing model focusing on applications’ runtime
 		- Serverless is an architecture model that involves running code without provisioning or managing servers.
+		- Serverless computing allows developers to **build applications without managing server infrastructure**
 ~ Responsibility Matrix
 		- A responsibility matrix in cloud architecture is crucial for clearly defining the roles and responsibilities between the client and the cloud service provider, ensuring accountability and security compliance.
 		- It clarifies who is accountable for what aspects of security, compliance, and operations in a cloud environment.
@@ -217,14 +307,18 @@
 ~ Pharming
 ~ smishing
 ~ Vishing
+		- Vishing is a specific type of **voice call attack** where attackers often use phone calls combined with other methods to deceive.
+~ Phishing 
+		- Phishing is a **broader term** that involves **deceptive attempts to obtain sensitive information**, **often via email**
 ~ Image-Based Attacks
-		- Image-based attacks use malicious images, such as JPEGs, PNGs, or GIFs, to exploit vulnerabilities in image processing software or embed malicious code in the image metadata.
+		- Image-based attacks use **malicious images**, such as **JPEGs, PNGs, or GIFs**, to exploit **vulnerabilities in image processing software** or **embed malicious code in the image metadata.**
 ~ Pretexting
-		- Pretexting uses a story to create a sense of trust with the victim. It makes it more likely that the victim will do what the attacker wants them to do.
+		- Pretexting **uses a story to create a sense of trust** with the victim. It makes it more likely that the victim will do what the attacker wants them to do.
 ~ Removable Device Attack
-		- Removable device attacks use devices such as USB drives, CDs, or DVDs to infect systems with malware or perform other malicious actions.
+		- Removable device attacks use devices such as **USB drives, CDs, or DVD**s to infect systems with malware or perform other malicious actions.
 ~ File-Based Attacks
-		- File-based attacks use malicious files, such as executables, documents, or archives, to infect systems with malware or perform other malicious actions.
+		- File-based attacks use malicious files, such as **executables, documents, or archives**, to infect systems with malware or perform other malicious actions.
+		- File-based pertains to threats arising from malicious content within standard files
 ~ Static Code Analysis
 ~ Sanction
 		- A sanction is a broader term that encompasses various penalties or restrictions imposed on individuals or entities for non-compliance or misconduct. 
@@ -233,13 +327,15 @@
 		- A deductible is an agreed-upon amount that an insured individual must pay out-of-pocket before an insurance company will cover the remaining costs of a claim. 
 		- It represents a portion of the financial responsibility that falls on the policyholder and can vary based on the terms of the insurance policy.
 
-~ Dynamic Analysis (Dynamic Code Analysis)
+~ Dynamic Analysis (*Dynamic Code Analysis*)
 		- Dynamic analysis evaluates software during its runtime, aiming to uncover vulnerabilities that might not be visible in a static state.
 ~ MITRE ATT&CK Framework
 ~ Diamond Model of Intrusion Analysis
 ~ Normalization
-~ acquisition
+~ Acquisition
 		- During a digital investigation, the goal of the the acquisition phase is to obtain data in a way that doesn't alter the original evidence. Imaging a hard drive is a standard practice to achieve this.
+		- Acquisition involves identifying and gathering evidence related to the security incident. 
+		- This may include collecting logs from affected systems, taking disk images, or other procedures to catalogue everything that may be used as evidence in a court proceeding.
 
 ~ VM Sprawl
 		- Occurs when an organization has many VMs that aren't appropriately managed.
@@ -269,7 +365,11 @@
 ~ Policy enforcement point
 		- 
 ~ Policy administrator
-		- The policy administrator exists in the control plane, and it sends decisions to the policy enforcement point (PEP). 
+		- The Policy Administrator in a Zero Trust model takes on the responsibility of **maintaining and updating the policies that govern access control.** 
+		- They ensure that policies stay relevant, align with organizational security postures, and meet compliance requirements
+		- The policy administrator **exists in the control plane**, and it sends decisions to the *policy enforcement point* (PEP). 
+~ PEP (*policy enforcement point*)
+		- Overseeing the actual enforcement of policies on the network implies a role that actively engages in the application of policies during network interactions
 ~ BPDU Guard
 		- Used to protect against BPDU-related attacks
 ~ Key escrow
@@ -365,8 +465,27 @@
 		- They may have authority over the security of a particular system or data repository
 # Acronyms
 
+~ NGFW (*Next-Generation Firewall*)
+		- A NGFW is an integrated network platform that includes standard firewall capabilities and other network device filtering functionalities,
+~ S/MIME (*Secure Multipart Internet Message Extensions*)
+		- S/MIME (Secure Multipart Internet Message Extensions) leverages email certificates to both sign and encrypt email content, ensuring both authenticity and confidentiality.
+~ BCP (*Business Continuity Planning*)
+		- BCP (Business continuity planning) is the overarching process that includes recovery time objectives
+~ CSRF (*Cross-site Request Forgery*)
+		- Cross-site request forgery (CSRF) is a **web-based attack** that involves **tricking a user** into performing an **unwanted** **action** on a website where they are **already authenticated.** 
+		- It can allow an attacker to transfer funds, change passwords, or perform other actions without the user’s consent.
+~ WPA
+		- Despite being an enhancement over the previous protocol, WPA has some **known vulnerabilities, particularly** when using its pre-shared key **(PSK) mode**. 
+		- Depending solely on WPA might not provide the level of security required to safeguard modern wireless networks. While older, it is not deprecated.
+~ WEP
+		- **Highly insecure** encryption protocol
+~ TKIP
+		- TKIP was an improvement over an older encryption protocol, it is still considered **weak** and has known vulnerabilities. 
+		- Due to its security limitations, using TKIP is not advisable, especially when more secure alternatives like AES are available. 
+		- It is not a deprecated and is the best choice for devices that are not compatible with AES.
 ~ SASE (*Secure Access Service Edge*)
 		- SASE (Secure access service edge) combines network security and WAN capabilities in a single cloud-based service, making it an ideal solution for ensuring secure and reliable access to data and applications irrespective of user/device location.
+		- Cloud-based Solution that combines both network security and WAN capabilities
 ~ SIEM (*Security Information and Event Management*)
 		- Their primary purpose is to provide real-time analysis of security alerts and to offer a holistic view of an organization's security scenario
 		- SIEM systems can indeed create and maintain a record of an organization's IT equipment as a part of their comprehensive data collection. 
@@ -385,6 +504,8 @@
 ~ SQLi (*Structured Query Language Injection*)
 		- SQLi is a web-based vulnerability that occurs when an attacker injects malicious SQL statements into a database query that is then executed by the database server. 
 		- The statements can manipulate or extract data from the database, or execute commands on the server.
+		- Structured Query Language injection is a web-based attack that involves inserting malicious SQL statements into user input fields or URLs that are executed by the database server. 
+		- It can allow an attacker to read, modify, delete, or execute commands on the database.
 ~ PKI  (*Public Key Infrastructure*)
 		- Public key infrastructure (PKI) is a set of roles, policies, and procedures needed to create, manage, distribute, use, store, and revoke digital certificates and manage public-key encryption.
 ~ OSINT
@@ -403,6 +524,9 @@
 		- FMEA (Failure mode and effects analysis) is a proactive method to identify possible failures, separate from quantifying time between failures.
 ~ UTM
 		- A UTM (Unified threat management) is an all-in-one security solution that can include a WAF, but it also comprises other functionalities like anti-virus, anti-spam, VPN, and more.
+~ TLS
+		- TLS protocol is designed to **provide privacy and data integrity between two communicating applications.** 
+		- It's notably **used for web browsers and other applications** that require data to be securely exchanged over a network
 ~ mTLS (*Mutual TLS*)
 		- Mutual TLS (mTLS) authentication involves both client and server authenticating each other using certificates for secure communication.
 ~ UI (*User Interaction*)
@@ -418,21 +542,26 @@
 		- These scripts are executed by unsuspecting users
 		- XSS is a web-based vulnerability that occurs when an attacker injects malicious code into a web page that is then executed by the browser of a user who visits the page. 
 		- The code can steal cookies, session tokens, or other sensitive information from the user or the web server.
-~ SD-WAN
-		- An SD-WAN is a virtual WAN architecture allowing enterprises to leverage any combination of transport services, making it ideal for the expansion of infrastructure across geographical locations with broad network requirements.
-~ DKIM
-		- implementing DKIM (DomainKeys Identified Mail), allows companies to sign emails originating from their domain cryptographically.
+~ SD-WAN (*Software-defined networking-WAN*)
+		- Software-defined networking (SDN) is a network technology that **separates the control plane from the data plane**, allowing for more flexibility and automation in network management. 
+		- The control plane provides the intelligence and logic for the network, while the data plane handles the actual traffic forwarding.
+		- An SD-WAN is a virtual WAN architecture allowing enterprises to leverage any combination of transport services, making it **ideal for the expansion of infrastructure across geographical locations** with broad network requirements.
+~ DKIM  (*DomainKeys Identified Mail*)
+		- implementing DKIM, allows companies to sign emails originating from their domain cryptographically.
 		- This allows receivers to verify that an email claiming to be from the domain genuinely is.
-~ SPF
-		- SPF (Sender Policy Framework) is valuable in identifying which servers are authorized to send emails on behalf of a domain, it doesn't cryptographically sign the emails for this assurance.
-~ DMARC
-		- DMARC (Domain-based Message Authentication, Reporting, and Conformance) uses the results of DKIM and SPF checks, but on its own, it doesn't cryptographically sign emails.
+~ SPF (*Sender Policy Framework*)
+		- SPF (Sender Policy Framework) is valuable in identifying which servers are authorized to send emails on behalf of a domain.
+		- Sender Policy Framework **verifies** the legitimacy of the **sender's IP** against a list of approved IPs for the domain
+~ DMARC (*Domain-based Message Authentication, Reporting, and Conformance*)
+		- (DMARC) focuses primarily on the **authenticity** of the domain from which **emails originate**
+		- Uses the results of DKIM and SPF checks.
 ~ DRP
 ~ ISA
-~ SDN
+~ SDN (*Software-defined Networking*)
 		- Software-defined networking (SDN) is a paradigm that decouples the control plane from the data plane in a network, allowing for centralized and dynamic management of network resources and policies. 
 		- This provides greater flexibility, efficiency, and automation of the network.
 		- Software-defined networking (SDN) is a network technology that involves dynamically configuring and managing network devices and services through software
+		- **Manages network control through software** but doesn't focus on running multiple OS on a single server
 ~ IPsec
 		- Method of encrypting data in transit
 		- Supports both Tunnel mode and Transport mode
@@ -442,6 +571,7 @@
 		- Encrypts the entire IP packet, including both the payload and the packet headers
 		- VPNs commonly use Tunnel mode
 		- **Benefit**: IP addressing used within the **internal network is encrypted** and not visible to anyone who intercepts the traffic
+		- tunnel mode in IPSec is used for communications between VPN gateways across an insecure network
 ~ Transport mode (IPsec)
 		- Only encrypts the payload and is **commonly used in private networks**, but **not with VPNs**.
 ~ Full tunnel VPN
@@ -496,40 +626,50 @@
 ~ DPO 
 		- Ensure data privacy regulation compliance
 ~ Data Subject
-		- A data subject is an individual to whom the personal data belongs, and they have certain rights regarding the processing of their data. 
+		- A data subject is an **individual to whom the personal data belongs,** and they have certain rights regarding the processing of their data. 
 		- The subject doesn't play a role in the storage, collecting, and analyzing of data.
 ~ Data Custodian/steward 
-		- A data custodian is typically an individual or entity responsible for managing the system where the data is stored.
+		- A data custodian is typically an individual or entity responsible for **managing the system where the data is stored.**
 		- responsible for managing data in alignment with data owner **big distinction between the data owner and the custodian**
 ~ Data Owner
-		- data owners are responsible for the data's classification and ensuring it meets organizational policies
-		- The owner's role is accountable for the data's security and compliance with the organization's strategic objectives.
+		- data owners are **responsible for** the **data's classification** and ensuring it **meets organizational policies**
+		- The owner's role is accountable for the data's security and **compliance with** the **organization's strategic objectives.**
 ~ Data Processor 
-		- Handles data in accordance with privacy guidelines
+		- Handles data in **accordance with privacy guidelines**
 		- involves properly collecting, storing, and analyzing the data according to her supervisor's directions
-		- A data processor is an entity that processes personal data on behalf of the data controller.
+		- A data processor is an entity that **processes personal data on behalf of the data controller.**
 ~ Data Controller 
 		- Ensures data complies with applicable regulations
-		- The data controller is the entity that determines the purposes, conditions, and means of processing personal data. 
+		- The data controller is the entity that **determines the purposes, conditions, and means of processing personal data.** 
 		- They make decisions about how and why data is processed.
 		- their role is more focused on data **governance** **and compliance** with data protection regulations.
 		- The controller is responsible for defining how personal data is handled and ensuring it meets GDPR and other regulatory requirements.
 ~ Data Broker
 		- A data broker collects and sells data to other organizations
 ~ PHI (Protected Health Information)
-~ RPO
-~ RTO
-~ MTBF
-~ MTTF
-~ MTTR
+~ MTTF (?)
+~ RPO (*Recovery Point Objective*)
+		- The recovery point objective (RPO)  is the measure of the maximum amount of data loss an organization is willing to tolerate in the event of a disruption. It determines the point in time to which data must be restored after recovery.
+~ RTO (*Recovery Time Objective*)
+		- The recovery time objective (RTO) is the measure of the maximum time it takes to recover a system or process after a disruption.
+		- It represents the time within which normal operations need to be restored.
+~ MTBF (*Mean Time Before Failure*)
+		- The mean time between failures (MTBF) is the measure of the average time between two consecutive failures of a system or component. It represents the average reliability or time between incidents.
+		- Average time things that can't be repaired break, like HDDs or routers
+
+~ MTTR (*Mean Time To Repair*)
+		- The mean time to repair (MTTR) refers to the measure of the time taken to repair a system or process after it experiences a failure or disruption. It is the average time it takes to restore functionality.
 ~ DLP (*Data Loss Prevention*)
 		- Techniques and technologies used to prevent data exfiltration
 		- They can block USB flash drives and control the sue of removable media. They can also examine outgoing data and detect many types of unauthorized data transfers
 		- In network-based DLP, all traffic leaving the network is directed through an appliance that can examine the traffic by searching for specific key words, phrases, or character strings. 
 		- Software based DLP is installed on individual systems, identifying data exfiltration attempts and blocking them from succeeding. 
-		- It can sniff through email attachements, zip folders, emails
+		- It can sniff through email attachments, zip folders, emails
+		- DLP solutions monitor and control data transfers, helping to prevent data breaches.
 ~ EDR (*Endpoint Detection and Response*)
-		- Endpoint Security Software technology that focuses on detecting and responding to threats at the endpoint level, often using advanced behavioral analysis techniques to identify suspicious activity and contain threats before they can cause damage
+		- Endpoint Security Software technology that focuses on **detecting and responding to threats at the endpoint level**, often using advanced behavioral analysis techniques to **identify suspicious activity and contain threats** before they can cause damage
+		- The main significance of implementing EDR in the given scenario is its ability to use **advanced behavioral analysis and threat intelligence to detect and respond** to sophisticated cyber threats on endpoints.
+		- EDR helps identify suspicious activities and potential breaches, enabling proactive responses to protect against advanced threats.
 ~ XDR (*Extended Detection and Response*) 
 		- Is a next-generation security technology that goes beyond the endpoint to include other types of devices and systems, such as network devices, cloud infrastructure, and IoT devices, providing a more comprehensive view of the entire IT environment and enabling faster threat detection and response. 
 		- The main significance of implementing XDR in the given scenario is its ability to integrate and correlate security data from various sources, such as endpoints, network, and cloud environments. 
@@ -564,7 +704,9 @@
 		- Downloading an app, and it requests access to your google calendar, We are giving this application authorization, without giving it our password, or anything else.
 		- Auth in this case stands for *Authorization*, not authentication!
 		- OAuth is an open standard for access delegation. It allows third-party services to use account information without exposing user passwords.
-~ ESP
+~ ESP (*Encapsulation Security Payload*)
+		- ...
+		- ESP (Encapsulation security payload) is a part of IPSec that provides confidentiality and/or authentication and integrity
 ~ WAF (*Web Application Firewall*)
 		- Web application firewalls (WAF) are used to prevent attacks on backend databases and web server based software. 
 		- They can be deployed as appliances or plug-in software and protect against code injection, DoS, cross-site scripting and SQL injection.
@@ -591,24 +733,21 @@
 		- Cyber mercenaries are hackers-for-hire, who may work for any entity or individual that pays them, regardless of the task's legality.
 ~ Authorized Hacker
 ~ Criminal Syndicate
-
 ~ Pointer/object dereference
-~ Dynamic code analysis
 ~ Normalization
-~ Risk Register
 ~ SOAR
 ~ SLE (*Single loss expextancy*) 
 		- Cost of loss per occurrence
-~ ARO (*Anual Rate of Occurance*)
+~ ARO (*Annual Rate of Occurrence*)
+		- The annualized rate of occurrence (ARO) is a **quantitative** risk analysis metric that represents the **expected number** of times a specific risk occurs in a year.
 ~ ALE (*Annual Loss Expectancy*)
 ~ Credentialed scan 
 		- Vulnerability scan that includes credentials
 ~ Non Credentialed scan 
 		- Vulnerability scan that doesn't include credentials
-~ MTBF (*Mean Time Before Failure*)
-		-  Average time things that can't be repaired break, like HDDs or routers
-~ RTO
-~ RPO
+
+
+
 ~ Rainbow table
 ~ Password Spraying (Spraying Attack)
 		- A spraying attack is a type of password attack that involves trying common passwords against multiple accounts, hoping to find a match.
@@ -712,6 +851,10 @@
 
 ## Questions
 
+Is it better to make users create and enforce complex passwords, or is it better to instruct users to create strong, unique passwords for each account?
+- Encouraging employees to keep their passwords confidential and use strong, unique passwords for each account is a crucial aspect of password management best practices.
+- In the past, complexity rules were seen as a useful way to improve password management.  However, in current NIST guidelines, **complexity rules are seen as counter-productive**. Users are **more likely to write down complex passwords** because they are difficult to remember.
+
 What is the best explanation for the importance of package monitoring in the context of vulnerability management?
 - Package monitoring involves keeping track of software package versions and security patches, which helps identify potential vulnerabilities and ensures that appropriate actions are taken to mitigate risks. 
 - By promptly addressing vulnerabilities, organizations can reduce the risk of potential exploits and maintain a more secure environment. 
@@ -795,6 +938,17 @@ What is the significance of the key length in encryption standards?
 
 What is a common issue with SCADA systems?
 - Many SCADA systems utilize legacy communication protocols that lack modern security features, making them vulnerable to unauthorized interception or tampering.
+
+What is the biggest security concern with breaking bigger applications down into microservices?
+- As applications are broken down into microservices, each service might need specific access controls, potentially complicating the permissions landscape. 
+- Microservices often distribute data storage needs across services,
+- Microservices allow for independent deployments,
+- Microservices can actually increase the number of endpoints that need to be monitored,
+
+Which type of information is NOT typically found in metadata?
+- Metadata does **NOT** normally include the **file's extension.** The name of the user who created the file is often included as part of the file's metadata. This is crucial information during an investigation of unauthorized file access or alteration. 
+- File size is a common piece of metadata. This could potentially be useful in an investigation if, for example, a file's size significantly changes without a clear reason. 
+- Date and time of last modification is an integral part of metadata. This can help establish timelines of activity and identify any unexpected changes, which is crucial during an investigation.
 ## Secure ports
 FTPS: port 990
 SRTP: port 5004
@@ -804,7 +958,8 @@ LDAP: 389
 587
 
 ## General
-
+Read about:
+PEP
 
 
 
