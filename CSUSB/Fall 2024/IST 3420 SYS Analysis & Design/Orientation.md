@@ -6,9 +6,8 @@ Textbook (**Optional**)
 - Cockburn, A. (2001). Writing Effective Use Cases. Boston: Addison-Wesley. ISBN 0-201-70225-8
 
 
-[1. Introduction to Systems Analysis and Design](https://docs.google.com/presentation/d/1JSgEoz5CJXbyZJjwRo0_CMNLIZJar9lw/edit#slide=id.p1)
 
-[2. Introduction to Software Development Methodologies](https://docs.google.com/presentation/d/1Hr2yTNnk3c-fxiX7mi44WLADRkR4ssv3/edit#slide=id.p1)
+
 
 
 
