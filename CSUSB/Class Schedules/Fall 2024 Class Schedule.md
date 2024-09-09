@@ -18,5 +18,3 @@ IST 4120 - Info Plan & Policy
 
 IST 5150 - Project Management
 
-
-
