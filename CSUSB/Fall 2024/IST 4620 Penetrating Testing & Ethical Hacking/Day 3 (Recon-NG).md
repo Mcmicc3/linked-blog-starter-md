@@ -78,7 +78,7 @@ This tool will uncover them.
 
 #### Search PGP (Encrypted emails)
 ~ Modules load pgp_search
-~ options unset SOURCE
+~ options unset SOURC
 ~ options set SOURCE cnn.com
 ~ run
 
