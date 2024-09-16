@@ -28,8 +28,16 @@ This Assignment will be using the Kali virtual machine
 3. Generate an API key
 
 ### Linkedin
-
+1. Go to the talent hub homepage and select product settings
+2. Then go to advanced and select API credentials
+3. Select API types and permissions. Note that we can only create API keys for job posting data with a read-only permission
+4. Select Add new API key
+5. Name and add a description for the API key
+6. Select the permissions the API key can access from the contract
+7. Click the acknowledgement box and then create API key
 
 ### Instagram
-
-
+1. Create an Instagram developer account by going to the Instagram developer page, then register an application, and then a new client. Fill out the form and register.
+2. Generate an access token by going to the security tab, and add this github URL:  https://rapidsoftwaresolutions.github.io/OAuthTokenGenerator/instagram/2.html
+3. Copy your client ID, and then paste it in the generate tab to get an access token
+4. Call the Instagram API with Rapid API
