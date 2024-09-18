@@ -1,15 +1,15 @@
-1. 
+1. Work on SDLC Essay
 2. Finish Applying for Scholarship
-3. 
-4. 
-5. 
+3. Recong-NG assignment
+4. 3 chapters of CompTIA
+5. Study for tomorrows quiz
 6. 
 7. 
-8. Recong-NG assignment
+8. 
 9.  
 10.  
-11. Complete CMMC Pre-Assessment Test
-12. Work on SDLC Essay
+11. 
+12. 
 13. 
 14. 
-15. Hang Flyers
+15. 
