@@ -8,8 +8,19 @@
 8. Recong-NG assignment
 9.  
 10.  
-11. Complete CMMC Pre-Assessment Test
-12. Work on SDLC Essay
+11. 
+12. 
 13. 
 14. 
-15. Hang Flyers
+15. 
+
+
+Page properties
+
+date created
+last modified
+tags?
+category
+title
+links?
+

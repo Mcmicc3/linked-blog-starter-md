@@ -1,0 +1,3 @@
+# GPTZero
+https://gptzero.me/
+
