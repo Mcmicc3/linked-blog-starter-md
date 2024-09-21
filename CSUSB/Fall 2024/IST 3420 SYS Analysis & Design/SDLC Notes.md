@@ -25,6 +25,7 @@ The primary aim of Kanban is to pinpoint any possible obstructions in your proce
 - Visualize work flow
 - Limit Work-in-progress
 - Manage Flow
+- 
 Manage the flow of projects from start to completion, without unnesccary slowdown or stoppage. By reducing work in progress, Kanban helps reduce works in progress. Helps resist delays, reduces time to work. Lean and Agile work. 
 ## Historical Perspective
 It all started in the early 1940s. The first Kanban system was developed by Taiichi Ohno(Industrial Engineer and Businessman) for Toyota automotive in Japan. It was created as a simple planning system, the aim of which was to control and manage work and inventory at every stage of production optimally.
@@ -35,6 +36,13 @@ A Kanban system ideally controls the entire value chain from the supplier to the
 
 ## Strengths
 Reduces the amount of doing assignements, so that way we're not taking on new assignments, and preventing uneccessary slowdown
+- Improve predictability and quality
+- Imrpove flow,
+- Reduce wasted time
+- Deliver value faster to customers
+
+Excellent tool for Software development, IT management as well as business processes sucha s procurment, legal, HR, and marketing
+https://www.nimblework.com/kanban/what-is-kanban/
 
 ## Weaknesses
 https://projectmanagers.net/kanban-boards-top-10-cons-disadvantages-limitations/
