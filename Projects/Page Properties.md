@@ -6,3 +6,7 @@ tags?
 category
 title
 links?
+
+hit `ctrl + :`
+
+
