@@ -18,3 +18,12 @@
 - **Salt and Pepper:** Add to taste!
 - **Olive Oil:** This helps the seasoning stick to the chicken and gives it a nice crisp skin once air fried.
 - https://therecipecritic.com/air-fryer-chicken-legs/
+
+# Salmon
+- Paprika
+- Oil
+- Salt & Pepper
+- Garlic powder
+- Honey (Optional)
+- 400 degrees for 9 to 11 minutes
+
