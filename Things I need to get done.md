@@ -11,5 +11,5 @@
 11. NCL
 12. FIND A JOB
 13. EMAIL TRENT
-14. 
+14. Start the Game night process
 15. 
