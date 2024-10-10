@@ -11,3 +11,8 @@ https://console.cloud.google.com/billing/01A225-D49DFA-86A6B1/reports/tabular?au
 
 # Friends of Family Health Report
 https://mychart.ochin.org/mychart/Authentication/Login?
+
+# Mindgrasp
+https://mindgrasp.ai/
+- Upload PDFs, youtube videos, lecture videos
+- Helps study, not free

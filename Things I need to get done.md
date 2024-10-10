@@ -1,15 +1,16 @@
-1. 
+1. Resume update
 2. Finish Applying for Scholarship
-3. 
-4. 
-5. 
-6. 
-7.  ELK stack project
+3. ELK stack project
+4. NCL
+5. Start the Game night process
+6. Over the Wire
+7.  Project Management Research
 8. 
-9.  Resume update
-10.  Security+ 
-11. NCL
-12. FIND A JOB
-13. EMAIL TRENT
-14. Start the Game night process
-15. 
+9.  
+10.  
+11. 
+12. 
+13. 
+14. 
+15. FIND A JOB
+16. Security+ 
