@@ -1,14 +1,14 @@
 1. Resume update
-2. Finish Applying for Scholarship
+2. 
 3. ELK stack project
 4. NCL
-5. Start the Game night process
+5. Game Night
 6. Over the Wire
-7.  Project Management Research
+7.  Finish Applying for Scholarship
 8. 
 9.  
 10.  
-11. 
+11.  
 12. 
 13. 
 14. 
