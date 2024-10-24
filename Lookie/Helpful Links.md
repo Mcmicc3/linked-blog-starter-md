@@ -16,3 +16,6 @@ https://mychart.ochin.org/mychart/Authentication/Login?
 https://mindgrasp.ai/
 - Upload PDFs, youtube videos, lecture videos
 - Helps study, not free
+
+# Movies
+https://sflix.to/
