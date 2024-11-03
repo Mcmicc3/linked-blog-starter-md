@@ -19,6 +19,9 @@
 - **Olive Oil:** This helps the seasoning stick to the chicken and gives it a nice crisp skin once air fried.
 - https://therecipecritic.com/air-fryer-chicken-legs/
 
+Place the chicken legs skin side down in the basket of the air fryer. Cook at **380 degrees for 10 minutes**. Flip after 10 minutes and continue to cook for **7-8 more minutes** until no longer pink and the internal temperature is 165 degrees Fahrenheit.
+- 380 degrees for 18 minutes
+
 # Salmon
 - Paprika
 - Oil
