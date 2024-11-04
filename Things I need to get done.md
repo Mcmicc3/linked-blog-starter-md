@@ -1,17 +1,17 @@
-1. Resume update
-2. 
+1. Quiz & Group Assignment
+2. Spanish assesment test
 3. ELK stack project
 	1. https://github.com/deviantony/docker-elk
-4. NCL
-5. Game Night
-6. Over the Wire
+4. Pentest chapter 16 & guided labs
+5. Vulnhub
+6. How can I hack thee
 7.  Finish Applying for Scholarship
-8. 
-9.  
-10.  
+8. 100,000 passwords
+9.  Secure email
+10.  USB Tool
 11.  
-12. 
-13. 
-14. 
-15. FIND A JOB
+12.  
+13. Over the Wire
+14. NCL
+15. Hacking for Linux book, Command Line Book
 16. Security+ 
