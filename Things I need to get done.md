@@ -1,10 +1,10 @@
 1. 
-2. Spanish assesment test
+2. 
 3. ELK stack project
 	1. https://github.com/deviantony/docker-elk
 4. 
 5. Vulnhub
-6. How can I hack thee
+6. 
 7.  Finish Applying for Scholarship
 8. 100,000 passwords
 9.  Secure email
