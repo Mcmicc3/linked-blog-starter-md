@@ -8,7 +8,7 @@
 7.  Finish Applying for Scholarship
 8. 100,000 passwords
 9.  Secure email
-10.  USB Tool
+10. 
 11.  
 12.  AI Stuff
 13. Over the Wire
