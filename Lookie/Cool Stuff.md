@@ -14,3 +14,5 @@
 ### [The Fuck](https://github.com/nvbn/thefuck)
 - Command line tool for Linux that corrects previous console commands
 
+### [Mike Tyson Mysteries](https://m.wcostream.tv/anime/mike-tyson-mysteries)
+

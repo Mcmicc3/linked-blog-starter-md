@@ -3,6 +3,9 @@
 ### [GPTZero](https://gptzero.me/)
 - Attempts to verify if text is written by AI
 
+### [Smodin](https://smodin.io/free-english-rewriter-and-spinner/ai-detection-remover)
+- Rewrites Essays
+
 ### [Mindgrasp](https://mindgrasp.ai/)
 - Upload PDFs, youtube videos, lecture videos
 - Helps study, **not free**
