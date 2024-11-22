@@ -10,6 +10,8 @@
 - **Chopped Parsley:** This is optional and for garnish.
 - https://therecipecritic.com/air-fryer-potatoes/
 
+**400 degrees F for 10 minutes**
+
 # Chicken Legs
 - **Chicken Legs:** You will want the skin on these. It creates that crispy outside shell that everyone loves.
 - **Paprika:** Adds flavor and color to the drumsticks.
