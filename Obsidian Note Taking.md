@@ -4,21 +4,55 @@
 ### Even smaller
 
 
+# Shortcuts
+- CTRL + P
+	- Opens Obsidian commands
+- CTRL + E 
+	- Toggle edit mode/read mode
+- CTRL + O
+	- Finds Notes by title, or creates new note
+- CTRL + ,
+	- Opens Settings
+- CTRL + ;
+	- Add File Property
+- F2
+	- Rename a note
+- CTRL + H
+	- Search and replace in a current file
+-  CTRL + K
+	- Insert Markdown Link
+- CTRL + L 
+	- Toggles checkbox status
+- CTRL + pg Up or + pg Down
+	- Quickly change tabs
+	- **You can also CTRL 1,2,3,4,5, etc to go to that specific tab**
+- CTRL + T
+	- New tab
+- CTRL + W
+	- Close Current tab
+	- **Or CTRL + SHIFT +W to close windows
+-  CTRL + N
+	- New Note
+	- **Or CTRL + N + SHIFT to create note on the right**
+- CTRL + ALT + <-- or + -->
+	- Navigate back and forth
+- CTRL + X 
+	- Cut entire line
+- CTRL + F 
+	- FInd
+- CTRL + C 
+	- Copy
+- CTRL + /
+	- Inserts a comment, for programming
+
+
+
+
 # Lists
 
 - Bullet one
 	- Sub point one
 1. NUmber list
-
-#Shortcuts
-- CTRL - X Cut line
-- CTRL - F FInd
-- CTRL - C CTRL-X
-	- If highlighting it will copy just what you have highlight
-	- If on a line just like CTRL-X it will copy the whole thing
-- CTRL - P: Opens Obsidian commands
-- CTRL - E Toggle edit mode/read mode
-- CTRL - O
 
 [sdsd]
 [[sdsds]]
@@ -26,8 +60,9 @@
 
 ```python
 print("Hello WOrld!")
+%% This is a test comment %%
 ```
-
+%% This is also a test comment %%
 
 ```shell-session
 
