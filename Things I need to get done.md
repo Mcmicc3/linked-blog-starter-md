@@ -1,17 +1,41 @@
 1. 
-2. 
-3. ELK stack project
-	1. https://github.com/deviantony/docker-elk
+
+## CSUSB
+909-537-5188
+Admissions Counselor
+
+Send transcripts, to who? department, over the mail, or in person.
+
+It has to be in a sealed envelope if I do it in person or through the mail
+	- Admissions office if I do it in person...
+**Can't do email - That would be an unofficial Transcript**
+
+I can also use an Online service --- parchment........**3rd party tool**
+
+## FC
+
+
+1.  Submit CAB assignment
+2. EMAIL PROFESSOR Tutor position
+3. 
 4. 
-5. Vulnhub
+5.  
 6. 
-7.  Finish Applying for Scholarship
-8. 100,000 passwords
-9.  Secure email
+7. 
+8.  
+9. 
 10. 
-11.  
-12.  AI Stuff
-13. Over the Wire
-14. NCL
-15. Hacking for Linux book, Command Line Book
-16. Security+ 
+11. 
+12.  
+
+## Personal Projects/Research
+1.  AI Stuff
+2. Over the Wire
+3. NCL
+4. Command Line Book, Black Hat Python
+5. Docker
+6. Security+ 
+7. TMUX
+8. Raspberry Pi
+9. Fix Obsidian Sync
+10. Firewall container
