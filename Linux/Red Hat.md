@@ -1,4 +1,5 @@
 
+# Root Directory
 The shell executes the actual command
 
 /BIN : Holds all of your programs. Known as binaries
@@ -40,21 +41,25 @@ The shell executes the actual command
 - /var/www Default location for web server files
 
 Hard links vs sym links
+# 10-11-24
+ps
+- Shows processes, but not current
 
+top
+htop
+- There's a difference between the two...
+- Shows CPU/memory usage in realtime
 
-Table
+**Relearn chmod**
+- 755
+- 4 represents read
+- **Read, Write, Execute**
+- **R = 4, W = 2, E = 1**
+- **User, Group, Everyone else**
+System users manages web servers and databases
 
+**pgrep**: lists processes based on criteria
 
-7 steps to
-1. dfd
-2. dfdf
-	1. Sub
-	2. Instructions    (**Hit tab to create sub section**)
-3. dfd
-4. df
-5. dfd
-6. df
-7. dfsds
-8. sdskdnsld
-9. sdknslnf
-10. 
+**pkill**: sends a signal to processes matching criteria
+- Kill everything for a certain user
+

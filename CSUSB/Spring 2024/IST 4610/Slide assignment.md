@@ -8,6 +8,6 @@
 11-12: Kaleb
 
 
-![[Pasted image 20240502145157.png]]
+![[Trash/SYNC/Images/Pasted image 20240502145157.png]]
 
 

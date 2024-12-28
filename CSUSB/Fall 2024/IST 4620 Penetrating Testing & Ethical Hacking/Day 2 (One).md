@@ -70,11 +70,11 @@ Consider having your own domain name. "mariocanales.com". If you get your own do
 - Windows version of Kali
 - If you think metasploitable 2 is too easy, do metasploitable 3
 - https://github.com/rapid7/metasploitable3
-![[Pasted image 20240829133729.png]]
-![[Pasted image 20240829133740.png]]
+![[Trash/SYNC/Images/Pasted image 20240829133729.png]]
+![[Trash/SYNC/Images/Pasted image 20240829133740.png]]
 
 End result should look something like this:
-![[Pasted image 20240829134124.png]]
+![[Trash/SYNC/Images/Pasted image 20240829134124.png]]
 - Not including the OSINT or the AI workshop machines
 
 If we want to make a writeup on how to create a secure testing environment as of 2024, we will get extra credit.

@@ -8,4 +8,4 @@ Use .5 margin
 
       Consider full month
 
-![[Pasted image 20240827133752.png]]
+![[Trash/SYNC/Images/Pasted image 20240827133752.png]]

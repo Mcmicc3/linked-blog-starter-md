@@ -43,19 +43,19 @@ Saving a cat from a fire but breaking down a door, and you end up saving a few p
 
 If people act a certain way reasons other than duty, then that action does not have moral worth
 
-![[Pasted image 20240209112043.png]]
+![[Trash/SYNC/Images/Pasted image 20240209112043.png]]
 
 - If you give to charity because it makes you feel good, it's not a moral action
 - If you give to charity because you don't give a shit but know it's the right thing to do, it is moral.
 
 
-![[Pasted image 20240209122351.png]]
+![[Trash/SYNC/Images/Pasted image 20240209122351.png]]
 
 
-![[Pasted image 20240209123322.png]]
+![[Trash/SYNC/Images/Pasted image 20240209123322.png]]
 
 
-![[Pasted image 20240209123628.png]]
+![[Trash/SYNC/Images/Pasted image 20240209123628.png]]
 
 
 # Article notes

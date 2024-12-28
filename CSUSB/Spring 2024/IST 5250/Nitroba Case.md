@@ -65,7 +65,7 @@ No wifi is provided, but, Barbara's boyfriend Kenny installed a wifi router.
 Apple WIFI MAC Address: 00:17:f2:e2:c0:ce
 
 ## Filtering with frame contains "tuckrige"
-![[Pasted image 20240326181231.png]]
+![[Trash/SYNC/Images/Pasted image 20240326181231.png]]
 Both emails source from **192.168.15.4**
 Source port: 35876
 
@@ -88,11 +88,11 @@ A user under the name "amy789smith", authenticated with Yahoo, YMSG
 - Could be Amy? She's in the class, but she's not part of the three people living in the same dorm.
 
 ### Ava Book? 
-![[Pasted image 20240326185456.png]]
+![[Trash/SYNC/Images/Pasted image 20240326185456.png]]
 
 
 ## Query for sendanonymousemail.net
-![[Pasted image 20240326190222.png]]
+![[Trash/SYNC/Images/Pasted image 20240326190222.png]]
 
 
 

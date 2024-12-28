@@ -120,11 +120,11 @@ Turns out that gVisor has a [makefile](https://github.com/google/gvisor/blob/mas
 Alex claims he got it to run on 2GB of memory, One processor, and 25 GB of storage, and he has gVisor working.
 
 I just tried the same configurations, and I'm getting Kernel Panic 
-![[Pasted image 20240224184126.png]]
+![[Trash/SYNC/Images/Pasted image 20240224184126.png]]
 
 Now that I gave it 2 more GBs of storage, and another CPU processor, it's working fine
 
-![[Pasted image 20240224184333.png]]
+![[Trash/SYNC/Images/Pasted image 20240224184333.png]]
 
 ##### Version of Docker I'm trying to install
 VERSION_STRING=5:24.0.8-1~ubuntu.22.04~jammy
@@ -143,7 +143,7 @@ docker: Error response from daemon: failed to create task for container: failed 
 insure@insure:~$
 
 
-![[Pasted image 20240224200611.png]]
+![[Trash/SYNC/Images/Pasted image 20240224200611.png]]
 Tried manually installing it....got a new error
 
 #### [](https://github.com/glotcode/docker-run/blob/main/docs/install/ubuntu-20.10-gvisor.md#set-runsc-as-the-default-runtime)Set runsc as the default runtime

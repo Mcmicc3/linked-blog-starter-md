@@ -30,7 +30,7 @@ Profiler searches the internet for common and popular websites using a particula
 	- Shows all instances of a username being used on common websites
 ~ Back
 	- To change modules
-	![[Pasted image 20240905134339.png]]
+	![[Trash/SYNC/Images/Pasted image 20240905134339.png]]
 
 ----
 

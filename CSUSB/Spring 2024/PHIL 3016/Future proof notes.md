@@ -1,22 +1,22 @@
 Rule #1. Be surprising, social, and scarce
-![[Pasted image 20240510144920.png]]
-![[Pasted image 20240510145018.png]]
-![[Pasted image 20240510145033.png]]
-![[Pasted image 20240510145119.png]]
+![[Trash/SYNC/Images/Pasted image 20240510144920.png]]
+![[Trash/SYNC/Images/Pasted image 20240510145018.png]]
+![[Trash/SYNC/Images/Pasted image 20240510145033.png]]
+![[Trash/SYNC/Images/Pasted image 20240510145119.png]]
 
-![[Pasted image 20240510145421.png]]
+![[Trash/SYNC/Images/Pasted image 20240510145421.png]]
 
 
 Rule #2. Resist machine drift
-![[Pasted image 20240510145851.png]]
-![[Pasted image 20240510145919.png]]
+![[Trash/SYNC/Images/Pasted image 20240510145851.png]]
+![[Trash/SYNC/Images/Pasted image 20240510145919.png]]
 rule #3 Demote your devices
-![[Pasted image 20240510151405.png]]
-![[Pasted image 20240510151451.png]]
+![[Trash/SYNC/Images/Pasted image 20240510151405.png]]
+![[Trash/SYNC/Images/Pasted image 20240510151451.png]]
 
 Rule #4 Leave Handprints
-![[Pasted image 20240510151528.png]]
-![[Pasted image 20240510151546.png]]
+![[Trash/SYNC/Images/Pasted image 20240510151528.png]]
+![[Trash/SYNC/Images/Pasted image 20240510151546.png]]
 
 
 ## Rule #2

@@ -51,15 +51,15 @@ evolutionary humanism?
 Liberal humanism is the domaint relaigion of the last 300 hundred years. Doesn't mean that we can't practice another reigious belief. However, world wide, cultural liberalism is the most popualr set of beliefs around the world. We probably believer that human life is special and sacred, and we occupy a sacred plave in the world
 
 We probably believe in all five of these.
-![[Pasted image 20240222120015.png]]
+![[Trash/SYNC/Images/Pasted image 20240222120015.png]]
 
 
 How do these connect to the new agenda?
-![[Pasted image 20240222153533.png]]
+![[Trash/SYNC/Images/Pasted image 20240222153533.png]]
 
 **New religions might come: Techno-Humanism and dataism**
 
-![[Pasted image 20240222153738.png]]
+![[Trash/SYNC/Images/Pasted image 20240222153738.png]]
 
 Why can't we stop?
 - We're not going to stop buying bionic limbs, because we're worried about how other people will upgrade themselves
@@ -76,7 +76,7 @@ Even if we wanted to beat death, simply pursing that, will lead to super humans
 - **Would you do it?**** It's hard to say.
 Because of these reasons, we won't hit the brakes
 
-![[Pasted image 20240222154311.png]]
+![[Trash/SYNC/Images/Pasted image 20240222154311.png]]
 
 We haven't solved death, happiness, or super humans yet.
 
@@ -105,15 +105,15 @@ We no longer consult god or church in the same way that we use to.
 
 He argues that both deaths were positive, and it may be a good thing now, but who knows.....
 
-![[Pasted image 20240222162619.png]]
+![[Trash/SYNC/Images/Pasted image 20240222162619.png]]
 
 Humans treat animals poorly
 - Farms, crates, sent to the butcher, fry and eat them
-- Cook their babies, wear their skin![[Pasted image 20240222163428.png]]
+- Cook their babies, wear their skin![[Trash/SYNC/Images/Pasted image 20240222163428.png]]
 
 Will superhumans/AI, be superior to humans? 
 
-![[Pasted image 20240222163315.png]]
+![[Trash/SYNC/Images/Pasted image 20240222163315.png]]
 
 What is the reason why we think humans are different or superior to animals?
 
@@ -124,7 +124,7 @@ The only thing left that makes humans more special than animals is that maybe we
 - Have a soul?
 - Free will? 
 
-![[Pasted image 20240222164048.png]]
+![[Trash/SYNC/Images/Pasted image 20240222164048.png]]
 
 Our brains, are just algorithms
 - Neurons firing away
@@ -136,7 +136,7 @@ Since we're special and sacred, death is a crime against us
 
 As we tackle these problems, we discover that humanity may not be that special. 
 
-![[Pasted image 20240222165402.png]]
+![[Trash/SYNC/Images/Pasted image 20240222165402.png]]
 
 Death is an attack on the sacredness of humanity.
 
