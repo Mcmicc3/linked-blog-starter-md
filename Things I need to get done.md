@@ -1,20 +1,3 @@
-1. 
-
-## CSUSB
-909-537-5188
-Admissions Counselor
-
-Send transcripts, to who? department, over the mail, or in person.
-
-It has to be in a sealed envelope if I do it in person or through the mail
-	- Admissions office if I do it in person...
-**Can't do email - That would be an unofficial Transcript**
-
-I can also use an Online service --- parchment........**3rd party tool**
-
-## FC
-
-
 1.  Submit CAB assignment
 2. EMAIL PROFESSOR Tutor position
 3. 
