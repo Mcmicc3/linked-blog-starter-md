@@ -75,7 +75,8 @@
 | \n                   | Newline (line break) |
 | \\                   | Backslash            |
 
-# Loops
+# Python Basics
+## Loops
 ###### Break Statements in While loops
 ``` Python
 ➊ while True:  
@@ -132,7 +133,7 @@ for i in range(5, -1, -1):
 ```
 
 
-# Import
+## Import
 random
 - Introduces random.randint()
 ```python
@@ -166,7 +167,7 @@ An alternative form of the import statement is composed of the from keyword, fol
 With this form of import statement, calls to functions in random will not need the random. prefix. However, using the full name makes for more readable code, so it is better to use the import random form of the statement.
 
 
-# Functions
+## Functions
 
 ### **def Statements with Parameters**
 
@@ -286,7 +287,7 @@ print(spam(1))
 ```
 
 
-# Lists
+## Lists
 
 ### **Lists example**
 ``` python
@@ -859,7 +860,7 @@ _Figure 4-7: cheese = copy.copy(spam) creates a second list that can be modified
 
 If the list you need to copy contains lists, then use the copy.deepcopy() function instead of copy.copy(). The deepcopy() function will copy these inner lists as well.
 
-# Dictionaries and Structuring Data
+## Dictionaries and Structuring Data
 
 ### **The Dictionary Data Type**
 
@@ -1127,7 +1128,7 @@ The output of this program looks like this:
 ```
 
 
-# Manipulating Strings
+## Manipulating Strings
 ##### **Double Quotes**
 
 Strings can begin and end with double quotes, just as they do with single quotes. One benefit of using double quotes is that the string can have a single quote character in it. Enter the following into the interactive shell:
@@ -1550,3 +1551,221 @@ Optionally, a string argument will specify which characters on the ends should b
 
 Passing strip() the argument 'ampS' will tell it to strip occurrences of a, m, p, and capital S from the ends of the string stored in spam. The order of the characters in the string passed to strip() does not matter: strip('ampS') will do the same thing as strip('mapS') or strip('Spam').
 
+### **Numeric Values of Characters with the ord() and chr() Functions**
+
+Computers store information as bytes—strings of binary numbers, which means we need to be able to convert text to numbers. Because of this, every text character has a corresponding numeric value called a _Unicode code point_. For example, the numeric code point is 65 for 'A', 52 for '4', and 33 for '!'. You can use the ord() function to get the code point of a one-character string, and the chr() function to get the one-character string of an integer code point. Enter the following into the interactive shell:
+
+``` python 
+>>> ord('A')  
+65  
+>>> ord('4')  
+52  
+>>> ord('!')  
+33  
+>>> chr(65)  
+'A'
+```
+
+These functions are useful when you need to do an ordering or mathematical operation on characters:
+
+``` python
+>>> ord('B')  
+66  
+>>> ord('A') < ord('B')  
+True  
+>>> chr(ord('A'))  
+'A'  
+>>> chr(ord('A') + 1)  
+'B'
+```
+
+There is more to Unicode and code points, but those details are beyond the scope of this book.
+
+### **Copying and Pasting Strings with the pyperclip Module**
+
+The pyperclip module has copy() and paste() functions that can send text to and receive text from your computer’s clipboard. Sending the output of your program to the clipboard will make it easy to paste it into an email, word processor, or some other software.
+
+The pyperclip module does not come with Python. To install it, follow the directions for installing third-party modules in [Appendix A](https://learning.oreilly.com/library/view/automate-the-boring/9781098122584/xhtml/app01.xhtml#app01). After installing pyperclip, enter the following into the interactive shell:
+
+``` python
+>>> import pyperclip  
+>>> pyperclip.copy('Hello, world!')  
+>>> pyperclip.paste()  
+'Hello, world!'
+```
+
+Of course, if something outside of your program changes the clipboard contents, the paste() function will return it. For example, if I copied this sentence to the clipboard and then called paste(), it would look like this:
+
+``` python 
+>>> pyperclip.paste()  
+'For example, if I copied this sentence to the clipboard and then called  
+paste(), it would look like this:'
+```
+
+
+# Pattern Matching with Regular Expressions
+
+### **Program used for finding phone numbers**
+Example of a program designed to find phone numbers, using regular expressions
+``` python
+def isPhoneNumber(text):  
+  ➊ if len(text) != 12:  
+         return False  
+     for i in range(0, 3):  
+      ➋ if not text[i].isdecimal():  
+             return False  
+  ➌ if text[3] != '-':  
+         return False  
+     for i in range(4, 7):  
+      ➍ if not text[i].isdecimal():  
+             return False  
+  ➎ if text[7] != '-':  
+         return False  
+     for i in range(8, 12):  
+      ➏ if not text[i].isdecimal():  
+             return False  
+  ➐ return True  
+  
+print('Is 415-555-4242 a phone number?')  
+print(isPhoneNumber('415-555-4242'))  
+print('Is Moshi moshi a phone number?')  
+print(isPhoneNumber('Moshi moshi'))
+```
+
+When this program is run, the output looks like this:
+
+``` python
+Is 415-555-4242 a phone number?  
+True  
+Is Moshi moshi a phone number?  
+False
+```
+
+Example of the same program being used to find phone numbers in a large body of text:
+``` python
+message = 'Call me at 415-555-1011 tomorrow. 415-555-9999 is my office.'  
+for i in range(len(message)):  
+  ➊ chunk = message[i:i+12]  
+  ➋ if isPhoneNumber(chunk):  
+          print('Phone number found: ' + chunk)  
+print('Done')
+```
+
+When this program is run, the output will look like this:
+
+``` python
+Phone number found: 415-555-1011  
+Phone number found: 415-555-9999  
+Done
+```
+
+On each iteration of the for loop, a new chunk of 12 characters from message is assigned to the variable chunk ➊. For example, on the first iteration, i is 0, and chunk is assigned message[0:12] (that is, the string 'Call me at 4'). On the next iteration, i is 1, and chunk is assigned message[1:13] (the string 'all me at 41'). In other words, on each iteration of the for loop, chunk takes on the following values:
+
+- 'Call me at 4'
+- 'all me at 41'
+- 'll me at 415'
+- 'l me at 415-'
+- . . . and so on.
+
+### **Finding Patterns of Text with Regular Expressions**
+We can find phone numbers quicker with Regex
+
+Regular expressions, called _regexes_ for short, are descriptions for a pattern of text. For example, a \d in a regex stands for a digit character—that is, any single numeral from 0 to 9. The regex \d\d\d-\d\d\d-\d\d\d\d is used by Python to match the same text pattern the previous isPhoneNumber() function did: a string of three numbers, a hyphen, three more numbers, another hyphen, and four numbers. Any other string would not match the \d\d\d-\d\d\d-\d\d\d\d regex.
+
+But regular expressions can be much more sophisticated. For example, adding a 3 in braces ({3}) after a pattern is like saying, “Match this pattern three times.” So the slightly shorter regex \d{3}-\d{3}-\d{4} also matches the correct phone number format.
+
+#### **_Creating Regex Objects_**
+
+All the regex functions in Python are in the re module. Enter the following into the interactive shell to import this module:
+
+``` python
+>>> import re
+```
+
+Passing a string value representing your regular expression to re.compile() returns a Regex pattern object (or simply, a Regex object).
+
+To create a Regex object that matches the phone number pattern, enter the following into the interactive shell. (Remember that \d means “a digit character” and \d\d\d-\d\d\d-\d\d\d\d is the regular expression for a phone number pattern.)
+
+``` python
+>>> phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
+```
+
+Now the phoneNumRegex variable contains a Regex object.
+
+#### **_Matching Regex Objects_**
+
+A Regex object’s search() method searches the string it is passed for any matches to the regex. The search() method will return None if the regex pattern is not found in the string. If the pattern _is_ found, the search() method returns a Match object, which have a group() method that will return the actual matched text from the searched string. (I’ll explain groups shortly.) For example, enter the following into the interactive shell:
+
+``` python
+>>> phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')  
+>>> mo = phoneNumRegex.search('My number is 415-555-4242.')  
+>>> print('Phone number found: ' + mo.group())  
+Phone number found: 415-555-4242
+```
+
+#### **_Review of Regular Expression Matching_**
+
+While there are several steps to using regular expressions in Python, each step is fairly simple.
+
+1. Import the regex module with import re.
+2. Create a Regex object with the re.compile() function. (Remember to use a raw string.)
+3. Pass the string you want to search into the Regex object’s search() method. This returns a Match object.
+4. Call the Match object’s group() method to return a string of the actual matched text.
+
+#### **_Grouping with Parentheses_**
+
+Say you want to separate the area code from the rest of the phone number. Adding parentheses will create _groups_ in the regex: (\d\d\d)-(\d\d\d-\d\d\d\d). Then you can use the group() match object method to grab the matching text from just one group.
+
+The first set of parentheses in a regex string will be group 1. The second set will be group 2. By passing the _integer_ 1 or 2 to the group() match object method, you can grab different parts of the matched text. Passing 0 or nothing to the group() method will return the entire matched text. Enter the following into the interactive shell:
+
+``` python
+>>> phoneNumRegex = re.compile(r'(\d\d\d)-(\d\d\d-\d\d\d\d)')  
+>>> mo = phoneNumRegex.search('My number is 415-555-4242.')  
+>>> mo.group(1)  
+'415'  
+>>> mo.group(2)  
+'555-4242'  
+>>> mo.group(0)  
+'415-555-4242'  
+>>> mo.group()  
+'415-555-4242'
+```
+
+If you would like to retrieve all the groups at once, use the groups() method—note the plural form for the name.
+
+``` python
+>>> mo.groups()  
+('415', '555-4242')  
+>>> areaCode, mainNumber = mo.groups()  
+>>> print(areaCode)  
+415  
+>>> print(mainNumber)  
+555-4242
+```
+
+Since mo.groups() returns a tuple of multiple values, you can use the multiple-assignment trick to assign each value to a separate variable, as in the previous areaCode, mainNumber = mo.groups() line.
+
+Parentheses have a special meaning in regular expressions, but what do you do if you need to match a parenthesis in your text? For instance, *maybe the phone numbers you are trying to match have the area code set in parentheses.* In this case, you need to escape the ( and ) characters with a backslash. Enter the following into the interactive shell:
+
+``` python
+>>> phoneNumRegex = re.compile(r'(\(\d\d\d\)) (\d\d\d-\d\d\d\d)')  
+>>> mo = phoneNumRegex.search('My phone number is (415) 555-4242.')  
+>>> mo.group(1)  
+'(415)'  
+>>> mo.group(2)  
+'555-4242'
+```
+
+The \( and \) escape characters in the raw string passed to re.compile() will match actual parenthesis characters. In regular expressions, the following characters have special meanings:
+
+```python
+.  ^  $  *  +  ?  {  }  [  ]  \  |  (  )
+```
+
+If you want to detect these characters as part of your text pattern, you need to escape them with a backslash:
+
+``` python
+\.  \^  \$  \*  \+  \?  \{  \}  \[  \]  \\  \|  \(  \)
+```
+
+#### **_Matching Multiple Groups with the Pipe_**
