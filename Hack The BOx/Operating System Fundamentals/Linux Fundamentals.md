@@ -1,3 +1,4 @@
+
 | **Command** | **Description**                                                                                                                    |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | `whoami`    | Displays current username.                                                                                                         |
@@ -20,7 +21,7 @@
 
 
 
-[[Linux cheatsheet]]
+[[Trash/SYNC/Hack The BOx/Operating System Fundamentals/Linux cheatsheet]]
 
 **Breaking down ls -l
 

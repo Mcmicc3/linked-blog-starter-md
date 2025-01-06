@@ -1,15 +1,15 @@
 [1. Introduction to Systems Analysis and Design](https://docs.google.com/presentation/d/1JSgEoz5CJXbyZJjwRo0_CMNLIZJar9lw/edit#slide=id.p1)
 
 ## Software Development Life Cycle
-![[Pasted image 20240829105919.png]]
+![[Trash/SYNC/Images/Pasted image 20240829105919.png]]
 
 
 ## Planning Phase
-![[Pasted image 20240829103613.png]]
+![[Trash/SYNC/Images/Pasted image 20240829103613.png]]
 
 ## Analysis Phase
-![[Pasted image 20240829103645.png]]
-![[Pasted image 20240829103716.png]]
+![[Trash/SYNC/Images/Pasted image 20240829103645.png]]
+![[Trash/SYNC/Images/Pasted image 20240829103716.png]]
 
 ## Design Phase
 - Develop a design strategy
@@ -31,23 +31,23 @@
 ## Software Development Life Cycle Cont'd
 - Process and deliverables
  
-![[Pasted image 20240829104443.png]]
+![[Trash/SYNC/Images/Pasted image 20240829104443.png]]
 ## Systems Development Problems
 - Why do we need Systems Analysis and Design?
-![[Pasted image 20240829104620.png]]![[Pasted image 20240829104809.png]]
+![[Trash/SYNC/Images/Pasted image 20240829104620.png]]![[Trash/SYNC/Images/Pasted image 20240829104809.png]]
 - **Grass root problem**
 - Planning error
-![[Pasted image 20240829104914.png]]
+![[Trash/SYNC/Images/Pasted image 20240829104914.png]]
 - **Grass root problem**
 - Planning error
-![[Pasted image 20240829105329.png]]
-![[Pasted image 20240829105341.png]]
+![[Trash/SYNC/Images/Pasted image 20240829105329.png]]
+![[Trash/SYNC/Images/Pasted image 20240829105341.png]]
 - Bad planning
-![[Pasted image 20240829105521.png]]
-![[Pasted image 20240829105535.png]]
-![[Pasted image 20240829105749.png]]
+![[Trash/SYNC/Images/Pasted image 20240829105521.png]]
+![[Trash/SYNC/Images/Pasted image 20240829105535.png]]
+![[Trash/SYNC/Images/Pasted image 20240829105749.png]]
 - Bad analysis
-![[Pasted image 20240829110930.png]]
+![[Trash/SYNC/Images/Pasted image 20240829110930.png]]
 
 - Triangle is planning
 - Diamond is analysis

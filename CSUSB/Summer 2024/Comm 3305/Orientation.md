@@ -1,6 +1,6 @@
-![[Pasted image 20240604175149.png]]
+![[Trash/SYNC/Images/Pasted image 20240604175149.png]]
 
-![[Pasted image 20240604175205.png]]
+![[Trash/SYNC/Images/Pasted image 20240604175205.png]]
 
 # Important Variables
 1. Society
@@ -10,7 +10,7 @@
 3. Digital Media
 	- Shaped culture and society, in the same that society and culture helped shape digital media
 
-![[Pasted image 20240604175411.png]]
+![[Trash/SYNC/Images/Pasted image 20240604175411.png]]
 
 theo.mazumdar@csusb.edu
 
@@ -21,28 +21,28 @@ Content that is "transmitted as digital data, which as its simplest involves dig
 - Online or offline
 - Digital media translates this media faster than anything else
 - Internet based media
- ![[Pasted image 20240604175921.png]]
+ ![[Trash/SYNC/Images/Pasted image 20240604175921.png]]
 
 
 #### Components of the communication process
-![[Pasted image 20240604181957.png]]
+![[Trash/SYNC/Images/Pasted image 20240604181957.png]]
 - Includes social, relational, cultural, physical and psychological contexts
 
 Digital media is the channel in which communication takes place. 
 - Sometimes the use of digital media creates certain cultures. 
 
-![[Pasted image 20240604182619.png]]
+![[Trash/SYNC/Images/Pasted image 20240604182619.png]]
 mediated-interpersonal comm is when people are talking over zoom in real time
 
 A few people keep their cameras off because they're concerned of what other people might think
 
 
 #### Technical Features | Affordances and Constraints
-![[Pasted image 20240604182816.png]]
+![[Trash/SYNC/Images/Pasted image 20240604182816.png]]
 
 1. **Technical Features** (desribe appearances, components, and/or capabilities)
 
-![[Pasted image 20240604183102.png]]
+![[Trash/SYNC/Images/Pasted image 20240604183102.png]]
 - Leather straps, digital but made to look analog window of the time and date
 - It's retro, used to display the rich history of watches back in the day. 
 - Says Paris, meant to give the idea of luxury. 
@@ -52,7 +52,7 @@ A few people keep their cameras off because they're concerned of what other peop
 
 #### Affordances
 The fundamental properties that **determine** how the technology can be used. 
-![[Pasted image 20240604183312.png]]
+![[Trash/SYNC/Images/Pasted image 20240604183312.png]]
 - Desk??
 - Communication medium like a phone
 - A doorknob?
@@ -60,7 +60,7 @@ The fundamental properties that **determine** how the technology can be used.
 - Scissors
 	- Fingers go through the whole, allowing people to use this technology to cut
 
-![[Pasted image 20240604183325.png]]
+![[Trash/SYNC/Images/Pasted image 20240604183325.png]]
 - Started before the pandemic, not completed
 - *What are the affordances?* fundamental properties that determine how the technology can be used
 - Flat surface? Afford builing to be built (lol) and allows residents to look through them since they're glass
@@ -78,18 +78,18 @@ The fundamental properties that *limit* how the technology can be used
 	- Much more focused on style and fashion, rather than practical fitness workouts
 
 In **Communication**, tech affordances are the manner in which a tool or medium affords uses to individuals
-![[Pasted image 20240604191818.png]]
+![[Trash/SYNC/Images/Pasted image 20240604191818.png]]
 
-![[Pasted image 20240604192312.png]]
+![[Trash/SYNC/Images/Pasted image 20240604192312.png]]
 ###### Affordances
 Ability to upload digital music files to the ipod, and lets you scroll through and listen to music in your pocket, and create a music collection
 
 ###### Constrains
 Can't be used as a telephone. Therefore, when the iPhone came out, the iPod became obsolete. 
 
-![[Pasted image 20240604192506.png]]
+![[Trash/SYNC/Images/Pasted image 20240604192506.png]]
 
-![[Pasted image 20240604192522.png]]
+![[Trash/SYNC/Images/Pasted image 20240604192522.png]]
 
 - Benefits: How does the product make the lives of their consumers better?
 - Affords the ability to take better pictures,  faster navigate the iPhone, longer battery life, customize the iPhone like you couldn't before, and use in emergency instances despite being outside of wifi range and data plan. 
@@ -97,7 +97,7 @@ Can't be used as a telephone. Therefore, when the iPhone came out, the iPod beca
 
 #### Affordances and constraints of a virtual headset?
 
-![[Pasted image 20240604192705.png]]
+![[Trash/SYNC/Images/Pasted image 20240604192705.png]]
 ###### Affordances
 Affords the ability to emerse ourselves in a virtual world. Not cumbersome, which means it lets us keep our legs and arms free, so we can use our limbs as part of the emersive experience
 
@@ -105,7 +105,7 @@ Affords the ability to emerse ourselves in a virtual world. Not cumbersome, whic
 It's bulky on your head, so you can't walk around anywhere with it. You have to be constrained in a single room. The technology is not there yet.
 
 #### Affordances and constraints to social media
-![[Pasted image 20240604192907.png]]
+![[Trash/SYNC/Images/Pasted image 20240604192907.png]]
 
 ###### Affordances
 Instagram affords the ability to emphasize story telling through images. 
@@ -126,15 +126,15 @@ Technological affordances **vary** based on these factors
 - **Contextual*
 	- *
 
-![[Pasted image 20240604222109.png]]
+![[Trash/SYNC/Images/Pasted image 20240604222109.png]]
 
 Tumblr is a safe space for swifties lol 
-![[Pasted image 20240604222032.png]]
+![[Trash/SYNC/Images/Pasted image 20240604222032.png]]
 - Other platforms have more bullying
 
 
 Movie shot on iPhone 
-![[Pasted image 20240604231857.png]]
+![[Trash/SYNC/Images/Pasted image 20240604231857.png]]
 
 What are the affordances/constraints of Tinder and eHarmony and what is their significance?
 

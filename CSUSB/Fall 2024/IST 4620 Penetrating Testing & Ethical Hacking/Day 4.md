@@ -65,7 +65,7 @@ Now we're going to add a router
 ~ sudo route add default gw 192.168.1.1
 ~ nano /etc/resolv/conf
 - Get rid of everything above nameserver
-![[Pasted image 20240910140941.png]]
+![[Trash/SYNC/Images/Pasted image 20240910140941.png]]
 * And instead, change nameserver to 8.8.8.8
 * ctrl x + ctrl y + enter
 

@@ -3,14 +3,14 @@
 ?      |   "characters of this size" "?? or ?????"
 
 ls
-![[Pasted image 20230921121839.png]]
+![[Trash/SYNC/Images/Pasted image 20230921121839.png]]
 	ls /bin /usr/bin | sort | uniq | grep zip
 cd
-![[Pasted image 20230921121350.png]]
+![[Trash/SYNC/Images/Pasted image 20230921121350.png]]
 cat
 	cat *
 	cat $PWD/-
-	![[Pasted image 20230921152719.png]] *Power of the tab command*
+	![[Trash/SYNC/Images/Pasted image 20230921152719.png]] *Power of the tab command*
 file
 	file $PWD/*
 less

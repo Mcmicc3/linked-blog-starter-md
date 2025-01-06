@@ -16,9 +16,9 @@ Damn lol
 **Friday Kriedeman** 6:28 PM  
 https://calendar.google.com/calendar/u/2?cid=Y181NzgwYmFhNTZjZTJhYjE1MzIyN2Q1Zjk0OTgxZWZmOGMxMzUxMWUzNjQ1NDhkNDIxMTkxY2JmY2ZmNzNiOThiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 
-![[Pasted image 20240821172816.png]]
+![[Trash/SYNC/Images/Pasted image 20240821172816.png]]
 
-![[Pasted image 20240821172824.png]]
+![[Trash/SYNC/Images/Pasted image 20240821172824.png]]
 
 
-![[Pasted image 20240821172832.png]]
+![[Trash/SYNC/Images/Pasted image 20240821172832.png]]

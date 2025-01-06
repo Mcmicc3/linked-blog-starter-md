@@ -1,4 +1,4 @@
-![[Pasted image 20240910110204.png]]
+![[Trash/SYNC/Images/Pasted image 20240910110204.png]]
 - Refer to Students Registration System Cost Benefit Analysis.exe
 
 "Operational cost is ongoing"

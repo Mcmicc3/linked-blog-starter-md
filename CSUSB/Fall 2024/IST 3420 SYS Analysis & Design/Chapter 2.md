@@ -16,10 +16,10 @@
 	- Anaylsis strategy
 	- Requirements gatehr
 	- Deliverables: system proposal
-![[Pasted image 20240829111827.png]]
+![[Trash/SYNC/Images/Pasted image 20240829111827.png]]
 
 
-![[Pasted image 20240829111751.png]]
+![[Trash/SYNC/Images/Pasted image 20240829111751.png]]
 - Answer is B
 
 ## SDLC Methodologies
@@ -41,12 +41,12 @@
 	- Agile development
 		- eXtreme Programming (XP)
 		- SCRUM
-![[Pasted image 20240829112058.png]]
+![[Trash/SYNC/Images/Pasted image 20240829112058.png]]
 ## Waterfall methodology
-![[Pasted image 20240829112125.png]]
+![[Trash/SYNC/Images/Pasted image 20240829112125.png]]
 
 ## Parallel Development Methodology
-![[Pasted image 20240829112306.png]]
+![[Trash/SYNC/Images/Pasted image 20240829112306.png]]
 
 |                                                  |                                            |
 | ------------------------------------------------ | ------------------------------------------ |
@@ -73,23 +73,23 @@
 		- Design prototyping
 
 ## Phased Development Methodology
-![[Pasted image 20240829112742.png]]
+![[Trash/SYNC/Images/Pasted image 20240829112742.png]]
 
 ## Prototyping Methodology
-![[Pasted image 20240829112759.png]]
+![[Trash/SYNC/Images/Pasted image 20240829112759.png]]
 
 ## Thowaway Prototyping Methodology
-![[Pasted image 20240829112812.png]]
+![[Trash/SYNC/Images/Pasted image 20240829112812.png]]
 
 # Agile Methodologies
 What are agile methodolies?
 - A combination of **iterative and incremental** process models with focus on process **adapatability** and **customer satisfaction** by **rapid delivery** of working product
 - Each iteration deliver a product build (version)
 - Each increment aims to enhance and improve the previous build.
-![[Pasted image 20240829113248.png]]
+![[Trash/SYNC/Images/Pasted image 20240829113248.png]]
 
 ## Extreme Programming
-![[Pasted image 20240829113344.png]]
+![[Trash/SYNC/Images/Pasted image 20240829113344.png]]
 
 |                 |                                  |
 | --------------- | -------------------------------- |

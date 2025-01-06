@@ -1,5 +1,5 @@
-![[Pasted image 20231022182933.png]]
-![[Pasted image 20231022183014.png]]
+![[Trash/SYNC/Images/Pasted image 20231022182933.png]]
+![[Trash/SYNC/Images/Pasted image 20231022183014.png]]
 en
 conf ter
 int ga0/1
