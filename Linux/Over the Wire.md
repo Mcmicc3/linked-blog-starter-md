@@ -15,16 +15,17 @@ The password for the next level is stored in a file called readme located in the
 ~$ cat readme
 *or*
 ~$ cat *
-lvl1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+lvl1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 # Level 1
 The password for the next level is stored in a file called - located in the home directory
 ~$ cat $PWD/-     "*or*"
-~$ cat /home/bandit1/-
+~$ cat /home/bandit1/-  "*or*"
+~$ cat ~/-
 
 "Can only be opened through absolute path"
 Absolute path: pwd
-Lvl2: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+Lvl2: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 # Level 2
 The password for the next level is stored in a file called spaces in this filename located in the home directory
@@ -34,7 +35,7 @@ The password for the next level is stored in a file called spaces in this filena
 ~$ cat spaces\ in\ this\ filename
 **"or"**
 ~$ cat $PWD/*
-Lvl3: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+Lvl3: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 # Level 3
 The password for the next level is stored in a hidden file in the inhere directory.
@@ -43,7 +44,7 @@ The password for the next level is stored in a hidden file in the inhere directo
 ~$ cd inhere
 ~$ ls -a
 ~$ cat .hidden
-Lvl4: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+Lvl4: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 # Level 4
 The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.
@@ -55,7 +56,7 @@ The password for the next level is stored in the only human-readable file in the
 or
 ~$ file $PWD/*
 ~$ cat /home/bandit4/inhere/-file07
-lvl5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+lvl5: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 
 # Level 5
@@ -69,19 +70,13 @@ The password for the next level is stored in a file somewhere under the inhere d
 ~$ ls -alpRs
 ~$ cd maybehere07
 ~$ cat $PWD/.file2
-"or"
-~$ find . -type f -size 1033c
-"or"
-~$ find .-type f -name .file2 -size 1033c 2> /dev/null
-lvl6: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
-HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
-
-
-
 "*or*"
-
+~$ find . -type f -size 1033c
+"*or*"
+~$ find .-type f -name .file2 -size 1033c 2> /dev/null
+"*or*"
 ~$ find -type f -size 1033c ! -executable
-
+lvl6: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 # Level 6
 The password for the next level is stored somewhere on the server and has all of the following properties:
 
@@ -98,8 +93,7 @@ _-size the size of the file._
 _2>/dev/null redirects error messages to null so that they do not show on stdout._
 
 ~$ cat /var/lib/dpkg/info/bandit7.password
-lvl7: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
-morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+lvl7: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 # Level 7
 The password for the next level is stored in the file data.txt next to the word millionth
@@ -109,14 +103,10 @@ Level 7 commands: [man](https://man7.org/linux/man-pages/man1/man.1.html), grep,
 ~$ ls
 *data.txt*
 ~$ grep "millionth" data.txt
-millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
-
 **or**
-
 ~$ sort data.txt | grep millionth
 
-TESKZC0XvTetK0S9xNwm25STk5iWrBvP
-dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+level 8: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 # Level 8
 The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
@@ -125,7 +115,7 @@ The password for the next level is stored in the file data.txt and is the only l
 grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
 ~$ sort data.txt | uniq -u
-4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+Level 9: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 
 # Level 9
 
