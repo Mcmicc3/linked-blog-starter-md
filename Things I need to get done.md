@@ -1,5 +1,5 @@
-1.  Submit CAB assignment
-2. EMAIL PROFESSOR Tutor position
+1.  
+2. 
 3. 
 4. 
 5.  
