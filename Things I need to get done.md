@@ -2,14 +2,14 @@
 2.  Who I want to be when I grow up
 3.  Red Hat Academy
 4.  Cloud Computing Lab Assignments
-5.  Cloud Week 1 discussion post
+5. 
 6. Read Web Security book 
 7.  Practice NCAE
 8.  RH Chapter 1 Quiz (Canvas)
-9.  1 Hour of Spanish Lab
+9.  1 Hour of Spanish Lab (Done?)
 10. 
 11. Review Docker
-12.  
+12.  Ask about Panda Express Fundraiser 
 
 ## Personal Projects/Research
 1.  AI Stuff
