@@ -1,15 +1,15 @@
 1.  Navsea Project
-2.  Who I want to be when I grow up
+2.  
 3.  Red Hat Academy
-4.  Cloud Computing Lab Assignments
+4. 
 5. 
-6. Read Web Security book 
+6.  Read Web Security book 
 7.  Practice NCAE
-8.  RH Chapter 1 Quiz (Canvas)
+8.  
 9.  1 Hour of Spanish Lab (Done?)
 10. 
 11. Review Docker
-12.  Ask about Panda Express Fundraiser 
+12. Ask about Panda Express Fundraiser 
 
 ## Personal Projects/Research
 1.  AI Stuff
