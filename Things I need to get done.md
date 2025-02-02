@@ -1,7 +1,7 @@
 1.  Navsea Project
-2.  
+2.  Apply for SFS
 3.  Red Hat Academy
-4. 
+4.  Build Active Directory project
 5. 
 6.  Read Web Security book 
 7.  Practice NCAE
