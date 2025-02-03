@@ -1,5 +1,5 @@
 
-# Root Directory
+# Linux Directories
 The shell executes the actual command
 
 /BIN : Holds all of your programs. Known as binaries
@@ -41,7 +41,22 @@ The shell executes the actual command
 - /var/www Default location for web server files
 
 Hard links vs sym links
-# 10-11-24
+
+**Another way to remember it**
+
+|Location|Purpose|
+|:--|:--|
+|`/boot`|Files to start the boot process.|
+|`/dev`|Special device files that the system uses to access hardware.|
+|`/etc`|System-specific configuration files.|
+|`/home`|Home directory, where regular users store their data and configuration files.|
+|`/root`|Home directory for the administrative superuser, `root`.|
+|`/run`|Runtime data for processes that started since the last boot. This data includes process ID files and lock files. The contents of this directory are re-created on reboot. This directory consolidates the `/var/run` and `/var/lock` directories from earlier versions of Red Hat Enterprise Linux.|
+|`/tmp`|A world-writable space for temporary files. Files that are not accessed, changed, or modified for 10 days are deleted from this directory automatically. The `/var/tmp` directory is also a temporary directory, in which files that are not accessed, changed, or modified in more than 30 days are deleted automatically.|
+|`/usr`|Installed software, shared libraries, including files, and read-only program data. Significant subdirectories in the `/usr` directory include the following commands:<br><br>- `/usr/bin`: User commands<br>    <br>- `/usr/sbin`: System administration commands<br>    <br>- `/usr/local`: Locally customized software|
+|`/var`|System-specific variable data should persist between boots. Files that dynamically change, such as databases, cache directories, log files, printer-spooled documents, and website content, might be found under `/var`.|
+
+# Process Commands: ps, top... 
 ps
 - Shows processes, but not current
 
@@ -62,4 +77,5 @@ System users manages web servers and databases
 
 **pkill**: sends a signal to processes matching criteria
 - Kill everything for a certain user
+
 
