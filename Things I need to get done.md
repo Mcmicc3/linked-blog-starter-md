@@ -1,5 +1,5 @@
 1.  Navsea Project
-2.  
+2.  Schedule Open House 
 3.  Red Hat Academy
 4. 
 5. 
