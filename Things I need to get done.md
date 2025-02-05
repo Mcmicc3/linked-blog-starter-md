@@ -2,9 +2,9 @@
 2.  Apply for SFS
 3.  Red Hat Academy
 4.  Build Active Directory project
-5. 
+5. Practice NCAE
 6.  Read Web Security book 
-7.  Practice NCAE
+7.  
 8.  
 9.  1 Hour of Spanish Lab (Done?)
 10. 
