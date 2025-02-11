@@ -2,16 +2,16 @@
 2.  Build Active Directory project (Ongoing)
 3.  Red Hat Academy (Ongoing)
 4.  HTB (Ongoing)
-5. Practice NCAE (Ongoing)
-6. Apply for SFS (Sunday)
-7. Cloud Discussion Post  (Sunday)
-8.  Read Web Security book (Ongoing)
+5. Practice NCAE/ Playbook (Ongoing)
+6. Apply for SFS (**Today**)
+7. Cloud Lab Assignment
+8.  Research: Rocky, mikrotek & vyatta
 9.  1 Hour of Spanish Lab 
 10.  Apply for Masters 
 11. Ask about Panda Express Fundraiser 
-12. 
-13. Create a discord for the project
-14. Fill form for music
+12. Stupid 5 page paper (**Thursday**)
+13. Spanish HW (**Due Tomorrow**)
+14. 
 15. Review Docker
 
 ## Personal Projects/Research
