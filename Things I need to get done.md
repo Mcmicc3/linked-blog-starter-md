@@ -4,13 +4,13 @@
 4.  HTB (Ongoing)
 5. Practice NCAE/ Playbook (Ongoing)
 6. Apply for SFS (**Today**)
-7. Cloud Lab Assignment
+7. 
 8.  Research: Rocky, mikrotek & vyatta
 9.  1 Hour of Spanish Lab 
 10.  Apply for Masters 
 11. Ask about Panda Express Fundraiser 
 12. Stupid 5 page paper (**Thursday**)
-13. Spanish HW (**Due Tomorrow**)
+13. 
 14. 
 15. Review Docker
 

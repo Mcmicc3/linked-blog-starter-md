@@ -31,3 +31,5 @@ no shutdown
 exit
 show ip interface brief
 show ip dhcp binding
+
+
