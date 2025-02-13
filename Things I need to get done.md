@@ -1,30 +1,31 @@
-1.  NAVSEA Project (Ongoing)
-2.  Build Active Directory project (Ongoing)
-3.  Red Hat Academy (Ongoing)
-4.  HTB (Ongoing)
-5. Practice NCAE/ Playbook (Ongoing)
-6. Apply for SFS (**Today**)
-7. 
-8.  Research: Rocky, mikrotek & vyatta
-9.  1 Hour of Spanish Lab 
-10.  Apply for Masters 
-11. Ask about Panda Express Fundraiser 
-12. Stupid 5 page paper (**Thursday**)
-13. 
-14. 
-15. Review Docker
+1. CALL STUDENT FINANCIAL SERVICES (**THURSDAY**) 
+2. NAVSEA Project (Ongoing)
+3.  Build Active Directory project (Ongoing)
+4.  Red Hat Academy (Ongoing)
+5.  HTB (Ongoing)
+6. Practice NCAE/ Playbook (Ongoing)
+7. Apply for SFS (**Today**)
+8. APPLY FOR HOUSING (**ASAP**)
+9.  Research: Rocky, mikrotek & vyatta
+10.  1 Hour of Spanish Lab 
+11.  Apply for Masters (**ASAP**)
+12. Ask about Panda Express Fundraiser 
+13. Stupid 5 page paper (**Thursday**)
+14. APPLY FOR MASTERS
+15. FIGURE OUT HOUSING PAST DUES (**ASAP**)
+16. Review Docker
 
 ## Personal Projects/Research
-16.  AI Stuff
-17. Over the Wire
-18. NCL
-19. Command Line Book, Black Hat Python
-20. Docker
-21. Security+ 
-22. TMUX
-23. Raspberry Pi
-24. Fix Obsidian Sync
-25. Firewall container
+17.  AI Stuff
+18. Over the Wire
+19. NCL
+20. Command Line Book, Black Hat Python
+21. Docker
+22. Security+ 
+23. TMUX
+24. Raspberry Pi
+25. Fix Obsidian Sync
+26. Firewall container
 
 
 
