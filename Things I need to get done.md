@@ -36,7 +36,3 @@
 34. Raspberry Pi
 35. Fix Obsidian Sync
 36. Firewall container
-
-
-
-
