@@ -8,7 +8,7 @@
 8.  Red Hat Academy (Ongoing)
 9.  HTB (Ongoing)
 10. Practice NCAE/ Playbook (Ongoing)
-11. **CALL HOUSING AND TELL THEM YOU PAYED** (**Monday?Tuesday**)
+11. 
 12. Text Oscar and update him
 13. Research: Rocky, mikrotek & vyatta
 14. 1 Hour of Spanish Lab 
