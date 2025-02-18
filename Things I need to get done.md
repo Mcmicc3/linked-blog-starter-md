@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. 
 2. Fix Spanish exam (**Tuesday**)
 3. 
@@ -41,3 +42,5 @@
 39. Raspberry Pi
 40. Fix Obsidian Sync
 41. Firewall container
+=======
+>>>>>>> origin/main
