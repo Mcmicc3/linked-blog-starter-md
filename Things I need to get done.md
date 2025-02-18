@@ -1,38 +1,43 @@
 1. 
-2. NAVSEA Project (Ongoing)
-3.  Build Active Directory project (Ongoing)
-4.  Red Hat Academy (Ongoing)
-5.  HTB (Ongoing)
-6. Practice NCAE/ Playbook (Ongoing)
-7. 
-8. APPLY FOR HOUSING (**ASAP**)
-9.  Research: Rocky, mikrotek & vyatta
-10.  1 Hour of Spanish Lab 
-11.  Apply for Masters (**ASAP**)
-12. Ask about Panda Express Fundraiser 
-13. 
-14. Submit CAB form
-15. Troubleshoot Windows Server 2019
-16. Fill out CAPs form
-17. Fill out SFS form
-18. PAY HOUSING FEES (**TODAY**)
-19. 
-20. Review Docker
-21. |
-22. |
-23. |
-24. |
-25. |
-26.  Get smog check
+2. Fix Spanish exam (**Tuesday**)
+3. 
+4. Linux discussion (**Thursday**)
+5. Cloud group project contract (**23rd**)
+6. NAVSEA Project (Ongoing)
+7.  Build Active Directory project (Ongoing)
+8.  Red Hat Academy (Ongoing)
+9.  HTB (Ongoing)
+10. Practice NCAE/ Playbook (Ongoing)
+11. **CALL HOUSING AND TELL THEM YOU PAYED** (**Monday?Tuesday**)
+12. Text Oscar and update him
+13. Research: Rocky, mikrotek & vyatta
+14. 1 Hour of Spanish Lab 
+15. Fill out Masters application (**ASAP**)
+16. Ask about Panda Express Fundraiser 
+17. 
+18. Submit CAB form (**Monday**)
+19. Troubleshoot Windows Server 2019 (**Before Friday**)
+20. 
+21. Fill out SFS form (**ASAP**)
+22. 
+23. 
+24. 
+25. Review Docker
+26. |
+27. |
+28. |
+29. |
+30. |
+31.  Get smog check
 
 ## Personal Projects/Research
-27.  AI Stuff
-28. Over the Wire
-29. NCL
-30. Command Line Book, Black Hat Python
-31. Docker
-32. Security+ 
-33. TMUX
-34. Raspberry Pi
-35. Fix Obsidian Sync
-36. Firewall container
+32.  AI Stuff
+33. Over the Wire
+34. NCL
+35. Command Line Book, Black Hat Python
+36. Docker
+37. Security+ 
+38. TMUX
+39. Raspberry Pi
+40. Fix Obsidian Sync
+41. Firewall container
