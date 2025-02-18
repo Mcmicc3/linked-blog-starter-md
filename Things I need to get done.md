@@ -15,21 +15,27 @@
 15. Troubleshoot Windows Server 2019
 16. Fill out CAPs Form
 17. Fill out Fill out SFS Form
-18. 
-19. FIGURE OUT HOUSING PAST DUES (**ASAP**)
+18. PAY HOUSING FEES (**TODAY**)
+19. 
 20. Review Docker
+21. |
+22. |
+23. |
+24. |
+25. |
+26.  Get smog check
 
 ## Personal Projects/Research
-21.  AI Stuff
-22. Over the Wire
-23. NCL
-24. Command Line Book, Black Hat Python
-25. Docker
-26. Security+ 
-27. TMUX
-28. Raspberry Pi
-29. Fix Obsidian Sync
-30. Firewall container
+27.  AI Stuff
+28. Over the Wire
+29. NCL
+30. Command Line Book, Black Hat Python
+31. Docker
+32. Security+ 
+33. TMUX
+34. Raspberry Pi
+35. Fix Obsidian Sync
+36. Firewall container
 
 
 
