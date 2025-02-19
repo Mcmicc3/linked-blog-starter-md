@@ -10,3 +10,7 @@ In CoyoteGPT, if you type `#`, one of the options should say dogpark. It's loade
 Return routes,
 are the routes going up or down?
 
+---
+Review masquerades for networking
+
+
