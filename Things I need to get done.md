@@ -15,7 +15,7 @@
 14. 
 15. Fill out SFS form (**ASAP**)
 16. Review Docker
-17. |
+17. Email Dr. Coulson (**ASAP**)
 18. |
 19. |
 20. |
