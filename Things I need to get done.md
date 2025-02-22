@@ -12,7 +12,7 @@
 11. Fill out Masters application (**ASAP**)
 12. Ask about Panda Express Fundraiser 
 13. Submit CAB form (**ASAP**)
-14. 
+14. BUY WALMART STUFF FOR GAME NIGHT (**ASAP**)
 15. Fill out SFS form (**ASAP**)
 16. Review Docker
 17. Email Dr. Coulson (**ASAP**)
