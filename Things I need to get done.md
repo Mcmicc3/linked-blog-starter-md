@@ -1,8 +1,8 @@
 
-1. Fix Spanish exam (**Tuesday**)
+1. UPDATE RESUME (**ASAP**)
 2. Cloud group project contract (**23rd**)
 3. NAVSEA Project (**Ongoing**)
-4.  Build Active Directory project (**Ongoing**)
+4.  Weekly Active Directory project (**Ongoing**)
 5.  Red Hat Academy (**Ongoing**)
 6.  HTB (**Ongoing**)
 7. Practice NCAE/ Playbook (**Ongoing**)
@@ -12,7 +12,7 @@
 11. Fill out Masters application (**ASAP**)
 12. Ask about Panda Express Fundraiser 
 13. Submit CAB form (**ASAP**)
-14. Troubleshoot Windows Server 2019 (**Before Friday**)
+14. 
 15. Fill out SFS form (**ASAP**)
 16. Review Docker
 17. |
