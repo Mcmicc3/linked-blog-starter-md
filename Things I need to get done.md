@@ -25,7 +25,7 @@
 
 ## Weekly Homework
 1. Spanish HW (**March 3rd**)
-2. Cloud discussion post/contract submission/lectures
+2. Cloud discussion post
 3. Web Tech - Apache discussion
 
 ## Personal Projects/Research
