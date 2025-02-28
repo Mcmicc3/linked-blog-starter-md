@@ -1,27 +1,28 @@
 
 1.  UPDATE RESUME (**ASAP**)
-2.  NAVSEA Project (**Ongoing**)
-3.  Weekly Active Directory project (**Ongoing**)
-4.  Red Hat Academy (**Ongoing**)
-5.  HTB (**Ongoing**)
-6.  Fill out Masters application (**ASAP**)
-7.  BUY WALMART STUFF FOR GAME NIGHT (**ASAP**)
-8.  Fill out SFS form (**ASAP**)
-9. Email Dr. Coulson (**ASAP**)
-10. Text Oscar and update him
-11. Research: Rocky, mikrotek & vyatta
-12. 1 Hour of Spanish Lab 
-13. Post Udemy Tutorial on Discord (**Before Friday**)
+2.  Write a personal statement letter (**ASAP**)
+3.  NAVSEA Project (**Ongoing**)
+4.  Weekly Active Directory project (**Ongoing**)
+5.  Red Hat Academy (**Ongoing**)
+6.  HTB (**Ongoing**)
+7.  Fill out Masters application (**ASAP**)
+8.  BUY WALMART STUFF FOR GAME NIGHT (**ASAP**)
+9.  Fill out SFS form (**ASAP**)
+10. Email Dr. Coulson (**ASAP**)
+11. 
+12. Research: Rocky, mikrotek & vyatta
+13. 1 Hour of Spanish Lab 
 14. 
 15. 
-16. Renew registration
-17. Get smog check
-18. Review Docker
-19. Ask about Panda Express Fundraiser 
-20. |
+16. 
+17. Renew registration
+18. Get smog check
+19. Review Docker
+20. Ask about Panda Express Fundraiser 
 21. |
 22. |
-23. 
+23. |
+24. 
 
 ## Weekly Homework
 1. Spanish HW (**March 3rd**)
