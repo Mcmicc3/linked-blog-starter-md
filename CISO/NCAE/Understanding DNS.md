@@ -7,6 +7,11 @@
 - DNSSEC
 - Split-horizon DNS
 - DNS Forwarder
+- Forward Lookup Zone
+	- FQDN --> IP
+- Reverse Lookup Zone
+	- IP --> FQDN
+	- Often used for email servers
 - Unbound (DNS Software)
 	- Secure, Privacy-Focused, high-performance recursive DNS.
 	- Modern alternative to BIND
@@ -47,3 +52,13 @@ There isn't a **one-size-fits-all** DNS server because different **environments*
 - **dnsmasq:** **1-3 days** (basic setup, caching, DHCP).
 - **Unbound/CoreDNS:** **1-2 weeks** (recursive resolver, security, DNS-over-TLS).
 - **BIND/PowerDNS:** **1-3 months** (complex authoritative setups, advanced security, views, DNSSEC).
+
+## Reverse Lookup Zones
+Network ID backwards 
+1.56.168.192.in-addr.arpa
+- pointer record (PTR)
+- HOST= Server IP
+- FQDN (Backwards)
+*Required for mail servers*
+
+

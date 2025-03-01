@@ -8,7 +8,7 @@
 7.  Fill out Masters application (**ASAP**)
 8.  BUY WALMART STUFF FOR GAME NIGHT (**ASAP**)
 9.  Fill out SFS form (**ASAP**)
-10. Email Dr. Coulson (**ASAP**)
+10. Email Amy (**ASAP**)
 11. 
 12. Research: Rocky, mikrotek & vyatta
 13. 1 Hour of Spanish Lab 
@@ -27,7 +27,7 @@
 ## Weekly Homework
 1. Spanish HW (**March 3rd**)
 2. Cloud discussion post
-3. Web Tech - Apache discussion
+3. 
 
 ## Personal Projects/Research
 23.  AI Stuff
