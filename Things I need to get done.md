@@ -13,8 +13,8 @@
 12. Get Event Refund 
 13. Research: Rocky, mikrotek & vyatta
 14. 1 Hour of Spanish Lab 
-15. 
-16. 
+15. Docker Migration Project (**Ongoing**)
+16. Buy Scale Tickets 
 17. 
 18. Renew registration
 19. Get smog check
