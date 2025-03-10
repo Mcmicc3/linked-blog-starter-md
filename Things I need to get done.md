@@ -26,10 +26,10 @@
 25. 
 
 ## Weekly Homework
-1. Spanish Exam Fix
-2. Cloud discussion post / lecture 11
-3. Web Tech Midterm
-4. Finish Cloud Lab
+1. Spanish HW
+2. Cloud: 2 Lectures, 1 Discussion Post, & 1 LAB
+3. Web Tech Discussion
+4. 
 
 ## Personal Projects/Research
 23.  AI Stuff
