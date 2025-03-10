@@ -6,7 +6,7 @@
 5.  Red Hat Academy (**Ongoing**)
 6.  HTB (**Ongoing**)
 7.  Fill out Masters application (**ASAP**)
-8.  Fill out After Event Forms (**March 10th**)
+8. 
 9.  Fill out SFS form (**ASAP**)
 10. Email Amy (**ASAP**)
 11. GET YOUR FUCKING REFUND (**ASAP**)
@@ -14,7 +14,7 @@
 13. Research: Rocky, mikrotek & vyatta
 14. 1 Hour of Spanish Lab 
 15. Docker Migration Project (**Ongoing**)
-16. Buy Scale Tickets 
+16. 
 17. 
 18. Renew registration
 19. Get smog check
@@ -26,10 +26,10 @@
 25. 
 
 ## Weekly Homework
-1. Spanish Exam Fix
-2. Cloud discussion post / lecture 11
-3. Web Tech Midterm
-4. Finish Cloud Lab
+1. Spanish Extra Credit
+2. 
+3. Web Tech replies
+4. 
 
 ## Personal Projects/Research
 23.  AI Stuff
