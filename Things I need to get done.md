@@ -16,8 +16,8 @@
 15. Docker Migration Project (**Ongoing**)
 16. 
 17. 
-18. Renew registration
-19. Get smog check
+18. 
+19. 
 20. Review Docker
 21. Ask about Panda Express Fundraiser 
 22. |
