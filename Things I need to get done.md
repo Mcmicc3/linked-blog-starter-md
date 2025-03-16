@@ -1,14 +1,14 @@
 
-1.  UPDATE RESUME (**ASAP**)
+1.  NAVSEA Project (**Ongoing**)
 2.  Write a personal statement letter (**ASAP**)
-3.  NAVSEA Project (**Ongoing**)
-4.  Weekly Active Directory project (**Ongoing**)
-5.  Red Hat Academy (**Ongoing**)
+3.  Weekly Active Directory project (**Ongoing**)
+4.  Red Hat Academy (**Ongoing**)
+5.  Fill out SFS form (**ASAP**)
 6.  HTB (**Ongoing**)
-7.  Fill out Masters application (**ASAP**)
-8. 
-9.  Fill out SFS form (**ASAP**)
-10. Email Amy (**ASAP**)
+7.  Email Amy (**ASAP**)
+8.  UPDATE RESUME (**ASAP**)
+9. 
+10. 
 11. GET YOUR FUCKING REFUND (**ASAP**)
 12. Get Event Refund 
 13. Research: Rocky, mikrotek & vyatta
@@ -19,16 +19,16 @@
 18. 
 19. 
 20. Review Docker
-21. Ask about Panda Express Fundraiser 
-22. |
-23. |
-24. |
-25. 
+21. 
+22. 
+23. 
+24. 
+25.  Personal Ethical Hacking Tool Interface 
 
 ## Weekly Homework
 1. Spanish  Extra Credit
 2. 
-3. Web Tech Replies
+3. 
 
 ## Personal Projects/Research
 23.  AI Stuff

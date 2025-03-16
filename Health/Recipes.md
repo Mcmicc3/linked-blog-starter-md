@@ -32,3 +32,12 @@ Place the chicken legs skin side down in the basket of the air fryer. Cook at **
 - Honey (Optional)
 - 400 degrees for 9 to 11 minutes
 
+# Tomato Sauce
+Add more water
+- To prevent it from getting thicker while it's boiling.
+Add Garlic
+Add Pepper
+Add Salt
+If it tastes too much like tomato 
+Chicken Seasoning (Yellow Powder) instead of salt. 
+Italian Seasoning (Or Oregano)
