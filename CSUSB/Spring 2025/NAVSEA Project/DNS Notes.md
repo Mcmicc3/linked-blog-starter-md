@@ -1,0 +1,2 @@
+#### DNS Forwarding:
+Since you want your internal DNS server to be the sole resolver, I recommend setting **DNS Forwarders** on your Windows DNS Server to your ISP’s DNS or public resolvers (Google 8.8.8.8, Cloudflare 1.1.1.1). That way, any request your DNS server cannot resolve will be forwarded externally.
