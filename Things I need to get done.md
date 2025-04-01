@@ -1,21 +1,21 @@
 
 1.  NAVSEA Project (**Ongoing**)
-2.  Write a personal statement letter (**ASAP**)
+2. 
 3.  Weekly Active Directory project (**Ongoing**)
 4.  Red Hat Academy (**Ongoing**)
-5.  Fill out SFS form (**ASAP**)
+5. 
 6.  HTB (**Ongoing**)
-7.  Email Amy (**ASAP**)
-8.  UPDATE RESUME (**ASAP**)
+7. 
+8. 
 9. 
 10. 
-11. GET YOUR FUCKING REFUND (**ASAP**)
+11. 
 12. Get Event Refund 
 13. Research: Rocky, mikrotek & vyatta
 14. 1 Hour of Spanish Lab 
 15. Docker Migration Project (**Ongoing**)
 16. 
-17. 
+17.  
 18. 
 19. 
 20. Review Docker
@@ -25,10 +25,14 @@
 24. 
 25.  Personal Ethical Hacking Tool Interface 
 
-## Weekly Homework
-1. Spanish  Extra Credit
-2. 
-3. 
+## Weekly Homework (Spring Break)
+1. Spanish Extra Credit
+2. BIND DNS
+3. Active Directory
+4. REHL
+5. NCL
+6. Mikrotik
+7. NAVSEA
 
 ## Personal Projects/Research
 23.  AI Stuff
