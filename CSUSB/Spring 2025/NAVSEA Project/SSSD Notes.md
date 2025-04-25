@@ -6,10 +6,51 @@
 	3. dig +short ldap.tcp.dc.msdcs.NAVSEA.mil     (**Only works if it returns a DC SRV Record**)
 1. Join the domain with **realmd**
 2. Harden & tune **/etc/sssd/sssd.conf**
-3. PAM / NSS glue (one‑liner)
-4. Restrict who can log on
-5. Test
-6. Template for the rest of the fleet
+``` ini
+[sssd]
+services = nss, pam, sudo
+domains  = corp.example.com
+# Cache credentials for 7 days so laptops survive VPN drops
+cache_credentials = True
+offline_credentials_expiration = 7
+
+[domain/corp.example.com]
+id_provider          = ad
+override_homedir     = /home/%u@%d
+# map AD “Domain Users” → Linux 10000‑... range
+ldap_id_mapping      = True  
+fallback_homedir     = /home/%u
+access_provider      = ad
+#ad_gpo_access_control = enforcing      # Optional: obey AD Logon Rights GPOs
+#ad_gpo_ignore_unreadable = True
+# OR use simple allow/deny lists:
+simple_allow_groups  = linux-login
+# Pull sudo rules from AD (if you publish them):
+sudo_provider        = ad
+
+```
+
+	1. Then 
+sudo chmod 600 /etc/sssd/sssd.conf
+sudo systemctl enable --now sssd
+
+
+4. PAM / NSS glue (one‑liner)
+	1. sudo systemctl reload sssd
+
+5. Restrict who can log on
+	1. Add AD groups to `simple_allow_groups` (as above) and reload: sudo systemctl reload sssd
+	2. Or, If your SSSD is ≥ 2.0 (RHEL 8+), uncomment:
+``` init
+access_provider = ad
+ad_gpo_access_control = enforcing
+
+```
+
+7. Test
+	1. ssh someuser@corp.example.com@localhost
+	2. id someuser@corp.example.com
+8. Template for the rest of the fleet
 
 
 ## Next steps
