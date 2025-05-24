@@ -1,16 +1,18 @@
 
-1. Clean Car
-2. Organize Bedroom
-3. Dentist Appointment
-4. Find new gym
-5. Buy microcomputer
-6. Finish Udemy Class
-7. Read IT Books
-8. Get Security Plus
-9. Get RHEL Cert
-10. Upgrade PC
-11. Learn new meals to cook
-12. Travel
+1. Replace Vehicle Registration and outdated proof of insurance
+2. Complete University Employment Registration
+3. Give Yazan practice amp?
+4. Buy dog breath medicine, apply flea medicine
+5. Dentist Appointment
+6. Find new gym
+7. Buy microcomputer
+8. Finish Udemy Class
+9. Read IT Books
+10. Get Security Plus
+11. Get RHEL Cert
+12. Upgrade PC
+13. Learn new meals to cook
+14. Travel
 
 
 ## Weekly Tasks (Summer)
