@@ -1,10 +1,10 @@
 
 1. Replace Vehicle Registration and outdated proof of insurance
-2. Complete University Employment Registration
-3. Give Yazan practice amp?
-4. Buy dog breath medicine, apply flea medicine
+2. 
+3. 
+4. 
 5. Dentist Appointment
-6. Find new gym
+6. Finish completing the Cyber Patriot ISO
 7. Buy microcomputer
 8. Finish Udemy Class
 9. Read IT Books
