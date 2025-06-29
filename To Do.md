@@ -1,5 +1,5 @@
 
-1. Replace Vehicle Registration and outdated proof of insurance
+1. 
 2. 
 3. 
 4. 
@@ -21,7 +21,7 @@
 3. 
 
 ## Personal Projects/Research
-23.  AI Stuff
+23. AI Stuff
 24. Bandit Over the Wire
 25. NCL
 26. Command Line Book, Black Hat Python
@@ -35,5 +35,5 @@
 # Books I'm interested in
 1. Windows System Internals
 2. How Linux Works
-3.  Cooking for Geeks
+3. Cooking for Geeks
 4. Network Security Assessment
