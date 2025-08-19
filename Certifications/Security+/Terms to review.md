@@ -1,3 +1,70 @@
+OAuth
+- Framework for authorization! Not authentication.
+	- OpenID is for the internet, not internal networks
+SAML 
+- SSO solution for Authentication!
+
+IPsec Tunnel vs Transport mode:
+- IPsec provides mutual authentication
+- Tunnel mode encrypts both the payload and the packet headers (Hiding internal IPs)
+- Transport mode encrypts the payload, but not the packet headers
+
+L2TP provides no encryption
+
+HSM (Hardware Security Module)
+• Used in large environments
+	– Clusters, redundant power
+	– Securely store thousands of cryptographic keys
+• High-end cryptographic hardware
+	– Plug-in card or separate hardware device
+• Key backup
+	– Secure storage in hardware
+• Cryptographic accelerators
+	– Offload that CPU overhead from other devices
+*Removable device that generates and stores RSA keys used with servers*
+
+RTOS (Real-time operating system)
+- *Used within embedded systems when the system must react within a specific time.* 
+• An operating system with a deterministic processing
+schedule
+	– No time to wait for other processes
+	– Industrial equipment, automobiles,
+	– Military environments
+• Extremely sensitive to security issues
+	– Non-trivial systems
+	– Need to always be available
+	– Difficult to know what type of security is in place
+
+Risk Register
+- *Provides a listing of risks, the risk owner, and the mitigation measures*
+
+Risk Matrix plot
+- *Plots risk onto a graph or chart*
+
+SOAR (Security Orchestration, Automation, and Response)
+- *Can be configured to automatically respond to low-level incidents*
+– Security Orchestration, Automation, and Response
+– Integrate third-party tools and data sources
+– Make security teams more effective
+
+Homomorphic Encryption
+- *Can be used to process data using cloud computing services and it allows data to remain encrypted while it is being processed.*
+
+Perfect forward secrecy
+- *Related to encryption and indicates that a cryptographic system generates random keys for each session.*
+
+OCSP (Online Certificate Status Protocol)
+- *An alternative to a CRL and provides a real-time response indicating the validity of a certificate*
+
+DSA (Digital Signing Algorithm)
+- *Used to create a digital signature.*
+
+Data minimization
+- Principle of requiring organizations to limit the data they collect and use
+
+Data Anonymization
+- Modifies data to protect the privacy of individuals by either removing all PII or encrypting it.
+
 # Terms, Concepts, and Technologies
 ~ Ease of Deployment
 		- Ease of Deployment assesses how straightforward a system can be set up
@@ -933,7 +1000,7 @@ What is an example of the importance of automating user provisioning?
 - Automated user provisioning helps in granting immediate access rights, reducing waiting times and hence improving productivity
 
 What is the significance of the key length in encryption standards?
-- Key length in encryption determines the minimum length that an encryption key can be to ensure a strong level of security. 
+	- Key length in encryption determines the minimum length that an encryption key can be to ensure a strong level of security. 
 - While length will impact the key's complexity, the key length doesn't set other factors beyond the minimum length.
 
 What is a common issue with SCADA systems?
@@ -958,6 +1025,7 @@ LDAP: 389
 587
 
 ## General
+
 Read about:
 PEP
 
