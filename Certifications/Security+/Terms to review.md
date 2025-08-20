@@ -1,8 +1,92 @@
+#### Dumb shit too look out for
+
+Questions regarding social engineering principles
+Questions regarding "purpose", not method
+
+----
+## Review
+Parallel Processing
+- Activates the alternate processing facility, but only as a test while all normal processing continues at the primary facility. 
+
+Fuzzing
+- A type of dynamic code analysis, and it can test the applications cybersecurity resilience. 
+- Fuzzing sends random data to an application to verify the random data doesn't crash the application or expose the system to a data breach
+
+MSSP
+- Third-party vendor that provides security services for smaller companies. 
+
+MSA (Measurement Systems Analysis)
+- Evaluates processes and tools used to make measurements. 
+
+SAN (Subject Alternative Name)
+- Certificate used for multiple domains that have difference names but are owned by the same organization. 
+
+PEM (Privacy Enhanced Email)
+- Not used to validate other certiifcates........
+
+Stapling
+- OSCP Stapling reduces OSCP traffic sent to a CA. Certificate presenters append a timestamped, digitally signed OCSP response to a certificate. 
+
+Pinning
+- Public key pinning includes a list of public key hashes in HTTPS responses from the web server. 
+- Helps validate certificates
+
+digital signature
+- Provides authentication, non-repudiation, and integrity, but not confidentiality. 
+
+netcat
+- Useful for remotely accessing systems and can be used for banner grabbing.
+
+Tcpdump
+- Command-line packet analyzer (or protocol analyzer) and its primary purpose is to capture packets.
+
+Tcpreplay 
+- Is a suite of utilities used to edit packet captures and resend them, but not capture packets.
+
+Continuous Integration
+- Merges changes from multiple developers and uses version control processes to track the changes
+
+Continuous validation
+- Revalidates code after every change and is frequently part of CI
+
+Continuous delivery
+- comes after CI and provides an automated process that delivers changes to a testing or staging environment. 
+
+Replay attacks
+- Allows the attacker to intercept data and use it to impersonate a user or system. 
+
+FPGA (Field Programmable Gate Array)
+- is an integrated circuit that can be configured after it is sold 
+
+Geofencing
+- Can be used to create a virtual fence or geographic boundary, outlining the company's property
+
+Geolocation
+- Used by geofencing to determine when a mobile device is within a geographic boundary.
+
+Tethering 
+- Allows one device to share its internet connection with other devices
+
+XaaS (Anything as a Service)
+- Refers to cloud services beyond IaaS, PaaS, SaaS..
+
+Flood Guard
+- Prevents a MAC flood attack
+
+RSTP (Rapid Spanning Tree Protocol)
+- Prevents switching loop problems and should be enabled on the switches
+- **STP IS OLD** but also works...
+
+TOTP (Time-based One-Time Password)
+- *Implemented as a compensating control. Implemented with hardware tokens or with an app on a smartphone*
+
 OAuth
 - Framework for authorization! Not authentication.
 	- OpenID is for the internet, not internal networks
+	- Used with HTTP-Based apps, not internal organizations
 SAML 
 - SSO solution for Authentication!
+- Used for web-based applications, but not all SSO solutions use SAML
 
 IPsec Tunnel vs Transport mode:
 - IPsec provides mutual authentication
@@ -58,6 +142,7 @@ OCSP (Online Certificate Status Protocol)
 
 DSA (Digital Signing Algorithm)
 - *Used to create a digital signature.*
+- Users can sign their emails with a digital signature.
 
 Data minimization
 - Principle of requiring organizations to limit the data they collect and use
@@ -276,6 +361,7 @@ Data Anonymization
 ~ Blocked Content
 		- Blocked content is an indicator of malicious activity that shows that an attacker or malware has tried to access or deliver content that is prohibited by the system’s security policy, such as malicious websites, files, or emails.
 ~ Preparation Phase
+		- **First step in an incident response process**
 		- The Preparation phase in the incident response process involves activities such as developing an incident response plan, defining roles and responsibilities of the incident response team, and conducting regular training and drills. 
 		- These preparations ensure that the organization is ready to respond effectively and efficiently to any potential security incidents.
 ~ Detection Phase
@@ -676,6 +762,7 @@ Data Anonymization
 ~ VPC endpoint?
 ~ VPC - Virtual Private Cloud    (VPC Endpoint, peering, gateway transit Internet gateway)
 ~ SED - Self encrypting drive 
+	- Includes the hardware and software to encrypt all data on the drive and securely store the encryption keys.
 ~ PBKDF2 - key stretching
 ~ COOP - Continuity of Operations
 ~ IoC - Indicators of Compromise
@@ -705,12 +792,14 @@ Data Anonymization
 		- Handles data in **accordance with privacy guidelines**
 		- involves properly collecting, storing, and analyzing the data according to her supervisor's directions
 		- A data processor is an entity that **processes personal data on behalf of the data controller.**
+		- *A data processor can also handle data on behalf of another organization (**that is the data controller**) to do things like shred their data for them*
 ~ Data Controller 
 		- Ensures data complies with applicable regulations
 		- The data controller is the entity that **determines the purposes, conditions, and means of processing personal data.** 
 		- They make decisions about how and why data is processed.
 		- their role is more focused on data **governance** **and compliance** with data protection regulations.
 		- The controller is responsible for defining how personal data is handled and ensuring it meets GDPR and other regulatory requirements.
+		- *Bears primary responsibility for the data*
 ~ Data Broker
 		- A data broker collects and sells data to other organizations
 ~ PHI (Protected Health Information)
@@ -757,7 +846,7 @@ Data Anonymization
 		- Implementing a federation protocol, such as Security Assertion Markup Language (SAML), is the most effective approach for achieving a seamless user login experience for both internal employees and external partners. 
 		- SAML allows for the secure exchange of authentication and authorization data between different organizations, enabling users to log in using their own organization's credentials while accessing resources and applications from other federated organizations without the need for separate accounts. 
 		- It simplifies identity management and enhances user experience while maintaining centralized control.
-		-  XML based data format used for SSO on web browsers. 
+		-   based data format used for SSO on web browsers. 
 		- Ex: Two websites host by two different organizations, the organizations trust each other, and use SAML as a federated identity management system. 
 		- Authenticate with one website and don't have to authenticate with the other. 0\(Google, Facebook)
 		- SAML is an XML-based standard for exchanging authentication and authorization data between parties. It's focused more on Single Sign-On (SSO)
@@ -848,7 +937,7 @@ Data Anonymization
 ~ VDI
 ~ MAM
 ~ COPE
-	- Corporate owned personally enabled
+	- Corporations own the device, not the employees
 	- partitions for remote wipe
 ~ HOTP
 ~ FRR  (*False Rejection Rate*)
