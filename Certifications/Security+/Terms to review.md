@@ -702,12 +702,15 @@ Data Anonymization
 ~ DKIM  (*DomainKeys Identified Mail*)
 		- implementing DKIM, allows companies to sign emails originating from their domain cryptographically.
 		- This allows receivers to verify that an email claiming to be from the domain genuinely is.
+		- Provides a way to validate all digitally signed messages from a specific email server. DKIM does not determine how the receiving server categorizes these digitally signed messages. 
 ~ SPF (*Sender Policy Framework*)
 		- SPF (Sender Policy Framework) is valuable in identifying which servers are authorized to send emails on behalf of a domain.
 		- Sender Policy Framework **verifies** the legitimacy of the **sender's IP** against a list of approved IPs for the domain
+		- Is a list of all authorized mail servers for a specific domain. All legitimate emails would be sent from one of the servers listed in the SPC configuration. 
 ~ DMARC (*Domain-based Message Authentication, Reporting, and Conformance*)
 		- (DMARC) focuses primarily on the **authenticity** of the domain from which **emails originate**
 		- Uses the results of DKIM and SPF checks.
+		- Specifies the disposition of spam emails. The legitimate owner of the originating email domain can choose to have these messages accepted, sent to a spam folder, or rejected
 ~ DRP
 ~ ISA
 ~ SDN (*Software-defined Networking*)
