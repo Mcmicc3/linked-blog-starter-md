@@ -25,12 +25,22 @@ Place the chicken legs skin side down in the basket of the air fryer. Cook at **
 - 380 degrees for 18 minutes
 
 # Salmon
+***Option 1***
 - Paprika
 - Oil
 - Salt & Pepper
 - Garlic powder
 - Honey (Optional)
 - 400 degrees for 9 to 11 minutes
+
+***Option 2***
+- Paprika
+- Italian Seasoning
+- Garlic Powder
+- Lemon Pepper Seasoning
+- Onion Powder
+- Lemon Juice
+- Little Butter
 
 # Tomato Sauce
 Add more water
