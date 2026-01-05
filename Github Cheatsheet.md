@@ -12,6 +12,10 @@ git commit -m "{Explain changes}"
 git push
 git reset   (If you want to erase commits and start over)
 
+**On any other PC that hasn't been updated yet, run these commands**
+- git config --global user.name "Mario Canales"
+- git config --global user.email "mcmicc3@gmail.com"
+
 
 NEXT STEPS
 ---------
