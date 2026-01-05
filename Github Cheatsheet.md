@@ -6,7 +6,7 @@ UNDERSTANDING GITHUB
 
 GITHUB STEPS
 ------------
-git pull --rebase (As soon as you open Obsidian)
+git pull --rebase (Before you open Obsidian)
 git add {., or whatever you want to push}
 git commit -m "{Explain changes}"
 git push
