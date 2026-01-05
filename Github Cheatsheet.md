@@ -16,6 +16,18 @@ git reset   (If you want to erase commits and start over)
 - git config --global user.name "Mario Canales"
 - git config --global user.email "mcmicc3@gmail.com"
 
+**RULES FOR USING GIT ON ANY COMPUTER** 
+When starting Obsidian, type git status,
+
+If you see:
+`Your branch is ahead of 'origin/main'`
+→ **Push first**
+
+If you see:
+`Your branch is behind 'origin/main'`
+→ **Pull first**
+
+If clean → proceed.
 
 NEXT STEPS
 ---------
@@ -29,9 +41,6 @@ Adding a .gitignore tuned for Obsidian
 Creating a “new computer checklist” so future setups take 5 minutes
 
 Adding an i3 keybinding to open Obsidian instantly
-
-WHY DOES OBSIDIAN AUTOMATICALLY WRITE TO `To Do.md` AFTER I OPEN IT EVERYTIME?
-
 
 
 RESOURCES

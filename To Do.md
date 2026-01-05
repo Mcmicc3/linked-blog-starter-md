@@ -9,14 +9,16 @@
 8.  Help make playbooks
 9.  Learn how to make templates for Obsidian
 10.  RICE Endeavor (Waybar)
-11.  Dentist Appointment
-12.  Finish completing the Cyber Patriot ISO
-13.  Finish Udemy Class
-14.  Get RHEL Cert
-15. Learn new meals to cook
-16. Travel
-17.  Consider Creating Notion Workflow
-18.  Work on HTB modules
+11.  Figure out gaming on Linux
+12.  Learn how to backup dot files on Github
+13.  Dentist Appointment
+14.  Finish completing the Cyber Patriot ISO
+15.  Finish Udemy Class
+16.  Get RHEL Cert
+17. Learn new meals to cook
+18. Travel
+19.  Consider Creating Notion Workflow
+20.  Work on HTB modules
 
 
 ## Weekly Tasks (Winter)
