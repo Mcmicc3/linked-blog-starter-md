@@ -5,20 +5,21 @@
 4.  Create Homelab
 5.  Update Resume
 6.  Get Security Plus
-7.  Read IT Books
-8.  Help make playbooks
-9.  Learn how to make templates for Obsidian
-10.  RICE Endeavor (Waybar)
-11.  Figure out gaming on Linux
-12.  Learn how to backup dot files on Github
-13.  Dentist Appointment
-14.  Finish completing the Cyber Patriot ISO
-15.  Finish Udemy Class
-16.  Get RHEL Cert
-17. Learn new meals to cook
-18. Travel
-19.  Consider Creating Notion Workflow
-20.  Work on HTB modules
+7. Fill out DMV sold car form
+8.  Read IT Books
+9.  Help make playbooks
+10.  Learn how to make templates for Obsidian
+11.  RICE Endeavor (Waybar)
+12.  Figure out gaming on Linux
+13.  Learn how to backup dot files on Github
+14.  Dentist Appointment
+15.  Finish completing the Cyber Patriot ISO
+16.  Finish Udemy Class
+17.  Get RHEL Cert
+18. Learn new meals to cook
+19. Travel
+20.  Consider Creating Notion Workflow
+21.  Work on HTB modules
 
 
 ## Weekly Tasks (Winter)
@@ -49,3 +50,6 @@
 6. 
 
 
+
+
+Pain, likes to be man handled
