@@ -1,11 +1,11 @@
 ****
 1.  Help Mom lower Internet Bill 
-2.  Apply for RA Position
-3.  Finish Python Modules
+2. 
+3. 
 4.  Create Homelab
 5.  Update Resume
 6.  Get Security Plus
-7. Fill out DMV sold car form
+7. 
 8.  Read IT Books
 9.  Help make playbooks
 10.  Learn how to make templates for Obsidian
@@ -52,4 +52,3 @@
 
 
 
-Pain, likes to be man handled
