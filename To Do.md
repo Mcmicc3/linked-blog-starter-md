@@ -1,6 +1,6 @@
 ****
 1.  Help Mom lower Internet Bill 
-2. 
+2.  
 3. 
 4.  Create Homelab
 5.  Update Resume
@@ -21,12 +21,15 @@
 20.  Consider Creating Notion Workflow
 21.  Work on HTB modules
 
+# Homework
+1. Week 2 Discussion DBMS (IST-6470)
+2. 
 
-## Weekly Tasks (Winter)
-1. Python Modules (Expires Jan 31st)
+## Weekly Tasks (Spring)
+1. Work on Homelab (Docker, RaspberryPi)
 2. Read "How Linux Works"
 3. REGULARLY STUDY SECURITY+
-4. Work on Homelab (Docker, RaspberryPi)
+4. 
 
 
 ## Personal Projects/Research
