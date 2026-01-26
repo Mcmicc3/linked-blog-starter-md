@@ -11,6 +11,7 @@ git add {., or whatever you want to push}
 git commit -m "{Explain changes}"
 git push
 git reset   (If you want to erase commits and start over)
+rm "{filename.md}"   (If you want to remove a particular un-tracked file)
 
 **On any other PC that hasn't been updated yet, run these commands**
 - git config --global user.name "Mario Canales"
