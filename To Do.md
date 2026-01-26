@@ -1,15 +1,15 @@
 ****
 1.  Help Mom lower Internet Bill 
-2.  
-3. 
-4.  Create Homelab
+2.  Update slides for Orientation / Come up with speech
+3.  Create Windows VM for Access
+4.  
 5.  Update Resume
 6.  Get Security Plus
-7. 
+7.  Create Homelab
 8.  Read IT Books
 9.  Help make playbooks
 10.  Learn how to make templates for Obsidian
-11.  RICE Endeavor (Waybar)
+11.  RICE Endeavor and Pop(Waybar)
 12.  Figure out gaming on Linux
 13.  Learn how to backup dot files on Github
 14.  Dentist Appointment
@@ -23,7 +23,8 @@
 
 # Homework
 1. Week 2 Discussion DBMS (IST-6470)
-2. 
+2. Cengage HW
+3. Create Windows VM for Access
 
 ## Weekly Tasks (Spring)
 1. Work on Homelab (Docker, RaspberryPi)
