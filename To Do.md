@@ -2,7 +2,7 @@
 1.  Help Mom lower Internet Bill 
 2.  Update slides for Orientation / Come up with speech
 3.  Create Windows VM for Access
-4.  
+4.  Consider applying for EBT/CalFresh and Medical
 5.  Update Resume
 6.  Get Security Plus
 7.  Create Homelab
