@@ -1,30 +1,35 @@
 ****
 1.  Help Mom lower Internet Bill 
-2.  Update slides for Orientation / Come up with speech
-3.  Create Windows VM for Access
-4.  Consider applying for EBT/CalFresh and Medical
-5.  Update Resume
-6.  Get Security Plus
-7.  Create Homelab
-8.  Read IT Books
-9.  Help make playbooks
-10.  Learn how to make templates for Obsidian
-11.  RICE Endeavor and Pop(Waybar)
-12.  Figure out gaming on Linux
-13.  Learn how to backup dot files on Github
-14.  Dentist Appointment
-15.  Finish completing the Cyber Patriot ISO
-16.  Finish Udemy Class
-17.  Get RHEL Cert
-18. Learn new meals to cook
-19. Travel
-20.  Consider Creating Notion Workflow
-21.  Work on HTB modules
+2.  Take Security+ Practice Tests
+3.  Upload Network+ Cert to Cochrens class
+4.  Fill out WITH Cyber Camp Form
+5.  
+6. 
+7.  Consider applying for EBT/CalFresh and Medical
+8. 
+9.  Get Security Plus
+10.  Create Homelab
+11.  Read IT Books
+12.  Help make playbooks
+13.  Learn how to make templates for Obsidian
+14.  RICE Endeavor and Pop(Waybar)
+15.  Figure out gaming on Linux
+16.  Learn how to backup dot files on Github
+17.  Dentist Appointment
+18.  Finish completing the Cyber Patriot ISO
+19.  Finish Udemy Class
+20.  Get RHEL Cert
+21.  Learn new meals to cook
+22.  Travel
+23.  Consider Creating Notion Workflow
+24.  Work on HTB modules
 
 # Homework
-1. Week 2 Discussion DBMS (IST-6470)
-2. Cengage HW
-3. Create Windows VM for Access
+1. Cengage HW
+2. Network Tool Paper
+3. Cochrens Discussion posts
+4. Database Week4 Discussion
+5. System's Analysis Quizzes
 
 ## Weekly Tasks (Spring)
 1. Work on Homelab (Docker, RaspberryPi)
