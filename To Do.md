@@ -1,28 +1,29 @@
 ****
 1.  Help Mom lower Internet Bill 
 2.  Take Security+ Practice Tests
-3.  Upload Network+ Cert to Cochrens class
-4.  Fill out WITH Cyber Camp Form
-5.  
-6. 
-7.  Consider applying for EBT/CalFresh and Medical
-8. 
-9.  Get Security Plus
-10.  Create Homelab
-11.  Read IT Books
-12.  Help make playbooks
-13.  Learn how to make templates for Obsidian
-14.  RICE Endeavor and Pop(Waybar)
-15.  Figure out gaming on Linux
-16.  Learn how to backup dot files on Github
-17.  Dentist Appointment
-18.  Finish completing the Cyber Patriot ISO
-19.  Finish Udemy Class
-20.  Get RHEL Cert
-21.  Learn new meals to cook
-22.  Travel
-23.  Consider Creating Notion Workflow
-24.  Work on HTB modules
+3.  Midterm (March 8th, IST 6470)
+4.  Midterm (March 6th, IST 6480)
+	1.  Multiple Choice open (March 5th)
+	2. Network Design open now
+5. 
+6.  Consider applying for EBT/CalFresh and Medical
+7. 
+8.  Get Security Plus
+9.  Create Homelab
+10.  Read IT Books
+11.  Help make playbooks
+12.  Learn how to make templates for Obsidian
+13.  RICE Endeavor and Pop(Waybar)
+14.  Figure out gaming on Linux
+15.  Learn how to backup dot files on Github
+16.  Dentist Appointment
+17.  Finish completing the Cyber Patriot ISO
+18.  Finish Udemy Class
+19.  Get RHEL Cert
+20.  Learn new meals to cook
+21.  Travel
+22.  Consider Creating Notion Workflow
+23.  Work on HTB modules
 
 # Homework
 1. Cengage HW
