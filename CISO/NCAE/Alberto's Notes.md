@@ -140,6 +140,7 @@ He wrwite a script, it makes a list of every installed package on a machine. It 
   
 He checked for what has a suid  
 - find / -type f -perm -4000 2>/dev/null  
+- find / -type f -perm -4000 -exec ls -l {} \; 2>/dev/null
 - This displays everything with suid  
 - He showed us GTFObins  
 - It compares the data from find, and looks for articles with known exploits on how to abuse it  
