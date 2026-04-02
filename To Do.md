@@ -32,6 +32,7 @@
 4. Database Week4 Discussion
 5. System's Analysis Quizzes
 
+
 ## Weekly Tasks (Spring)
 1. Work on Homelab (Docker, RaspberryPi)
 2. Read "How Linux Works"
@@ -50,6 +51,7 @@
 8. Raspberry Pi
 9. Learn Docker Networking
 10. Learn Cloudflare
+11. LoRWAN
 
 # Books I'm interested in
 1. Windows System Internals
