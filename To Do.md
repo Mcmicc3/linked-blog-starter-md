@@ -1,4 +1,4 @@
-****
+i THINK ****
 1.  Help Mom lower Internet Bill 
 2.  Take Security+ Practice Tests
 3.  Midterm (March 8th, IST 6470)
