@@ -8,7 +8,7 @@ Years active in the club
 Years serving the club
 Slogan
 
-# Club Goals
+# Goals as President
 #### 1: **Turn the lab into a research space again**
 #### 2: **Build a more fair, transparent, and structured lab**
 #### 3: **Expand the club's reach and ambition**
@@ -30,7 +30,6 @@ Slogan
 7. Two Powerful Computers
 
  
-
 #### ***Community group projects***
 1. Use the Raspberry Pi's in the lab to build various network environments for practice and research. 
 	*Build your first home lab, in the CISO lab*
@@ -79,6 +78,7 @@ Slogan
 #### ***Starting the club strong***
 1. Inventory and organize club equipment
 	1. *Know what we have and know what works*
+	2. *Do things like label locker doors with alphabet magnets for monitors and power supplies*
 2. Replace Essential Equipment
 	1. **Power cables for monitors and Pi's, Keyboards & Mice, Monitors**
 	2.  *We could have computer monitors and keyboards on each table for Friday Projects* 
@@ -166,13 +166,14 @@ Slogan
 	2. Controlled Email Phishing Simulator
 	    *a CTF, where they analyze emails, and vote on whether they were legitimate or not.*  
 
-##### ***Promote Networking outside of CSUSB***
+##### ***Promote Networking opportunities outside of CSUSB***
 *Endorse networking with socal*
 Outreach with other schools and events
 1. Scale 24x
 2. Tech Symposiums 
 3. B-Sides
 4. Hack The Planet
+5. *Dream of creating CISO Con*
 
 
 
