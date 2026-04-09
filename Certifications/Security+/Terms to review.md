@@ -237,6 +237,8 @@ Data Anonymization
 		- Policy-driven access control is an approach where permissions are set based on organizational policies, roles, or requirements, ensuring that users have the right level of access that aligns with their job functions or responsibilities. 
 		- Permissions are assigned based on predefined roles in an organization, and individuals are then assigned to those roles. 
 		- Users are given the minimum levels of access necessary to perform their job functions. If a condition is not explicitly met, access is denied by default.
+~ Role-based access control
+		- Role-based access control permissions are assigned based on predefined roles in an organization, and individuals are then assigned to those roles
 ~ Unique Secret Keys
 		- Unique secret keys for programmatic access are crucial for ensuring that interactions with the cloud are secure and authenticated.
 ~ Infrastructure Monitoring
@@ -360,6 +362,8 @@ Data Anonymization
 		- Resource consumption is an indicator of malicious activity that shows that an attacker or malware has used a lot of system resources, such as CPU, memory, disk space, or bandwidth, affecting the performance or availability of the system.
 ~ Blocked Content
 		- Blocked content is an indicator of malicious activity that shows that an attacker or malware has tried to access or deliver content that is prohibited by the system’s security policy, such as malicious websites, files, or emails.
+~ Content Filtering
+		- Content filtering refers to the practice of blocking or allowing content based on specific criteria, like harmful websites.
 ~ Preparation Phase
 		- **First step in an incident response process**
 		- The Preparation phase in the incident response process involves activities such as developing an incident response plan, defining roles and responsibilities of the incident response team, and conducting regular training and drills. 
@@ -528,6 +532,8 @@ Data Anonymization
 ~ Key escrow
 		- Key escrow is a system in which a copy of a cryptographic key is given to a third party. 
 		- This allows for the recovery of keys if they are lost.
+~ Key exchange
+		- Key exchange is a method in cryptography by which cryptographic keys are exchanged between two parties, allowing use of a cryptographic algorithm.
 ~ Integrity Measurements
 ~ IV Attack
 		- IV is a number used by encryption systems
@@ -711,6 +717,8 @@ Data Anonymization
 		- (DMARC) focuses primarily on the **authenticity** of the domain from which **emails originate**
 		- Uses the results of DKIM and SPF checks.
 		- Specifies the disposition of spam emails. The legitimate owner of the originating email domain can choose to have these messages accepted, sent to a spam folder, or rejected
+~ MTA
+		- MTA (Mail Transfer Agent) is responsible for transferring and routing emails between servers
 ~ DRP
 ~ ISA
 ~ SDN (*Software-defined Networking*)
@@ -778,6 +786,8 @@ Data Anonymization
 ~ MSA (*Master Service Agreement*)
 		- The Master Service Agreement is a comprehensive document that establishes the overall framework for a long-term business relationship between a company and a vendor 
 		- It outlines the general terms and conditions, but it does not specifically detail the service levels and performance metrics.
+~ SLA (*Service Level Agreement*)
+		- A Service-level agreement (SLA) is a specific type of agreement that defines the level of service expected from the vendor, including performance metrics, response times, and other service-related terms.
 ~ SOW (*State of Work*) or WO (*Work Order*)
 		- The Work Order (WO) or Statement of Work (SOW) is a document that provides detailed instructions and requirements for specific tasks or projects to be carried out by the vendor. It may include information on deliverables, timelines, and costs, but it **does not** focus on service levels and performance metrics.
 ~ DPO 
@@ -1007,6 +1017,14 @@ Data Anonymization
 		- EAP Tunneled TLS is an extension of TLS
 		- Supports older systems to run older authentication methods like PAP, within a TLS tunnel
 		- *Requires a certificate on the 802.1x server but not the clients*
+~ Executive Teams
+		- Executive Teams individuals are part of the governance board with ultimate decision-making authority but may not focus on specific issues like committees do
+~ Management Groups
+		- Management Groups typically handle day-to-day operational decisions rather than providing specialized support to the governance board.
+~ Advisory Councils
+		- While Advisory Councils may also provide advice, they are not solely responsible for in-depth analysis and recommendations for the governance board
+~ Committees
+		- Committees are specialized groups that include subject matter experts who support the governance board with expert analysis and recommendations.
 
 ## Questions
 
