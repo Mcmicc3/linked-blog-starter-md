@@ -6,7 +6,14 @@ Questions regarding "purpose", not method
 ----
 ## Review
 Parallel Processing
+- Parallel processing involves using multiple CPUs to process different parts of a bigger task. The benefits of parallel processing include greater speed and greater fault tolerance.
 - Activates the alternate processing facility, but only as a test while all normal processing continues at the primary facility. 
+
+Clustering
+* Clustering involves combining a number of servers into one node. Different servers can be assigned different tasks to provide greater fault tolerance. For example, each server can handle one part of a complex website. If one server goes down, the task that the server performs may be unavailable, but the rest of the website will still function.
+
+Load Balancing
+* Load balancing distributes network or application traffic across many servers, which optimizes the use of resources, maximizes throughput, and reduces latency. In load balancing, the servers are all performing the same duty; they aren't set up to each handle a particular task
 
 Fuzzing
 - A type of dynamic code analysis, and it can test the applications cybersecurity resilience. 
@@ -151,6 +158,17 @@ Data Anonymization
 - Modifies data to protect the privacy of individuals by either removing all PII or encrypting it.
 
 # Terms, Concepts, and Technologies
+~ IaC (Infrastructure as Code)
+		-  Infrastructure as code (IaC) allows infrastructure to be provisioned and managed using code, making it easier to manage, replicate, and scale.
+~ Serverless Architecture
+		- Serverless architecture is a cloud-computing model focusing on applications’ runtime
+		- Serverless is an architecture model that involves running code without provisioning or managing servers.
+		- Serverless computing allows developers to **build applications without managing server infrastructure**
+		- A serverless architecture reduces the complexity of deploying code into production, but it doesn't involve defining the underlying infrastructure as code
+~ In-line device
+		- An in-line device actively evaluates network traffic as it passes through, allowing it to reject or modify packets according to predefined security policies. This setup is ideal for actively enforcing security rules and blocking malicious traffic in real-time.
+~ Network Tap
+		- A network tap passively copies traffic for analysis without modifying or blocking packets, which does not align with the CSO's requirement for active traffic evaluation and control.
 ~ Ease of Deployment
 		- Ease of Deployment assesses how straightforward a system can be set up
 ~ Compute
@@ -437,16 +455,13 @@ Data Anonymization
 		- Directive controls guide actions and ensure consistent behavior or actions within an organization.
 ~ Synchronized backups
 		- Synchronized backups refer to the continuous updating of backup copies as changes occur in real-time, but the location isn't necessarily offsite.
-~ Serverless Architecture
-		- Serverless architecture is a cloud-computing model focusing on applications’ runtime
-		- Serverless is an architecture model that involves running code without provisioning or managing servers.
-		- Serverless computing allows developers to **build applications without managing server infrastructure**
 ~ Responsibility Matrix
 		- A responsibility matrix in cloud architecture is crucial for clearly defining the roles and responsibilities between the client and the cloud service provider, ensuring accountability and security compliance.
 		- It clarifies who is accountable for what aspects of security, compliance, and operations in a cloud environment.
 ~ Microservices
 		- Microservices is a form of software architecture. 
 		- It describes a highly decentralized system that doesn't depend on one type of platform to work.
+		- Microservices is about designing software applications as suites of independently deployable services, but it doesn't directly address infrastructure provisioning through code.
 ~ Horizontal Password Attack
 		- In a horizontal password attack, an attacker targets multiple accounts by trying a few common passwords across them.
 		- It's a method to bypass account lockout policies that would trigger if too many failed attempts are made on a single account.
@@ -570,6 +585,7 @@ Data Anonymization
 		- Certificate Revocation Lists (CRLs) are lists of certificates that have been revoked by a Certificate Authority before their scheduled expiration date.
 ~ OCSP (*Online Certificate Status Protocol*)
 		- Online Certificate Status Protocol (OCSP) is an internet protocol used for obtaining the revocation status of a digital certificate.
+		- Useful if you know the name of the certificate. 
 ~ Secure Boot Attestation
 		- A process that is supported by TPM
 		- When the TPM is configured, it captures signatures of key files used to boto the computer and stores a report of the signatures securely within the TPM. 
@@ -1025,6 +1041,7 @@ Data Anonymization
 		- While Advisory Councils may also provide advice, they are not solely responsible for in-depth analysis and recommendations for the governance board
 ~ Committees
 		- Committees are specialized groups that include subject matter experts who support the governance board with expert analysis and recommendations.
+~ 
 
 ## Questions
 

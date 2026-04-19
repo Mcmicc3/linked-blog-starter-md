@@ -1,29 +1,29 @@
-i THINK ****
 1.  Help Mom lower Internet Bill 
 2.  Take Security+ Practice Tests
-3.  Midterm (March 8th, IST 6470)
-4.  Midterm (March 6th, IST 6480)
-	1.  Multiple Choice open (March 5th)
-	2. Network Design open now
-5. 
-6.  Consider applying for EBT/CalFresh and Medical
+3.  Replace Debit card
+4.  Replace Broken Pump
+5.  Verify $45 fee for not having the Real ID
+	1.  Pack for NCAE
+6. 
 7. 
-8.  Get Security Plus
-9.  Create Homelab
-10.  Read IT Books
-11.  Help make playbooks
-12.  Learn how to make templates for Obsidian
-13.  RICE Endeavor and Pop(Waybar)
-14.  Figure out gaming on Linux
-15.  Learn how to backup dot files on Github
-16.  Dentist Appointment
-17.  Finish completing the Cyber Patriot ISO
-18.  Finish Udemy Class
-19.  Get RHEL Cert
-20.  Learn new meals to cook
-21.  Travel
-22.  Consider Creating Notion Workflow
-23.  Work on HTB modules
+8.  Consider applying for EBT/CalFresh and Medical
+9. 
+10.  Get Security Plus
+11.  Create Homelab
+12.  Read IT Books
+13.  Help make playbooks
+14.  Learn how to make templates for Obsidian
+15.  RICE Endeavor and Pop(Waybar)
+16.  Figure out gaming on Linux
+17.  Learn how to backup dot files on Github
+18.  Dentist Appointment
+19.  Finish completing the Cyber Patriot ISO
+20.  Finish Udemy Class
+21.  Get RHEL Cert
+22.  Learn new meals to cook
+23.  Travel
+24.  Consider Creating Notion Workflow
+25.  Work on HTB modules
 
 # Homework
 1. AWS Online Cloud Course
