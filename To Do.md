@@ -1,40 +1,43 @@
-1.  Help Mom lower Internet Bill 
-2.  Take Security+ Practice Tests
-3.  Replace Debit card
-4.  Replace Broken Pump
-5.  Verify $45 fee for not having the Real ID
-	1.  Pack for NCAE
-6. 
-7. 
-8.  Consider applying for EBT/CalFresh and Medical
+	1.  Remove GoDaddy subscription (If I haven't already), same with proton subscription, Maybe Claude. g
+1. 
+2. 
+3. Help Mom lower Internet Bill 
+4.  Take Security+ Practice Tests
+5.  Book AI Test date
+6.  Replace Debit card
+7.  Replace Broken Pump
+8. 
 9. 
-10.  Get Security Plus
-11.  Create Homelab
-12.  Read IT Books
-13.  Help make playbooks
-14.  Learn how to make templates for Obsidian
-15.  RICE Endeavor and Pop(Waybar)
-16.  Figure out gaming on Linux
-17.  Learn how to backup dot files on Github
-18.  Dentist Appointment
-19.  Finish completing the Cyber Patriot ISO
-20.  Finish Udemy Class
-21.  Get RHEL Cert
-22.  Learn new meals to cook
-23.  Travel
-24.  Consider Creating Notion Workflow
-25.  Work on HTB modules
+10. 
+11.  Consider applying for EBT/CalFresh and Medical
+12. 
+13.  Get Security Plus
+14.  Create Homelab
+15.  Read IT Books
+16.  
+17.  Learn how to make templates for Obsidian
+18.  RICE Endeavor and Pop(Waybar)
+19.  Figure out gaming on Linux
+20.  Learn how to backup dot files on Github
+21.  Dentist Appointment
+22.  Finish completing the Cyber Patriot ISO
+23.  Finish Udemy Class
+24.  Get RHEL Cert
+25.  Learn new meals to cook
+26.  Travel
+27.  Consider Creating Notion Workflow
+28.  Work on HTB modules
 
 # Homework
 1. AWS Online Cloud Course
-2. Start Networking Assignment (Due April 7th)
-3. Study Security+ 
+2. Finish AI Tool assignment
+3. Study Security+ For May 1st
 4. Systems Analysis Quizzes
-5. Prepare for Stage 3 Systems project
-6. Prepare for NCAE
-7. Get an early start on the Exploring AI Tools assignment (Due same weekend as NCAE Comp.)
-8. Get the Real ID? 
-9. (Optional) Finish a networking discussion post (6 - left)
+5. Prepare a speech
+6. 
+7. 
+8. 
+9. Finish a networking discussion post (6 - left)
 10. (Optional) Networking assignments - WIFI eval assignment, Network Topic Presentation #2, 50 questions (May 8th), 
 11. File for EBT
 
