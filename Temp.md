@@ -4,7 +4,7 @@ I have a professor that has incredible memory, and is able to talk fast and flui
 
 Why is it common for partners to not like the other partners tone when they're correcting them or giving advice, or simply speaking their minds (critizing)
 
-
+For example: 
 
 # For Manufactures Warranty
 ![[Pasted image 20260422004856.png]]
