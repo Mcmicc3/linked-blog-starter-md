@@ -1,43 +1,65 @@
-	1.  Remove GoDaddy subscription (If I haven't already), same with proton subscription, Maybe Claude. g
-1. 
-2. 
-3. Help Mom lower Internet Bill 
-4.  Take Security+ Practice Tests
-5.  Book AI Test date
-6.  Replace Debit card
-7.  Replace Broken Pump
-8. 
-9. 
-10. 
-11.  Consider applying for EBT/CalFresh and Medical
+1. REGISTER FOR CLASSES (Tuesday 6AM) 
+2. Remaining HW:
+	1. IST 6450 (SA&D)
+		1. **News on Systems Analysis and Design (May 3rd)**
+		2. **Bookmark Project (May 3rd)**
+		3. Milestone 4 (May 5th)
+		4.  Re do Quizzes (Optional)
+	2. IST 6470 (Database)
+		1. **Discussion Post**
+	3. IST 6480 (Networking)
+		1. Team Network Project (May 8th)
+		2. Network Topic Presentation (May 8th)
+			1. Create a memo with two references:
+				1. https://securelist.com/phantomrpc-rpc-vulnerability/119428/
+				2. https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation
+		3.  WiFi Evaluation (May 8th)
+	4.  IST 6700 (Policy)
+		1. Hands on Modules (Last day??)
+3. **Study Sec+** 
+4.  **Finish President Document** 
+5. **Schedule time to meet with Cabinet & appoint members**
+6. Contact Arcky Regarding WITH
+7. Replace AIO Pump 
+8. Talk to Alegra about future WiCyS & CISO Collaborations
+	1. Remind to ask Cass to take the room.
+9. **Prep for CPTC Tryouts (Tuesday 6PM)**
+10.  Remove Subscriptions:
+	1. GoDaddy subscription (If I haven't already)
+	2. Maybe Claude
+	3. Proton
+11.  Send Documents to Erinae
 12. 
-13.  Get Security Plus
-14.  Create Homelab
-15.  Read IT Books
-16.  
-17.  Learn how to make templates for Obsidian
-18.  RICE Endeavor and Pop(Waybar)
-19.  Figure out gaming on Linux
-20.  Learn how to backup dot files on Github
-21.  Dentist Appointment
-22.  Finish completing the Cyber Patriot ISO
-23.  Finish Udemy Class
-24.  Get RHEL Cert
-25.  Learn new meals to cook
-26.  Travel
-27.  Consider Creating Notion Workflow
-28.  Work on HTB modules
+13.  Help Mom lower Internet Bill 
+14.  Consider applying for EBT/CalFresh and Medical
+15. 
+16.  Get Security Plus
+17.  Create Homelab
+18.  Read IT Books
+19.  
+20.  Learn how to make templates for Obsidian
+21.  RICE Endeavor and Pop(Waybar)
+22.  Figure out gaming on Linux
+23.  Learn how to backup dot files on Github
+24.  Dentist Appointment
+25.  Finish completing the Cyber Patriot ISO
+26.  Finish Udemy Class
+27.  Get RHEL Cert
+28.  Learn new meals to cook
+29.  Travel
+30.  Consider Creating Notion Workflow
+31.  Work on HTB modules
 
 # Homework
-1. AWS Online Cloud Course
-2. Finish AI Tool assignment
+1. 
+2. 
 3. Study Security+ For May 1st
-4. Systems Analysis Quizzes
-5. Prepare a speech
+4. 
+5. 
 6. 
 7. 
 8. 
-9. Finish a networking discussion post (6 - left)
+9. 
 10. (Optional) Networking assignments - WIFI eval assignment, Network Topic Presentation #2, 50 questions (May 8th), 
 11. File for EBT
 

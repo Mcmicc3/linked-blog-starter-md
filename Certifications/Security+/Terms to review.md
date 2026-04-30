@@ -4,7 +4,139 @@ Questions regarding social engineering principles
 Questions regarding "purpose", not method
 
 ----
-## Review
+
+# Quick review  (Flash Cards) 
+
+
+## Finance Terms
+* **TCO (Total Cost of Ownership)** → _every cost across the entire lifecycle._ Purchase + implementation + training + maintenance + support + upgrades + decommission. The complete financial picture from day one to end of life. This is what you calculate when deciding whether you can actually afford a tool long-term, not just upfront.
+
+* **ROI (Return on Investment)** → _what do we get back for what we spent?_ Measures the benefit or return relative to the cost. Security ROI might be calculated as: cost of breaches prevented minus cost of the tool. Forward-looking as a projection or backward-looking as an evaluation. Focused on _value gained_, not _costs incurred._
+
+* **CAPEX (Capital Expenditure)** → _upfront purchase costs for long-term assets._ The initial money spent acquiring hardware, software licenses, or infrastructure. One-time or large periodic costs that appear on the balance sheet as assets. Covers the purchase but not ongoing operational costs.
+
+* **Operational Efficiency** → _how well the tool performs its function relative to resources consumed._ Not a financial metric in the cost sense — it's about performance, automation improvement, and resource utilization. Relevant to _why_ you'd want a tool, not to _how much_ it will cost.
+
+## Availabilty 
+* **Failover** → the automatic switch from primary to standby when the primary fails. The mechanism of switching. This is exactly what the question describes.
+
+* **Clustering** → multiple systems grouped together that share workloads and provide redundancy. Clustering often _uses_ failover internally, but clustering is the _architecture_ — the group of systems. Failover is the _action_ that happens when one node in the cluster goes down.
+
+* **Parallel processing tests** → running old and new systems simultaneously during a transition to compare outputs and validate the new system before fully committing. A testing methodology, not a failover mechanism.
+
+## Simulation Types
+* **Offensive** penetration testing means the testers are purely in attacker mode — using real-world techniques, tools, and tactics that actual threat actors use, with the goal of finding vulnerabilities before real attackers do. No defensive coordination, no rules beyond scope. *This is the purest simulation of a real attack*. Red team engagements are the classic example.
+
+* **Defensive** testing evaluates how well your defenses _detect and respond_ to attacks. The focus is on the blue team — monitoring, alerting, incident response. Not simulating the attack itself.
+
+* **Integrated** testing (also called *purple teaming*) combines offensive and defensive simultaneously — the red team attacks while the blue team actively responds, and both share information to improve each other. *The goal is collaboration and improvement, not pure attack realism*.
+
+## Service Disruption
+* **Maintenance Window** answers: _when are we doing the work?_ It's a time slot. A calendar entry. A planning concept. It describes the _schedule_.
+* **Downtime** answers: _what is the system's current condition?_ It describes the _state_. Available or unavailable. Up or down.
+* **Service restart** is a specific technical action — stopping and starting a service.
+
+## Email
+- **MTA** = the mail server software that moves email (not a security standard)
+- **SPF** = DNS record listing IPs allowed to send for your domain (checks the envelope)
+	- Answers the question: _"Is this mail server allowed to send email for this domain?"
+- **DKIM** = cryptographic signature proving email is authentic and unmodified (travels with the message)
+	- Answers the question: "*Was this email actually sent by the domain it claims, and was it tampered with in transit?*"
+- **DMARC** = policy that uses SPF + DKIM results to decide what to do, and adds `From:` alignment + reporting
+	- tells receivers _what to do_ when they fail.
+
+## Report Types
+- **Recurring report** → *fixed schedule*, same structure each time, covers ongoing operations. Signal words: "every month," "weekly," "quarterly," "regularly."
+- **Threat intelligence briefing** → *ad hoc*, triggered by specific emerging threats or intelligence. Signal words: "new threat," "emerging campaign," "specific actor."
+- **Incident report** → documents *one specific security event*. Signal words: "breach," "attack occurred," "what happened."
+- **Policy review** → *evaluates security policies* themselves. Signal words: "policy adequate," "compliance with policy," "update procedures."
+
+## CVSS Terms
+* The **UI** (*User Interaction*) metric specifies whether an attack can be executed solely by the attacker or if it necessitates user involvement to succeed.
+* The **PR** (*Privileges Required*) metric measures the level of privileges an attacker must have to exploit the vulnerability
+* **AV** (*Attack Vector*) specifies the context of the exploit, like local or network-based, rather than user involvement.
+* The **AC** (*Attack Complexity*) metric describes the conditions that must be met for an exploit to work
+
+## Risk Terms
+* **Risk Owners** → _who is accountable?_ The individuals or departments assigned responsibility for specific risks. Every identified risk in a risk register should have a named owner. Without ownership, risks get ignored because nobody feels responsible.
+
+* **Risk Tolerance** → _how much risk are we willing to accept overall?_ The organization's general appetite for risk — a strategic, high-level position. "We are willing to accept moderate risk in pursuit of business growth" is a tolerance statement.
+
+* **Risk Parameters** are the boundaries and constraints that define how risk is measured and managed across the organization — things like scope, assumptions, and the criteria used to evaluate risk. They answer: _what are the rules of the game for how we think about risk?_ Think of them as the framework before any measuring begins.
+
+* **Risk Threshold** is the line in the sand — the predetermined level at which a risk becomes unacceptable and triggers a response. It's a specific value or limit, not a measurement. If unauthorized logins exceed 500 per hour, that's the threshold where the incident response team gets called. It answers: _at what point do we act?_
+
+* **Risk Metrics** are any quantitative measurements used to track and communicate risk — login attempt counts, patch compliance percentages, mean time to detect, vulnerability counts. Broad category. They answer: _what are the numbers?_
+
+* **Key Risk Indicators (KRIs)** are a specific subset of risk metrics that are chosen and monitored because they _predict_ or signal increasing risk before a problem fully materializes. They are forward-looking early warning systems. A rising count of unauthorized logins isn't just a number — it's a signal that something bad may be coming. That's a KRI. They answer: _what numbers should we watch because they warn us of future trouble?
+
+* **Risk Indicators** → _what are the warning signals?_ Metrics that measure and signal changing risk levels. KRIs (which we covered earlier) are a subset of this — they watch for early warning signs of increasing risk.
+
+## Control Plane vs Data Plane
+- **Policy Engine** → _calculates the decision_. The reasoning brain. Evaluates all inputs. Produces allow/deny.
+- **Policy Administrator** → _communicates the decision_. Takes the Engine's output and tells the PEP what to do.
+- **Policy Decision Point** → _the whole decision unit_. Engine + Administrator together. Lives entirely in the Control Plane.
+- **Policy Enforcement Point** → _the gate_. Only component in the Data Plane. Touches real traffic. Has zero decision-making authority — purely enforces.`
+
+## Unsupported Systems
+- **Deprecated** → _officially flagged_. A standards body or vendor says "stop using this." Still works. No more security improvements. Look for: specific protocols or algorithms (TLS 1.0, SHA-1, 3DES).
+- **End-of-Life hardware** → _manufacturer walked away_. Physical device past its support date. Still runs. Zero patches ever coming. Look for: routers, firewalls, switches, appliances past their support date.
+- **Legacy platform** → _too embedded to replace_. Outdated system still running critical operations. Broadest risk — unpatched, can't run modern tools, hard to remove. Look for: "business depends on it," "cannot be replaced," industrial control systems, old operating systems.
+
+## Vendor and Third Party Risk Management
+- **Evidence of internal audits** → _vendor grades their own homework_. Lowest trust. Useful as a starting point but not sufficient alone for high-risk vendors.
+- **Right to audit clause** → _contractual reserved power_. Must be in the contract before signing. Your auditors, your standards, your access.
+- **Supply chain analysis** → _the whole ecosystem, not just one vendor_. SolarWinds is the exam's favorite real-world example. Thinks in tiers — vendor's vendors matter too.
+- **Independent assessments** → _neutral third party, no conflict of interest_. Highest objectivity. SOC 2, ISO 27001, and third-party pen tests are all examples of this.
+
+## Cryptography
+- **AES** → _fast symmetric encryption_. The modern standard. 128/192/256-bit keys. Used for bulk data encryption everywhere.
+- **RSA** → _asymmetric key pair_. Solves key distribution. Used for key exchange and digital signatures. Slow — not for bulk data.
+- **HMAC** → _integrity and authenticity_. Not encryption. Proves a message wasn't tampered with and came from the right party.
+- **3DES** → _deprecated symmetric encryption_. DES run three times. Replaced by AES. NIST deprecated it in 2023.
+- **SHA-256** — *integrity verification only*. Not encryption, not signing in the asymmetric sense. Can't establish the chain of trust that certificates require.
+- **MD5** — *also a hash function*, same problem as SHA-256, and additionally ***broken and deprecated***. Completely wrong category and completely wrong security posture for a root certificate.
+
+## SAML vs OAuth vs SSO
+- **LDAP** → _directory_. The phonebook. Stores users and attributes. Active Directory uses it. Ports 389 / 636.
+- **SSO** → _experience_. Not a protocol. The goal of logging in once. Achieved via SAML or OAuth.
+- **SAML** → _authentication_. XML assertions passed between Identity Provider and Service Provider. Enterprise SSO standard. Answers "who are you?"
+- **OAuth** → _authorization_. Scoped access tokens. Third-party apps act on your behalf without your password. Answers "what are you allowed to do?"
+
+### Memory Vulnerabilities
+- **Memory injection** — the gap is in _input handling_. You trust that input stays in its lane; it doesn't.
+- **Race condition** — the gap is in _concurrent timing_. Two things happen at once and interfere with each other.
+- **TOCTOU (Time-of-Check to Time-of-Use)** — the gap is in _the delay between a security check and the action that follows it_. Something changes in that window.
+- **Memory fragmentation** - is a type of memory issue that occurs when a program allocates and frees memory in an irregular or inefficient manner, causing the available memory to be divided into small and non-contiguous blocks. It can lead to memory wastage, allocation failure, or reduced performance.
+- **Memory leak** - is a type of memory issue that occurs when a program fails to release or free the memory that it has allocated, causing it to consume more and more memory over time. It can lead to performance degradation, resource exhaustion, or out-of-memory errors. 
+- **Buffer underflow** - is a type of memory corruption that occurs when a program reads more data than the allocated buffer can provide, causing it to read from invalid memory locations. It can lead to crashes, data leakage, or undefined behavior.
+
+### Data Classification
+- **DAC** → _owner_. The person who created the resource controls access. Flexible, decentralized, weakest security.
+- **RBAC** → _role_. Your job function determines access. Most common in enterprise. Think Active Directory groups.
+- **Rule-based** → _conditions_. Universal rules that apply to everyone. Think firewall ACLs and time-of-day restrictions. No identity awareness.
+- **ABAC** → _attributes_. A policy engine evaluates many factors at once. Most powerful, most complex. Foundation of Zero Trust.
+
+### Data Roles (Zero Trust)
+- **Data Owner** → _accountable_. Senior business role. Sets classification, retention, acceptable use. Doesn't touch the data.
+- **Data Custodian** → _implements_. Technical IT role. Runs the backups, applies the encryption, enforces the access controls the owner decided.
+- **Data Controller** → _purpose_. Legal/GDPR concept. Decides why data is collected. Legally liable to regulators.
+- **Data Processor** → _on behalf of_. Legal/GDPR concept. Third party acting on the controller's instructions. Cloud providers, SaaS vendors.
+
+## Security Roles
+**Security Officer** — owns and runs the entire information security program. Defines policies, implements procedures, manages risk across the organization. This is Maria. Think CISO or Information Security Manager. They have authority and accountability for the _program itself._
+**Security Owner** — accountable for a specific system or dataset's security posture. Similar to Data Owner but scoped to a system. They make security decisions about _their asset_, not the whole program.
+**Security Custodian** — implements the technical security controls that the security owner or officer defines. The hands-on IT role. Same logic as Data Custodian — they do the work, they don't set the policy.
+
+## Micro Computers
+- **Embedded System** → _dedicated function, deeply integrated, often isolated_. The computer inside something else. Firmware-based. Safety-critical. Rarely patched. Think pacemaker, PLC, car controller.
+- **IoT** → _embedded system plus network connection_. All the same risks, now reachable from the internet. Default credentials and lack of segmentation are the signature weaknesses.
+
+---
+
+# Review
+**Credential Replay** → attacker uses _previously valid, real credentials_ obtained from a breach or theft — exact username/password pairs that actually worked before. The credentials are specific and real, not guesses. Also called credential stuffing when done at scale using breach databases.
+
 Parallel Processing
 - Parallel processing involves using multiple CPUs to process different parts of a bigger task. The benefits of parallel processing include greater speed and greater fault tolerance.
 - Activates the alternate processing facility, but only as a test while all normal processing continues at the primary facility. 
@@ -475,6 +607,8 @@ Data Anonymization
 ~ Known Environment
 ~ Unknown Environment
 ~ Partially Known Environment
+	* Meant to simulate an insider threat
+	* **Why Partially known is correct** — read the critical sentence: **"No other information has been given."** That phrase is the examiner flagging that something is missing. They received personnel information and some system details — but no network diagrams, no credentials, no source code, no infrastructure maps, no internal architecture details. They got some things but not everything. That gap is precisely what defines Partially known.
 ~ Cyber Kill Chain
 ~ Pharming
 ~ smishing
