@@ -7,6 +7,201 @@ Questions regarding "purpose", not method
 
 # Quick review  (Flash Cards) 
 
+## Ports
+**EMAIL**
+
+|Port|Protocol|Notes|
+|---|---|---|
+|25|SMTP|Sends email between servers. Open relay = spam/spoofing risk|
+|110|POP3|Downloads email to one device, deletes from server|
+|143|IMAP|Syncs email across devices, stays on server|
+|465|SMTPS|SMTP over SSL|
+|587|SMTP Submission|Modern standard for sending email|
+|993|IMAPS|IMAP over SSL/TLS|
+|995|POP3S|POP3 over SSL/TLS|
+
+---
+
+**DNS & TIME**
+
+|Port|Protocol|Notes|
+|---|---|---|
+|53|DNS|Domain name resolution. DNS poisoning target|
+|123|NTP|Time sync. Critical for Kerberos and certificates|
+
+---
+
+**DIRECTORY & AUTHENTICATION**
+
+|Port|Protocol|Notes|
+|---|---|---|
+|88|Kerberos|Authentication — used by Active Directory|
+|389|LDAP|Directory queries — user lookups|
+|636|LDAPS|LDAP over SSL/TLS|
+|1812|RADIUS|Network access authentication|
+|1813|RADIUS Accounting|Tracks session data|
+
+---
+
+**NETWORK SERVICES**
+
+|Port|Protocol|Notes|
+|---|---|---|
+|67|DHCP Server|Assigns IP addresses to clients|
+|68|DHCP Client|Receives IP address|
+|161|SNMP|Device monitoring. v1/v2 send in plaintext — security risk|
+|162|SNMP Trap|Device sends alerts to manager|
+|514|Syslog|Log forwarding to central server|
+
+---
+
+**VPN & SECURITY**
+
+|Port|Protocol|Notes|
+|---|---|---|
+|500|IKE / IPSec|VPN tunnel negotiation|
+|1194|OpenVPN|Open source VPN|
+|1701|L2TP|Layer 2 tunneling — usually paired with IPSec|
+|1723|PPTP|Older VPN — considered weak, avoid|
+|4500|IPSec NAT-T|IPSec traversal through NAT|
+
+---
+
+**FILE SHARING & REMOTE**
+
+|Port|Protocol|Notes|
+|---|---|---|
+|137-139|NetBIOS|Windows file sharing — legacy, attack surface|
+|445|SMB|Windows file sharing. EternalBlue/WannaCry exploited this|
+|3389|RDP|Remote Desktop Protocol — brute force and exploit target|
+
+---
+
+**DATABASES**
+
+|Port|Protocol|Notes|
+|---|---|---|
+|1433|MS SQL Server|Microsoft SQL database|
+|1521|Oracle DB|Oracle database|
+|3306|MySQL / MariaDB|Common web application database|
+|5432|PostgreSQL|Open source database|
+
+---
+
+**MANAGEMENT & MONITORING**
+
+| Port  | Protocol        | Notes                                                               |
+| ----- | --------------- | ------------------------------------------------------------------- |
+| 69    | TFTP            | Trivial FTP — no authentication, used for firmware/config transfers |
+| 179   | BGP             | Border Gateway Protocol — internet routing                          |
+| 443   | LDAPS / HTTPS   | Also used for LDAPS in some configurations                          |
+| 3868  | Diameter        | Modern replacement for RADIUS                                       |
+| `6514 | Syslog over TLS | Encrypted log forwarding                                            |
+
+## Business Process Analysis
+**Process Flow** → the step-by-step procedural description of how the work actually gets done. Sequential tasks, decision points, who does what and in what order. This is the "how" of the process — a detailed walkthrough of every action taken from start to finish. This is what the question is asking about: _detailed, step-by-step description of procedural tasks._
+
+**Inputs** → everything the process needs to begin and operate. Data, materials, information, resources that feed into the process. The raw material that gets transformed.
+
+**Outputs** → what the process produces when complete. The end result, deliverable, or product that comes out the other side.
+
+**Hardware** → the physical and technical resources required to execute the process. Systems, equipment, devices, and infrastructure the process depends on.
+
+## Regulations
+| Regulation | Country/Scope        | Protects                                          |
+| ---------- | -------------------- | ------------------------------------------------- |
+| HIPAA      | US                   | Patient health information                        |
+| SOX        | US                   | Corporate financial reporting                     |
+| GLBA       | US                   | Customer financial data at financial institutions |
+| PCI DSS    | Global               | Credit card / payment data                        |
+| GDPR       | EU (worldwide reach) | Personal data of EU citizens                      |
+| CCPA       | California (US)      | Personal data of California residents             |
+| FISMA      | US Federal           | Federal government information systems            |
+| FERPA      | US                   | Student education records                         |
+| FedRAMP    | US Federal           | Cloud services used by federal agencies           |
+**HEALTH DATA**
+
+**HIPAA (Health Insurance Portability and Accountability Act)** — US law protecting patient health information (PHI). Applies to healthcare providers, insurers, and their business associates. Any organization handling medical records in the US must comply. You already own this one. Signal words: patient, health records, medical information, US healthcare.
+
+---
+
+**FINANCIAL DATA**
+
+**SOX (Sarbanes-Oxley Act)** — US law focused on financial reporting integrity for publicly traded companies. Born after Enron and WorldCom scandals. Requires accurate financial records, internal controls, and executive accountability for financial statements. Not about customer data — about corporate financial accuracy. Signal words: publicly traded, financial reporting, corporate accountability, auditing.
+
+**GLBA (Gramm-Leach-Bliley Act)** — US law requiring financial institutions (banks, insurance companies, investment firms) to protect customer financial information and explain their data sharing practices. Signal words: financial institutions, banks, customer financial data, US.
+
+**PCI DSS (Payment Card Industry Data Security Standard)** — technically not a law but a contractual standard enforced by card brands (Visa, Mastercard). Applies to any organization that stores, processes, or transmits credit card data. Global in scope. Signal words: credit cards, payment processing, cardholder data.
+
+---
+
+**PERSONAL / PRIVACY DATA**
+
+**GDPR (General Data Protection Regulation)** — EU regulation protecting the personal data of EU citizens. Applies to any organization worldwide that handles EU citizen data — not just European companies. Introduces concepts of Data Controller, Data Processor, right to be forgotten, and mandatory breach notification within 72 hours. Heaviest fines of any privacy law. Signal words: EU citizens, personal data, right to erasure, Data Controller, 72-hour breach notification.
+
+**CCPA (California Consumer Privacy Act)** — California state law giving consumers rights over their personal data — right to know what's collected, right to delete, right to opt out of sale. Applies to businesses meeting certain thresholds that handle California residents' data. The US equivalent of GDPR in many ways but narrower. Signal words: California residents, consumer privacy rights, opt out of data sale.
+
+---
+
+**GOVERNMENT / FEDERAL SYSTEMS**
+
+**FISMA (Federal Information Security Management Act)** — US law requiring federal government agencies and their contractors to implement information security programs. Compliance is managed through NIST frameworks. Signal words: federal agencies, government systems, NIST compliance, federal contractors.
+
+**Computer Security Act (1987)** — older US law establishing basic security requirements for federal computer systems. Largely superseded by FISMA but still appears on the exam as a historical reference. Signal words: federal computers, older legislation, 1987.
+
+**FedRAMP (Federal Risk and Authorization Management Program)** — US program that standardizes security assessment for cloud services used by federal agencies. Cloud providers must be FedRAMP authorized before federal agencies can use them. Signal words: cloud services, federal agencies, cloud authorization.
+
+---
+
+**EDUCATION DATA**
+
+**FERPA (Family Educational Rights and Privacy Act)** — US law protecting the privacy of student education records. Gives parents (and students over 18) rights to access and control their education records. Applies to schools receiving federal funding. Signal words: students, education records, schools, universities.
+
+
+## Password Attacks
+
+**Horizontal password attack (= Password Spraying)** → few passwords, many accounts. Stays below lockout thresholds per account. Trades depth for breadth. The "same passwords tried across many accounts" pattern.
+
+**Vertical password attack (= Brute Force / Dictionary against one target)** → many passwords, one account. Goes deep on a single target trying everything until lockout or success. High volume per account.
+
+**Dictionary attack** → describes the _type of password list_ used — real words, common passwords, known phrases. Can be applied either horizontally or vertically. It's the ammunition, not the firing pattern.
+
+**Credential stuffing** → uses _real username/password pairs_ stolen from previous breaches. Not guessing — using known valid credentials from breach databases. Specific and targeted, not common password guesses.
+
+**Few passwords × many accounts = *Horizontal / Spraying***
+
+**Many passwords × one account = *Vertical / Brute Force***
+
+
+## Data Security
+**Operational Security (OPSEC)** → a _process and discipline_ of controlling who knows what to prevent sensitive information from reaching adversaries or competitors. Need-to-know is its core principle. Originally a military concept, now applied broadly to protect sensitive business and security information. No technology required — it's about information handling behavior.
+
+**Data Loss Prevention (DLP)** → a _technical control_ that monitors and blocks unauthorized data exfiltration through technical channels — email attachments, USB drives, cloud uploads, printing. Enforces policy through software. Reactive and technical, not behavioral.
+
+## Backups
+**Frequency** → _how often_ backups are taken. Daily, weekly, hourly. Directly determines your Recovery Point Objective (RPO) — the more frequent your backups, the less data you can lose in a failure. The question's phrase "regularly, at set intervals" is the signal every time.
+
+**Replication** → _continuous, real-time copying_ of data to another location or system. Not a scheduled backup — data is mirrored as it's written. Replication is always-on, not interval-based. The difference from frequency: replication happens continuously, frequency describes scheduled snapshots.
+
+**Journaling** → _recording every change made to data_ in a log (journal) before it's committed. Used in file systems to ensure consistency — if the system crashes mid-write, the journal lets it recover without corruption. It's about data integrity and recovery from crashes, not about making backup copies at intervals.
+
+**Load balancing** → _distributing traffic or workload_ across multiple servers to prevent any single server from being overwhelmed. Nothing to do with backup strategy — it's a availability and performance concept. Completely different category.
+
+## SOC Analyst Tools
+**SIEM** → agentless, centralized log collection and correlation across the entire environment. Receives data that systems send to it. Generates alerts based on correlated events. The monitoring and alerting hub for the whole organization.
+
+**IDS (Intrusion Detection System)** → monitors network traffic or host activity for suspicious patterns and alerts. Can be network-based (agentless, monitors traffic) or host-based (requires an agent on the endpoint). Narrower scope than SIEM — focused on intrusion patterns, not broad log correlation.
+
+**WAF (Web Application Firewall)** → sits in front of web applications and filters malicious HTTP traffic. Protects web apps from SQL injection, XSS, and similar attacks. Not a general monitoring tool — very specific to web application traffic.
+
+## Hardware Security
+**TPM (Trusted Platform Module)** → a chip _embedded directly on the motherboard_ of a device. Stores cryptographic keys, certificates, and measurements tied to that specific device. Not removable, not shared across devices, not an add-on purchase. Every modern Windows PC has one. Used for full disk encryption (BitLocker), device attestation, and Secure Boot.
+
+**HSM (Hardware Security Module)** → a _dedicated external hardware appliance_ purchased separately for storing and managing cryptographic keys at an organizational level. Expensive, high-performance, tamper-resistant. Used by certificate authorities, banks, and enterprises that need to manage keys for many systems centrally. You buy it and plug it in — it's not embedded in a motherboard.
+
+**Secure Enclave** → a _hardware-isolated processing environment_ within a chip — like Apple's T2 chip or the secure zone inside a modern CPU. Similar concept to TPM but more associated with Apple devices and mobile processors. Protects sensitive computations even from the main OS.
+
+**Key Management System** → a _software platform_ for managing the lifecycle of cryptographic keys — generation, storage, rotation, revocation, auditing. Software-based, not a physical chip. Could use an HSM as its backend storage.
 
 ## Finance Terms
 * **TCO (Total Cost of Ownership)** → _every cost across the entire lifecycle._ Purchase + implementation + training + maintenance + support + upgrades + decommission. The complete financial picture from day one to end of life. This is what you calculate when deciding whether you can actually afford a tool long-term, not just upfront.
@@ -59,6 +254,10 @@ Questions regarding "purpose", not method
 
 ## Risk Terms
 * **Risk Owners** → _who is accountable?_ The individuals or departments assigned responsibility for specific risks. Every identified risk in a risk register should have a named owner. Without ownership, risks get ignored because nobody feels responsible.
+  
+* **Risk Assessor** → evaluates and analyzes risks to produce findings. Performs the assessment activity. Could be internal or a third party. Produces the report — doesn't own the outcome.
+  
+* **Risk Register** → not a person at all. It's the _document_ that records identified risks, their owners, severity, and mitigation status. A tool, not a role.
 
 * **Risk Tolerance** → _how much risk are we willing to accept overall?_ The organization's general appetite for risk — a strategic, high-level position. "We are willing to accept moderate risk in pursuit of business growth" is a tolerance statement.
 
@@ -110,7 +309,9 @@ Questions regarding "purpose", not method
 - **Memory fragmentation** - is a type of memory issue that occurs when a program allocates and frees memory in an irregular or inefficient manner, causing the available memory to be divided into small and non-contiguous blocks. It can lead to memory wastage, allocation failure, or reduced performance.
 - **Memory leak** - is a type of memory issue that occurs when a program fails to release or free the memory that it has allocated, causing it to consume more and more memory over time. It can lead to performance degradation, resource exhaustion, or out-of-memory errors. 
 - **Buffer underflow** - is a type of memory corruption that occurs when a program reads more data than the allocated buffer can provide, causing it to read from invalid memory locations. It can lead to crashes, data leakage, or undefined behavior.
-
+- **CPU starvation**  - is a type of performance issue that occurs when a process or thread does not receive enough CPU time to perform its tasks. It can affect the responsiveness and functionality of the process or thread.
+- **Resource reuse** - is a type of vulnerability that involves accessing or modifying data or communications from other virtual machines by exploiting the shared CPU between them. It can allow an attacker to execute malicious code or commands on other virtual machines.
+  
 ### Data Classification
 - **DAC** → _owner_. The person who created the resource controls access. Flexible, decentralized, weakest security.
 - **RBAC** → _role_. Your job function determines access. Most common in enterprise. Think Active Directory groups.
@@ -118,6 +319,12 @@ Questions regarding "purpose", not method
 - **ABAC** → _attributes_. A policy engine evaluates many factors at once. Most powerful, most complex. Foundation of Zero Trust.
 
 ### Data Roles (Zero Trust)
+
+_Does the scenario mention personal data, collection purposes, or processing means?_
+
+- **Yes** → you're in Controller/Processor territory
+- **No** → you're in Owner/Custodian territory
+
 - **Data Owner** → _accountable_. Senior business role. Sets classification, retention, acceptable use. Doesn't touch the data.
 - **Data Custodian** → _implements_. Technical IT role. Runs the backups, applies the encryption, enforces the access controls the owner decided.
 - **Data Controller** → _purpose_. Legal/GDPR concept. Decides why data is collected. Legally liable to regulators.

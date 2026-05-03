@@ -11,16 +11,6 @@ For example:
 
 
 
-Hey team! I'm honored and excited to be working with all of you this next academic year. I think you all strong leaders in your own, and I think together we're going to 
-
-Here is the document I made regarding all of my club ideas and the direction that I want to take the club moving forward. It's a living document, that we'll continue to add and modify throughout the year.  Let's schedule a time to talk this week: https://www.when2meet.com/?36441478-o3bhp
-
-I ask that you please review the document before the meeting so we can come prepared to discuss it.
-Things I want to talk about in the meeting:
-* Unity
-* Review document
-* Appoint people for positions
-* Summer Meetings
 
 
 
@@ -50,17 +40,50 @@ We have an ATM at SMSU North, in the halls, close to the bowling alley 
   
 
 
+**1. Headline:** Siemens Unveils Digital Twin Composer at CES 2026 to Transform Industrial System Design
 
+**Link:** [https://news.siemens.com/en-us/digital-twin-composer-ces-2026/](https://news.siemens.com/en-us/digital-twin-composer-ces-2026/)
+
+**Summary:** Siemens launched Digital Twin Composer, a new software solution that builds Industrial Metaverse environments at scale, empowering organizations to apply industrial AI, simulation, and real-time physical data to make decisions virtually, at speed and scale. In a real-world deployment, PepsiCo used the platform to recreate every machine, conveyor, pallet route, and operator path with physics-level accuracy — enabling AI agents to simulate and test system changes before any physical modifications occurred. The approach identified up to 90% of potential issues pre-deployment and delivered a 20% increase in throughput. [Siemens](https://news.siemens.com/en-us/digital-twin-composer-ces-2026/)
+
+**Relevance to Course:** This article directly connects to systems modeling and simulation concepts covered in class. Digital twins are essentially a living, real-time extension of the system models we study — like DFDs and process models — but applied at industrial scale. The idea of validating a system's design _before_ implementation mirrors the SDLC design and testing phases, reinforcing why thorough modeling and simulation matter. The Siemens article also highlights how integration of data sources (IoT, MES, QMS) maps directly to our discussions on system architecture and data flow.
 
 ---
 
+**2. Headline:** Low-Code Development in 2026: Why 70% of Enterprise Apps Are Now Built Without Traditional Coding
 
-In today’s world, organizations are surrounded by massive amounts of data, but having data alone doesn’t automatically lead to better decisions. The real challenge is turning that raw data into meaningful business intelligence that people can actually understand and act on. This process starts with identifying what data is truly relevant. Not all data needs to be used, and trying to analyze everything at once can be overwhelming and inefficient. Instead, organizations should focus on collecting and organizing data that directly supports their goals.
+**Link:** [https://webvillee.com/blogs/low-code-development-why-70-of-new-enterprise-apps-use-it-in-2026/](https://webvillee.com/blogs/low-code-development-why-70-of-new-enterprise-apps-use-it-in-2026/)
 
-Once the right data is identified, it needs to be cleaned and structured. Raw data is often messy, incomplete, or inconsistent, which can lead to inaccurate conclusions if not addressed. After cleaning, tools such as dashboards, reports, and visualizations can help translate complex data into simpler insights. These tools make it easier for decision-makers—who may not have technical backgrounds—to quickly understand patterns, trends, and potential problems.
+**Summary:** By the second quarter of 2026, nearly 70% of new enterprise applications are being built using low-code or no-code platforms, making it the primary engine for digital transformation. The article explains how a typical enterprise low-code workflow now includes visual logic design using drag-and-drop interfaces, reusable component libraries instead of rewriting authentication or API connectors, AI-augmented configuration that suggests optimal data schemas, and one-click deployment baked into CI/CD pipelines. [Webvillee Technology](https://webvillee.com/blogs/low-code-development-why-70-of-new-enterprise-apps-use-it-in-2026/)
 
-Another key part of turning data into business intelligence is analysis. This can include looking at past trends to understand what has happened, as well as using predictive methods to anticipate future outcomes. For example, a company might analyze customer purchasing behavior to decide which products to promote, while law enforcement might use crime data to allocate resources more effectively. Governments can analyze population data to improve public services and plan infrastructure.
+**Relevance to Course:** Low-code platforms are directly reshaping _how_ systems analysis and design work gets done. Rather than following the traditional SDLC from scratch, analysts and citizen developers now configure systems visually using pre-built components — which shifts the analyst's role toward requirements definition and governance rather than specification of every implementation detail. This ties into our class discussions on rapid prototyping, iterative development, and the changing nature of requirements gathering when development cycles are compressed from months to days.
 
-However, it’s also important to recognize the human element. Data does not make decisions on its own—people do. This means organizations must ensure that employees are trained to interpret data correctly and avoid bias. Ethical considerations, such as privacy and data security, are also critical, especially when dealing with sensitive information.
+---
 
-In the end, turning data into business intelligence is about making information useful. By focusing on relevant data, organizing it properly, presenting it clearly, and using it responsibly, organizations across all sectors can make smarter, more informed decisions despite the overwhelming volume of data available today.
+**3. Headline:** The Rapidly Changing Landscape of APIs in 2026 — From Developer Tools to Regulated Infrastructure
+
+**Link:** [https://konghq.com/blog/engineering/api-a-rapidly-changing-landscape](https://konghq.com/blog/engineering/api-a-rapidly-changing-landscape)
+
+**Summary:** According to Kong's 2026 report, 83.2% of organizations have adopted some form of API-first approach, yet only 25% operate as fully API-first organizations. Meanwhile, 89% of developers use AI in their workflows, but only 24% are designing APIs with AI agents in mind — a gap that threatens to leave many businesses behind. The article identifies six major shifts reshaping the API ecosystem, including regulatory mandates requiring healthcare organizations to implement FHIR APIs, new security models to handle AI agent traffic, and the rise of GraphQL and gRPC alongside traditional REST architectures. [Kong Inc.](https://konghq.com/blog/engineering/api-a-rapidly-changing-landscape)
+
+**Relevance to Course:** APIs are a critical piece of modern systems architecture, and this article illustrates how the decisions made during the _design phase_ of the SDLC have long-term consequences. When organizations treat APIs as an afterthought rather than a primary design artifact, they accumulate integration debt — a theme very consistent with what we've covered about poor planning costs. The regulatory angle also connects to our discussions on nonfunctional requirements and constraints, showing how compliance shapes system design from the ground up.
+
+---
+
+**4. Headline:** AI-Driven Software Development in 2026: Full SDLC Automation & Intelligence
+
+**Link:** [https://www.bairesdev.com/blog/ai-driven-software-development/](https://www.bairesdev.com/blog/ai-driven-software-development/) _(search result article, representative of the topic covered by multiple sources)_
+
+> _(Note: Since your classmates Joel and Davonnte both covered this general topic well, I've included it here but recommend swapping for one of the other unique ones if you need full differentiation. The three above are your guaranteed unique URLs.)_
+
+For your fifth entry, here's a stronger unique option:
+
+---
+
+**5. Headline:** Digital Twins in 2026: Transitioning From Static Replicas to Intelligent, AI-Driven Systems
+
+**Link:** [https://www.rtinsights.com/digital-twins-in-2026-from-digital-replicas-to-intelligent-ai-driven-systems/](https://www.rtinsights.com/digital-twins-in-2026-from-digital-replicas-to-intelligent-ai-driven-systems/)
+
+**Summary:** As digital twin technology enters 2026, it is transitioning from static virtual replicas to intelligent, data-driven systems that integrate real-time analytics and advanced AI. The Digital Twin Consortium recently expanded its Innovative Digital Twin Testbed Program with four new testbeds spanning autonomous manufacturing, quantum-powered optimization, pandemic preparedness, and climate forecasting — underscoring the shift of digital twins from conceptual models to operational, intelligent systems that validate real-world value and support cross-industry collaboration. [RTInsights](https://www.rtinsights.com/digital-twins-in-2026-from-digital-replicas-to-intelligent-ai-driven-systems/)
+
+**Relevance to Course:** This article illustrates an emerging methodology that extends the systems design process beyond a one-time build into a continuous, living model of a system. The concept of a digital twin is essentially an advanced application of the modeling techniques we study — DFDs, process models, and ERDs — but maintained and updated in real time. It also directly connects to system maintenance and the post-implementation phase of the SDLC, challenging the traditional view that a system is "done" after deployment.

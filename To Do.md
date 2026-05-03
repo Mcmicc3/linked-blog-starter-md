@@ -1,21 +1,21 @@
-1. REGISTER FOR CLASSES (Tuesday 6AM) 
+1. Tuesday Meeting with Arcky
 2. Remaining HW:
 	1. IST 6450 (SA&D)
-		1. **News on Systems Analysis and Design (May 3rd)**
-		2. **Bookmark Project (May 3rd)**
-		3. Milestone 4 (May 5th)
+		1. 
+		2. 
+		3. Milestone 4 (**May 5th**)
 		4.  Re do Quizzes (Optional)
-	2. IST 6470 (Database)
-		1. **Discussion Post**
-	3. IST 6480 (Networking)
+	
+	2. IST 6480 (Networking)
 		1. Team Network Project (May 8th)
 		2. Network Topic Presentation (May 8th)
 			1. Create a memo with two references:
 				1. https://securelist.com/phantomrpc-rpc-vulnerability/119428/
 				2. https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation
 		3.  WiFi Evaluation (May 8th)
-	4.  IST 6700 (Policy)
+	3.  IST 6700 (Policy)
 		1. Hands on Modules (Last day??)
+			1. 7 - 10
 3. **Study Sec+** 
 4.  **Finish President Document** 
 5. **Schedule time to meet with Cabinet & appoint members**
