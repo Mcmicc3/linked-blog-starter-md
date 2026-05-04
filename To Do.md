@@ -1,5 +1,7 @@
-1. Tuesday Meeting with Arcky
-2. Remaining HW:
+1. 
+2. 
+3. Tuesday Meeting with Arcky
+4. Remaining HW:
 	1. IST 6450 (SA&D)
 		1. 
 		2. 
@@ -16,39 +18,39 @@
 	3.  IST 6700 (Policy)
 		1. Hands on Modules (Last day??)
 			1. 7 - 10
-3. **Study Sec+** 
-4.  **Finish President Document** 
-5. **Schedule time to meet with Cabinet & appoint members**
-6. Contact Arcky Regarding WITH
-7. Replace AIO Pump 
-8. Talk to Alegra about future WiCyS & CISO Collaborations
+5. **Study Sec+** 
+6.  **Finish President Document** 
+7. **Schedule time to meet with Cabinet & appoint members**
+8. Contact Arcky Regarding WITH
+9. Replace AIO Pump 
+10. Talk to Alegra about future WiCyS & CISO Collaborations
 	1. Remind to ask Cass to take the room.
-9. **Prep for CPTC Tryouts (Tuesday 6PM)**
-10.  Remove Subscriptions:
+11. **Prep for CPTC Tryouts (Tuesday 6PM)**
+12.  Remove Subscriptions:
 	1. GoDaddy subscription (If I haven't already)
 	2. Maybe Claude
 	3. Proton
-11.  Send Documents to Erinae
-12. 
-13.  Help Mom lower Internet Bill 
-14.  Consider applying for EBT/CalFresh and Medical
-15. 
-16.  Get Security Plus
-17.  Create Homelab
-18.  Read IT Books
-19.  
-20.  Learn how to make templates for Obsidian
-21.  RICE Endeavor and Pop(Waybar)
-22.  Figure out gaming on Linux
-23.  Learn how to backup dot files on Github
-24.  Dentist Appointment
-25.  Finish completing the Cyber Patriot ISO
-26.  Finish Udemy Class
-27.  Get RHEL Cert
-28.  Learn new meals to cook
-29.  Travel
-30.  Consider Creating Notion Workflow
-31.  Work on HTB modules
+13.  Send Documents to Erinae
+14. 
+15.  Help Mom lower Internet Bill 
+16.  Consider applying for EBT/CalFresh and Medical
+17. 
+18.  Get Security Plus
+19.  Create Homelab
+20.  Read IT Books
+21.  
+22.  Learn how to make templates for Obsidian
+23.  RICE Endeavor and Pop(Waybar)
+24.  Figure out gaming on Linux
+25.  Learn how to backup dot files on Github
+26.  Dentist Appointment
+27.  Finish completing the Cyber Patriot ISO
+28.  Finish Udemy Class
+29.  Get RHEL Cert
+30.  Learn new meals to cook
+31.  Travel
+32.  Consider Creating Notion Workflow
+33.  Work on HTB modules
 
 # Homework
 1. 

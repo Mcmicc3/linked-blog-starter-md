@@ -16,6 +16,61 @@ For example:
 
 -----------------------------
 
+Hi Erinea. 
+
+I'm approaching the date where I begin work for the WITHcyber camp, and what I'm not sure of at this point, is if the hours from WITHcyber, will have any effect on my hours working for the SOC. When the time comes for me to clock my hours on paylocity, will I need to take a short break from the SOC? Will I be able to to report hours from both?
+
+---
+Good Morning Alex and Amy,
+
+Great news, I successfully passed the Security+ Exam! Here is a forwarded message proving my certification. 
+
+I just want to thank everyone at the Cyber and AI center for your continuous support. I'm very thankful for the opportunities and everything you've all done for me!
+
+Let me know if there's anything I need to do to apply for the reimbursement.
+
+Thank you!!
+Mario
+
+---
+Good morning Arcky,
+
+Excellent! Looking forward to our meeting on Tuesday.
+
+I booked us an appointment at PL-310 at 5:30 PM.
+
+Also, I have a document here containing all of my presidential goals for the next academic year. It's a living document that I'm actively adding too along with the help of the CISO cabinet. Feel free to take a look at it and get an idea of what our goals for the future of the club are: https://docs.google.com/document/d/1sAAECTziaAFxtMwbqtJiSz-P1xv2rlG7fT6wtmoogok/edit?tab=t.0#heading=h.i3aqai4xnhrm
+
+
+008734902@coyote.csusb.edu
+valeriaramirez2000.vr@gmail.com
+008905306@coyote.csusb.edu
+Arcadio.Vielma@csusb.edu
+
+---
+Good Morning Dr. Nestler
+
+I wanted to ask if you have any open availability during your office hours this week, or next to ask you a few short questions regarding my goals for the CISO Club, along with questions regarding the applied project for IST 64..
+
+I would appreciate your insights, 
+
+---
+Hey Friday! Hope you had a great weekend. I was wondering if you have access to the constitution of the CISO club, and if you could forward it to me. 
+
+---
+Good morning gang,
+
+I hope you all had a great weekend! Looking forward to our first meeting with Arcky Tuesday. Just to confirm, it's going to be at the same room at the Library. Here's the direction of where I want to take the meeting on Tuesday.
+* Welcome Arcky
+* Discuss our goals for the club
+* Defined officer positions and begin appointing members
+* Define our roles
+* Discuss Summer Meetings (Frequency/In-person/Online)
+	* Who are we okay with helping us inventory
+
+
+~                                      
+
 **
 
 
