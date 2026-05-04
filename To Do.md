@@ -1,56 +1,54 @@
-1. 
-2. 
-3. Tuesday Meeting with Arcky
-4. Remaining HW:
+1. Tuesday Meeting with Arcky
+2. Recruit Officers
+3. Remaining HW:
 	1. IST 6450 (SA&D)
 		1. 
 		2. 
 		3. Milestone 4 (**May 5th**)
 		4.  Re do Quizzes (Optional)
-	
-	2. IST 6480 (Networking)
-		1. Team Network Project (May 8th)
-		2. Network Topic Presentation (May 8th)
+	2. IST 6470 (Database)
+		1. Last Discussion Post (**May 8th**)
+	3. IST 6480 (Networking)
+		1. Team Network Project (**May 8th**)
+		2. Network Topic Presentation (**May 8th**)
 			1. Create a memo with two references:
 				1. https://securelist.com/phantomrpc-rpc-vulnerability/119428/
 				2. https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation
-		3.  WiFi Evaluation (May 8th)
-	3.  IST 6700 (Policy)
-		1. Hands on Modules (Last day??)
-			1. 7 - 10
-5. **Study Sec+** 
-6.  **Finish President Document** 
-7. **Schedule time to meet with Cabinet & appoint members**
-8. Contact Arcky Regarding WITH
-9. Replace AIO Pump 
-10. Talk to Alegra about future WiCyS & CISO Collaborations
-	1. Remind to ask Cass to take the room.
-11. **Prep for CPTC Tryouts (Tuesday 6PM)**
-12.  Remove Subscriptions:
+		3.  WiFi Evaluation (**May 8th**)
+	4.  IST 6700 (Policy)
+		1. Post assessment quiz			1. 
+4. 
+5. 
+6.  
+7. 
+8. Replace AIO Pump 
+9. 
+10. 
+11.  Remove Subscriptions:
 	1. GoDaddy subscription (If I haven't already)
 	2. Maybe Claude
 	3. Proton
-13.  Send Documents to Erinae
-14. 
-15.  Help Mom lower Internet Bill 
-16.  Consider applying for EBT/CalFresh and Medical
-17. 
-18.  Get Security Plus
-19.  Create Homelab
-20.  Read IT Books
-21.  
-22.  Learn how to make templates for Obsidian
-23.  RICE Endeavor and Pop(Waybar)
-24.  Figure out gaming on Linux
-25.  Learn how to backup dot files on Github
-26.  Dentist Appointment
-27.  Finish completing the Cyber Patriot ISO
-28.  Finish Udemy Class
-29.  Get RHEL Cert
-30.  Learn new meals to cook
-31.  Travel
-32.  Consider Creating Notion Workflow
-33.  Work on HTB modules
+12.  Send Documents to Erinae
+13. 
+14.  Help Mom lower Internet Bill 
+15.  Consider applying for EBT/CalFresh and Medical
+16. 
+17.  Get Security Plus
+18.  Create Homelab
+19.  Read IT Books
+20.  
+21.  Learn how to make templates for Obsidian
+22.  RICE Endeavor and Pop(Waybar)
+23.  Figure out gaming on Linux
+24.  Learn how to backup dot files on Github
+25.  Dentist Appointment
+26.  Finish completing the Cyber Patriot ISO
+27.  Finish Udemy Class
+28.  Get RHEL Cert
+29.  Learn new meals to cook
+30.  Travel
+31.  Consider Creating Notion Workflow
+32.  Work on HTB modules
 
 # Homework
 1. 
