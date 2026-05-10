@@ -1,3 +1,5 @@
+## Meeting with Nate
+
 Nate wants to migrate the top server, and migrate all that stuff from that server, and move it to the proxmox server.
 
 THe infra was supposed to provide general compute for all kinds of needs. (Personal CTF platform, competition infrastructure, )

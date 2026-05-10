@@ -1,73 +1,62 @@
-1. Tuesday Meeting with Arcky
-2. Recruit Officers
+1. Appoint Officers
+
+2. Create Cabinet Discord Server
+	1. Get Arcky's Discord Username
+   
 3. Remaining HW:
 	1. IST 6450 (SA&D)
 		1. 
-		2. 
-		3. 
-		4.  Re do Quizzes (Optional)
+		2.  Re do Quizzes (Optional)
 	2. IST 6470 (Database)
 		1. 
 	3. IST 6480 (Networking)
-		1. Team Network Project (**May 8th**)
-		2. Network Topic Presentation (**May 8th**)
-			1. Create a memo with two references:
-				1. https://securelist.com/phantomrpc-rpc-vulnerability/119428/
-				2. https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation
-		3.  WiFi Evaluation (**May 8th**)
 	4.  IST 6700 (Policy)
-		1. Post assessment quiz			1. 
-4. 
-5. 
-6.  
-7. 
-8. Replace AIO Pump 
-9. 
-10. 
-11.  Remove Subscriptions:
+	5. 
+	   
+4. Add the date to Polybar
+	1. Get rid of the US writing icon
+	2. I'm not sure what the quell on the top left is either
+	3. Or the box that says None on the top right
+	4. Maybe consider updating Polybar altogether
+	   
+5. Replace AIO Pump 
+
+6.  Remove Subscriptions:
 	1. GoDaddy subscription (If I haven't already)
 	2. Maybe Claude
 	3. Proton
-12.  Send Documents to Erinae
-13. 
-14.  Help Mom lower Internet Bill 
-15.  Consider applying for EBT/CalFresh and Medical
-16. 
-17.  Get Security Plus
-18.  Create Homelab
-19.  Read IT Books
-20.  
-21.  Learn how to make templates for Obsidian
-22.  RICE Endeavor and Pop(Waybar)
-23.  Figure out gaming on Linux
-24.  Learn how to backup dot files on Github
-25.  Dentist Appointment
-26.  Finish completing the Cyber Patriot ISO
-27.  Finish Udemy Class
-28.  Get RHEL Cert
-29.  Learn new meals to cook
-30.  Travel
-31.  Consider Creating Notion Workflow
-32.  Work on HTB modules
+	   
+7.  Send document to Erinea
+
+8. Draft email for moving infra to the datacenter  
+
+9.  Help Mom lower Internet Bill 
+10.  Consider applying for EBT/CalFresh and Medical
+11. 
+12.  
+13.  Create Homelab
+14.  Read IT Books
+15.  
+16.  Learn how to make templates for Obsidian
+17.  RICE Endeavor and Pop(Waybar)
+18.  Figure out gaming on Linux
+19.  Learn how to backup dot files on Github
+20.  Dentist Appointment
+21.  Finish completing the Cyber Patriot ISO
+22.  Finish Udemy Class
+23.  Get RHEL Cert
+24.  Learn new meals to cook
+25.  Travel
+26.  Consider Creating Notion Workflow
+27.  Work on HTB modules
 
 # Homework
 1. 
-2. 
-3. Study Security+ For May 1st
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. (Optional) Networking assignments - WIFI eval assignment, Network Topic Presentation #2, 50 questions (May 8th), 
-11. File for EBT
 
-
-## Weekly Tasks (Spring)
+## Weekly Tasks (Summer)
 1. Work on Homelab (Docker, RaspberryPi)
 2. Read "How Linux Works"
-3. REGULARLY STUDY SECURITY+
+3. 
 4. 
 
 
