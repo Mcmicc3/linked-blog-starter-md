@@ -4,10 +4,10 @@
 	1. IST 6450 (SA&D)
 		1. 
 		2. 
-		3. Milestone 4 (**May 5th**)
+		3. 
 		4.  Re do Quizzes (Optional)
 	2. IST 6470 (Database)
-		1. Last Discussion Post (**May 8th**)
+		1. 
 	3. IST 6480 (Networking)
 		1. Team Network Project (**May 8th**)
 		2. Network Topic Presentation (**May 8th**)
