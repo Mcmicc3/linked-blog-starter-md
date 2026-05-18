@@ -1,34 +1,25 @@
-1. Appoint Officers
-
-2. Create Cabinet Discord Server
-	1. Get Arcky's Discord Username
-   
-3. Remaining HW:
-	1. IST 6450 (SA&D)
-		1. 
-		2.  Re do Quizzes (Optional)
-	2. IST 6470 (Database)
-		1. 
-	3. IST 6480 (Networking)
-	4.  IST 6700 (Policy)
-	5. 
+1. Prepare for WITHcyber Camp 
 	   
-4. Add the date to Polybar
+2. Replace AIO Pump 
+   
+3. Find a local food bank to donate to
+   
+4. Find a clothe donating center
+   
+5. Sell CPU and Defcon shirt
+   
+6. Finish CSU Learn training
+	   
+7. Add the date to Polybar
 	1. Get rid of the US writing icon
 	2. I'm not sure what the quell on the top left is either
 	3. Or the box that says None on the top right
 	4. Maybe consider updating Polybar altogether
-	   
-5. Replace AIO Pump 
 
-6.  Remove Subscriptions:
+8.  Remove Subscriptions:
 	1. GoDaddy subscription (If I haven't already)
 	2. Maybe Claude
 	3. Proton
-	   
-7.  Send document to Erinea
-
-8. Draft email for moving infra to the datacenter  
 
 9.  Help Mom lower Internet Bill 
 10.  Consider applying for EBT/CalFresh and Medical

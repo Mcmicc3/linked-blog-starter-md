@@ -132,3 +132,113 @@ If they're doing localy, we can make it start on bootup, or create a bashscript 
 Maybe day 2 we teach them how ot make their own tool, gives brandon somethng to do. If we explain docker on day 1, we might be able to explain it day 2.
 
 
+
+# May 11th Meeting
+
+***Remind Arcky to send his Discord Username***
+
+Our sessions are up? Excel sheets should come through soon.
+
+Matthew needs to review my session 2. 
+
+Arcky threw a tool, the XDR. 
+
+Board game kit. Kelso will be doing with them. Not technical. 
+The teams that will be partnered as a team...
+We'll be giving direction and guidance. We're also going to leverage and utilize social media during the evening. The students will look at the post and learn more about the role. The role we're teaching is what we'll be looking at. 
+
+It will be direction based using dark readings and assumed events. By thursday, we'll have a part where they have to present the game to us. Help students get out of their shell. They'll earn points. The plan is to raffle off a laptop. The top teams and studnets get more raffle tickets. Arcky will purchase and donate something for the students. Erinea will check tomorrow to see 
+
+I will most likely collaborate with Noah on a kali machine, Matthew will also be working on it with us. 
+
+We'll have individual ones too. 
+
+He will provide us with a template. He wants us to fill out our own template.
+
+There will be a theme to the camp. 
+* 909 (San Bernardino area code)
+
+Each of us will have an artifact we're creating, so that we can pass it off for Ivonne's session 2. 
+
+***Everything needs to be finished by June 1st***
+* We will also present to arcky that week (with guests)
+
+That way we're good to go by the 7th
+
+
+# May 12th Meeting (Center)
+
+Instructions will be posted on Instagram for?? The board game
+* If the students find our socials, block them.
+
+I'm getting "Working with minors" training. 
+	* Must complete before camp starts
+
+**It will be in our trainings.**
+* Should be able to find it in CSU Learn, or my csusb
+* HR will assign this. 
+
+We'll be reporting on the week before camp and after camp
+* Anything to do with the curriculmn, slides, and prep
+
+#### Camp Schedule
+Sunday - Arrival Time - 12:00 PM
+	* Students come and check in
+	* June 7th   (12 - 1:30 we will be helping Erinea and arcky setup)
+Monday - Thursday Arrival Time - 08:00 AM
+	* They'll serve breakfast and lunch. They're scheduled lunches.
+	* We will have walky talkies, clip pieces, and ear pieces. 
+Monday - Thursday Debrief - 4:30 PM, once students leave
+	* We will debrief after each day. 
+
+There will be a schedule for everything. Split by groups of 15. There will be two instructors speaking at a time. We need to support other staff members when we're not teaching.
+
+#### Parking
+There will be a parking pass (Link) 
+
+##### **We will need to talk to our employers to delegate our hours**
+* ***Talk to brian and tell him that I will be gone for a week*** 
+
+#### Dresscode
+No shorts, 
+Students also have to wear their shirts everyday. 
+
+
+**DON'T LOSE YOUR BADGE**
+
+**BRING SUNSCREEN**
+* They're recommending against the spray one
+
+Sometimes we have to tell them to get off their phones, and that sometimes separating them is necessary.
+
+Bring the giant water bottle
+
+We grab our equipment from room JB 279
+
+Friends aren't allowed to be around the camp
+* Only trained staff
+
+Sarah will be doing videos for us.
+* Introducing ourselves, talk about our work roles, fun fact.
+	* We will be on the WITH cyber instagram (yay....)
+	* We will be doing it Thursday and Next Tuesday....
+		* 9:30 AM - 5:30 PM
+
+Sarah Ramirez  - Slack - Camp Video 
+* Thursday 2:00 PM (JB 279)
+
+#### Timesheets
+We do them all together on the last day after camp.
+* We're still trying to figure out how many hours we can work....
+
+#### Calsoap
+We have to make videos that will be going on Instagram
+* It will give instructions to the boardgame
+* Students will work on them from Monday - Wednesday
+* On Thursday students will present their boardgames
+
+We pickup students after breakfast at 8:45 AM
+
+
+### ***THE STUDENTS HAVE TO SIGN OFF WITH THEIR PARENTS BEFORE THEY LEAVE CAMP***
+
