@@ -1,45 +1,49 @@
 1. Prepare for WITHcyber Camp 
-	   
 2. Replace AIO Pump 
-   
-3. Find a local food bank to donate to
-   
-4. Find a clothe donating center
-   
-5. Sell CPU and Defcon shirt
-   
-6. Finish CSU Learn training
-	   
-7. Add the date to Polybar
-	1. Get rid of the US writing icon
-	2. I'm not sure what the quell on the top left is either
-	3. Or the box that says None on the top right
-	4. Maybe consider updating Polybar altogether
+3. DONATE
+	1. Find a place to donate clothes
+		1. Orange County Rescue Mission
+	2. Find a place to donate books
+		1. Half Off Books Records Films
+		2. Research books first and consider selling online
+	3. Find a place to recycle electronics
+		1. Anaheim Household Hazardous Waste Collection Center
+	4. Find a place to donate appliances
+		1. Orange County Rescue Mission
+4. Sell CPU and Defcon shirt
+5. Finish CSU Learn training
+6. Continue Ricing Laptop
+	1. Add the date to Polybar
+	2. Get rid of the US writing icon
+	3. I'm not sure what the quell on the top left is either
+	4. Or the box that says None on the top right
+	5. Maybe consider updating Polybar altogether
 
-8.  Remove Subscriptions:
+7.  Remove Subscriptions:
 	1. GoDaddy subscription (If I haven't already)
 	2. Maybe Claude
 	3. Proton
 
-9.  Help Mom lower Internet Bill 
-10.  Consider applying for EBT/CalFresh and Medical
-11. 
-12.  
-13.  Create Homelab
-14.  Read IT Books
-15.  
-16.  Learn how to make templates for Obsidian
-17.  RICE Endeavor and Pop(Waybar)
-18.  Figure out gaming on Linux
-19.  Learn how to backup dot files on Github
-20.  Dentist Appointment
-21.  Finish completing the Cyber Patriot ISO
-22.  Finish Udemy Class
-23.  Get RHEL Cert
-24.  Learn new meals to cook
-25.  Travel
-26.  Consider Creating Notion Workflow
-27.  Work on HTB modules
+8.  Help Mom lower Internet Bill 
+9.  Consider applying for EBT/CalFresh and Medical
+10. Study CySA+
+11.  Sell Pennies
+	1. 
+12.  Create Homelab
+13.  Read IT Books
+14.  Use Kohls $50 Gift Card
+15.  Learn how to make templates for Obsidian
+16.  RICE Endeavor and Pop(Waybar)
+17.  Figure out gaming on Linux
+18.  Learn how to backup dot files on Github
+19.  Dentist Appointment
+20.  Finish completing the Cyber Patriot ISO
+21.  Finish Udemy Class
+22.  Get RHEL Cert
+23.  Learn new meals to cook
+24.  Travel
+25.  Consider Creating Notion Workflow
+26.  Work on HTB modules
 
 # Homework
 1. 
