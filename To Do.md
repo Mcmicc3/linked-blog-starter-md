@@ -24,26 +24,27 @@
 	2. Maybe Claude
 	3. Proton
 
-8.  Help Mom lower Internet Bill 
-9.  Consider applying for EBT/CalFresh and Medical
-10. Study CySA+
-11.  Sell Pennies
+8. Join Planet Fitness
+9. Help Mom lower Internet Bill 
+10.  Consider applying for EBT/CalFresh and Medical
+11. Study CySA+
+12.  Sell Pennies
 	1. 
-12.  Create Homelab
-13.  Read IT Books
-14.  Use Kohls $50 Gift Card
-15.  Learn how to make templates for Obsidian
-16.  RICE Endeavor and Pop(Waybar)
-17.  Figure out gaming on Linux
-18.  Learn how to backup dot files on Github
-19.  Dentist Appointment
-20.  Finish completing the Cyber Patriot ISO
-21.  Finish Udemy Class
-22.  Get RHEL Cert
-23.  Learn new meals to cook
-24.  Travel
-25.  Consider Creating Notion Workflow
-26.  Work on HTB modules
+13.  Create Homelab
+14.  Read IT Books
+15.  Use Kohls $50 Gift Card
+16.  Learn how to make templates for Obsidian
+17.  RICE Endeavor and Pop(Waybar)
+18.  Figure out gaming on Linux
+19.  Learn how to backup dot files on Github
+20.  Dentist Appointment
+21.  Finish completing the Cyber Patriot ISO
+22.  Finish Udemy Class
+23.  Get RHEL Cert
+24.  Learn new meals to cook
+25.  Travel
+26.  Consider Creating Notion Workflow
+27.  Work on HTB modules
 
 # Homework
 1. 

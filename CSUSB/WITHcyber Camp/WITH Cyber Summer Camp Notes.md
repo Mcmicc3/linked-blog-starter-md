@@ -242,3 +242,177 @@ We pickup students after breakfast at 8:45 AM
 
 ### ***THE STUDENTS HAVE TO SIGN OFF WITH THEIR PARENTS BEFORE THEY LEAVE CAMP***
 
+
+
+
+# June 1st Check In
+
+Physical Activity - Erinea
+
+We're going to have to apply our work role to help build a boardgame. 
+need to
+Thursday they're going to present their boardgame. Same day as competition?
+
+While helping out on Sunday, Erinea will pull us aside to do a video and talk about our workroles.
+
+Suggesting building a cuystom plugin for Caldera. Use Vibe code to build the actual cybersecurity plugin for Caldera. 
+
+Use Wazuh to catch the adversary prompts?
+
+----
+
+Ranking - Severity
+
+GUI Based
+* Containerized AI tool
+
+2nd datasets. 
+
+3 things regarding XDR
+
+3 functions would be 3 levels with "you do's"
+* Telemetry ingestion (normalize logs)
+* Threshold detector (give an ingestion dataset to see if it works)
+* Correlation?
+* Attack sequence detector?
+	* Needs to chain link attacks
+
+"We're making the guardrails in support of making that tool, they're the ones who are actually going to make it."
+
+I'm covering the why are we building this.
+
+We're using nginx so their tool is accessible over a web browser.
+It will have functionality to import a data sets, and we are handling the backend part
+
+We have to give directions on where to put their folders.
+
+I give the goals and objectives.
+
+
+We have to pick a language....
+
+We need a dataset for each functionality
+
+Say the function is prioritization, we have to make a dataset for it.
+
+
+---
+For our slides, whatever functioanlity we select, there should be a slide regarding that.  
+
+The We Do can be us setting up the environment.
+
+
+---
+
+Wazuh supports API keys..
+
+It renderes a template API that Matthew can play with. He can find 3 additional functionalities... 
+
+It has a full rest API setup. 
+
+
+
+#### Understanding the theme of Session 1
+![[Pasted image 20260602160158.png]]
+
+
+
+
+When you start the Session 2 chat, here's a line to carry the constraint forward: _"Each dataset must live in its own folder with its own replay script using truncate-in-place + tee (no cp, no agent restart), and its detection rules must use triggers distinct from the other datasets so they never cross-fire."_ That one sentence encodes everything this session taught us.
+
+Want to run the dry run now and send me the two sets of verification counts?
+
+### Tips for before I finalize my image
+
+![[Pasted image 20260602230147.png]]
+
+![[Pasted image 20260603014313.png]]
+
+
+----
+# Session 2
+***Possible with APIs***
+![[Pasted image 20260602231127.png]]
+
+
+# We Do
+Ask - Troubleshooting FIM in Wazuh CTF challenge
+![[Pasted image 20260602160450.png]]
+
+
+# Session 1 CTFs
+ask - Cybersecurity Lesson plan with wazuh XDR enironment
+
+![[Pasted image 20260603164942.png]]
+
+### Topics to introduce in Session 1
+**CTF 1**
+* Internal vs external IP addresses
+* SSH 
+* Brute Force Attacks
+* File Integrity Monitoring Events
+	* Wazuh triggers alerts when important files change
+	  
+	***Teaches:*** Pattern recognition, Source IP analysis
+
+**CTF 2**
+* User agents (Important for Graywolf)
+* C2 Malware (Used to check in with it's controller)
+* Difference between XDR alerts and threat hunting
+* HTTP status codes (200, 404, 403)
+
+	***Teaches:*** Look for abnormalities, behavior analysis, understanding that attackers try to blend in with normal traffic. 
+
+**CTF 3**
+* Persistence 
+	* /etc/cron jobs, Attack Lifecycle, startup script (.sh), modified service
+* Linux file directories, (process.log, /tmp/Operation-Purity, parent=sshdfor )
+* What makes a process suspicious?
+  
+  ***Teaches:*** hypothesis -> search -> Pivot -> correlate
+	* No single log source tells the whole story. A student who only looks at process logs finds the worm but not the *persistence*. A student who only looks at FIM finds the script but not the *execution*. The lesson is that sophisticated attackers leave breadcrumbs across multiple data sources, and a complete investigation requires connecting them.
+	* How to correlate multiple events by timestamp
+	* How to read process execution logs: *ppid, uid, exe, cmdline*
+
+  **Mental Process - C3**
+  ![[Pasted image 20260603164452.png]]
+  
+  # Session 2 CTFs
+ask - Operation MIrelurk: Session 2 CTF dataset and replay script
+
+### Topics to introduce in Session 1
+**CTF 1**
+
+***Teaches***
+
+**CTF 2**
+
+***Teaches***
+
+**CTF 3**
+
+***Teaches***
+## Remaining Tasks: 
+1. We Do Dataset - done
+2. API Session 2 guardrails thing - done (ish)
+	1. Find more
+3. Understand the steps to solve CTF (working)
+4. Update the flags to fit this format VAULT{WC2026__} (working)
+	1. ses 1 - ctf 1, 
+5. Slides (working )
+6. PIck a time to practice slides with Arcky on Saturda (done)
+
+
+
+
+
+---
+I think I'm going to make CTF 2 the Hard challenge, and make CTF 3 the medium challenge.
+
+I'm thinking of framing it in a way that there was an obvious break in and we need to figure out what they did (current ctf 1 & 3), but, it also looks like an insider is taking advantage of the situation and we suspect that there's an anomaly in the network (current ctf 2). I'll change the flag from just the beacon, to also including paladin danse in the CTF name. I understand this will merge the hidden ctf with ctf 2. Just an update for you to know, we don't have to change any answer keys right now. Do you agree?
+
+As for the slides, I agree with combining slides 5-7, but I would prefer if we also compressed slides 15-17 into one slide as well, just so students know what it is before I go into demonstrating them in the we do portion.
+
+I agree with adding baseline slide to spot abnormal.
+
+Now that we've agreed on these changes, can you please create the captions for each slide so I may drop them off myself? Here is a rough draft of what my template style looks like. I'm going to be making a lot of changes to it
