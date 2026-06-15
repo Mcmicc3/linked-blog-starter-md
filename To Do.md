@@ -55,6 +55,27 @@
 3. 
 4. 
 
+# Books I'm interested in
+
+1. IoT
+	1. Internet of Things Programming Projects (Packt>)
+	2. Internet of Things Architectures, Protocols and Standards (Wiley)
+2. Windows
+	1. Windows System Internals
+3. Linux
+	1. How Linux Works
+4. Fun
+	1. Cooking for Geeks
+5. Programming
+	1. Black Hat Python
+6. Defensive Cyber
+	1. Network Security Assessment
+7. Hacking
+	1. Black Hat Bash
+
+## Finished Books
+1. Linux for Hackers
+2. Cert Books (A+, Network+, Security+)
 
 ## Personal Projects/Research
 1. AI Stuff
@@ -69,13 +90,6 @@
 10. Learn Cloudflare
 11. LoRWAN
 
-# Books I'm interested in
-1. Windows System Internals
-2. How Linux Works
-3. Cooking for Geeks
-4. Network Security Assessment
-5. Black Hat Python
-6. 
 
 
 
