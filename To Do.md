@@ -1,6 +1,6 @@
-1. Prepare for WITHcyber Camp 
-2. Replace AIO Pump 
-3. DONATE
+1.  Finalize Masters Project (Meet with Dr. Nestler)
+2.  Read more books
+3.  DONATE
 	1. Find a place to donate clothes
 		1. Orange County Rescue Mission
 	2. Find a place to donate books
@@ -11,7 +11,7 @@
 	4. Find a place to donate appliances
 		1. Orange County Rescue Mission
 4. Sell CPU and Defcon shirt
-5. Finish CSU Learn training
+5. Figure out how to fix the NZXT Display for Linux (CAM Dashboard)
 6. Continue Ricing Laptop
 	1. Add the date to Polybar
 	2. Get rid of the US writing icon
@@ -24,14 +24,14 @@
 	2. Maybe Claude
 	3. Proton
 
-8. Join Planet Fitness
-9. Help Mom lower Internet Bill 
+8. 
+9. w
 10.  Consider applying for EBT/CalFresh and Medical
 11. Study CySA+
 12.  Sell Pennies
 	1. 
 13.  Create Homelab
-14.  Read IT Books
+14. 
 15.  Use Kohls $50 Gift Card
 16.  Learn how to make templates for Obsidian
 17.  RICE Endeavor and Pop(Waybar)
