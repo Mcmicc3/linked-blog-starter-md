@@ -17,3 +17,6 @@
 ### [Mike Tyson Mysteries](https://m.wcostream.tv/anime/mike-tyson-mysteries)
 
 ### [Youtube Downloader](https://cnvmp3.com/v7)
+
+### [MYFRIDGE](https://www.myfridgefood.com/)
+* You put ingredients you have in the fridge, and the website will give you ideas of what you can cook with what you have

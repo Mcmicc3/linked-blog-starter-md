@@ -1,6 +1,7 @@
 1.  Finalize Masters Project (Meet with Dr. Nestler)
-2.  Read more books
-3.  DONATE
+2. Give RAV 4 Service
+3.  Lake Tahoe
+4.  DONATE
 	1. Find a place to donate clothes
 		1. Orange County Rescue Mission
 	2. Find a place to donate books
@@ -10,22 +11,24 @@
 		1. Anaheim Household Hazardous Waste Collection Center
 	4. Find a place to donate appliances
 		1. Orange County Rescue Mission
-4. Sell CPU and Defcon shirt
-5. Figure out how to fix the NZXT Display for Linux (CAM Dashboard)
-6. Continue Ricing Laptop
+		   
+5. Sell CPU and Defcon shirt
+   
+6. Figure out how to fix the NZXT Display for Linux (CAM Dashboard)
+   
+7. Continue Ricing Laptop
 	1. Add the date to Polybar
 	2. Get rid of the US writing icon
 	3. I'm not sure what the quell on the top left is either
 	4. Or the box that says None on the top right
 	5. Maybe consider updating Polybar altogether
 
-7.  Remove Subscriptions:
+8.  Remove Subscriptions:
 	1. GoDaddy subscription (If I haven't already)
 	2. Maybe Claude
 	3. Proton
 
-8. 
-9. w
+9.    Read more books
 10.  Consider applying for EBT/CalFresh and Medical
 11. Study CySA+
 12.  Sell Pennies
@@ -58,20 +61,20 @@
 # Books I'm interested in
 
 1. IoT
-	1. Internet of Things Programming Projects (Packt>)
+	1. [Internet of Things Programming Projects (Packt>)](https://learning.oreilly.com/library/view/internet-of-things/9781789134803/)
 	2. Internet of Things Architectures, Protocols and Standards (Wiley)
 2. Windows
-	1. Windows System Internals
+	1. [Windows System Internals](https://learning.oreilly.com/library/view/windows-security-internals/9781098168834/)
 3. Linux
-	1. How Linux Works
+	1. [How Linux Works](https://learning.oreilly.com/library/view/how-linux-works/9781098128913/)
 4. Fun
-	1. Cooking for Geeks
-5. Programming
-	1. Black Hat Python
+	1. [Cooking for Geeks](https://learning.oreilly.com/library/view/cooking-for-geeks/9781491928110/)
+5. Hacking
+	1. [Black Hat Python](https://learning.oreilly.com/library/view/black-hat-python/9781098128906/)
 6. Defensive Cyber
-	1. Network Security Assessment
-7. Hacking
-	1. Black Hat Bash
+	1. [Network Security Assessment](https://learning.oreilly.com/library/view/network-security-assessment/9781491911044/)
+7. Programming
+	1. 
 
 ## Finished Books
 1. Linux for Hackers

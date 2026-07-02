@@ -1,5 +1,3 @@
-###### Pi 4 Specs
-![[Pi_4_Specs.jpg]]
 
 ## RP2040-Zero
 
