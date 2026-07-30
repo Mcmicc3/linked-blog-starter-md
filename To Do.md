@@ -28,26 +28,55 @@
 	2. Maybe Claude
 	3. Proton
 
-9.    Read more books
-10.  Consider applying for EBT/CalFresh and Medical
-11. Study CySA+
-12.  Sell Pennies
+9.    Clean the car
+10.  Book a dentist/ankle appointment
+11.   Read more books
+12.  Consider applying for EBT/CalFresh and Medical
+13. Study CySA+
+14.  Sell Pennies
 	1. 
-13.  Create Homelab
-14. 
-15.  Use Kohls $50 Gift Card
-16.  Learn how to make templates for Obsidian
-17.  RICE Endeavor and Pop(Waybar)
-18.  Figure out gaming on Linux
-19.  Learn how to backup dot files on Github
-20.  Dentist Appointment
-21.  Finish completing the Cyber Patriot ISO
-22.  Finish Udemy Class
-23.  Get RHEL Cert
-24.  Learn new meals to cook
-25.  Travel
-26.  Consider Creating Notion Workflow
-27.  Work on HTB modules
+15.  Create Homelab
+16. 
+17.  Use Kohls $50 Gift Card
+18.  Learn how to make templates for Obsidian
+19.  RICE Endeavor and Pop(Waybar)
+20.  Figure out gaming on Linux
+21.  Learn how to backup dot files on Github
+22.  Dentist Appointment
+23.  Finish completing the Cyber Patriot ISO
+24.  Finish Udemy Class
+25.  Get RHEL Cert
+26.  Learn new meals to cook
+27.  Travel
+28.  Consider Creating Notion Workflow
+29.  Work on HTB modules
+
+## Wants
+1. New electric guitar/piano
+2. NAS (HDD)
+3. External Blue Ray Drive
+4. Better Headphones
+5. Something that connects laptops to satellites
+6. Meshtastic
+
+## Needs
+1. Money to buy a used car
+2. A good job to move out
+3. 
+
+## Personal Projects/Research
+1. AI Stuff
+2. Bandit Over the Wire
+3. NCL
+4. Command Line Book, Black Hat Python
+5. Docker
+6. Security+ 
+7. TMUX
+8. Raspberry Pi
+9. Learn Docker Networking
+10. Learn Cloudflare
+11. LoRWAN
+
 
 # Homework
 1. 
@@ -80,18 +109,6 @@
 1. Linux for Hackers
 2. Cert Books (A+, Network+, Security+)
 
-## Personal Projects/Research
-1. AI Stuff
-2. Bandit Over the Wire
-3. NCL
-4. Command Line Book, Black Hat Python
-5. Docker
-6. Security+ 
-7. TMUX
-8. Raspberry Pi
-9. Learn Docker Networking
-10. Learn Cloudflare
-11. LoRWAN
 
 
 

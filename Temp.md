@@ -1,12 +1,3 @@
-Chapter 2, John Martson - Pouring 4th Oil 
-
-Nits 300 min
-14 - 16 inches, 1080p. or 1920×1200, 16:10
-60 HZ or more
-Panel type: IPS??
-near 100% sRGB
-1.3-2.5 lb
-Check if it powers through USB-C
 # For Manufactures Warranty
 When the router web certificates were compromised, I didn't know how to restore them. I don't even know If I fully understand what they are.
 
