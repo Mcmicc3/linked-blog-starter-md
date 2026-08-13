@@ -58,6 +58,7 @@
 4. Better Headphones
 5. Something that connects laptops to satellites
 6. Meshtastic
+7. Sell Fire HD 10, and replace with Galaxy Tab S5e Wi-Fi, SM-T720
 
 ## Needs
 1. Money to buy a used car
