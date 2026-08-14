@@ -1,7 +1,15 @@
-1.  Finalize Masters Project (Meet with Dr. Nestler)
-2. Give RAV 4 Service
-3.  Lake Tahoe
-4.  DONATE
+1. STUDY CERTS
+	1. RHCSA (Limited Time to Complete (December))
+	2. AWS Solutions Architect
+	3. CySA+
+	4. AWS CloudOps Engineer
+	   
+2. Update LinkedIn
+3. Update Resume
+4. Apply for jobs
+
+5.  Book a dentist/ankle appointment
+6.  DONATE (Clean Garage)
 	1. Find a place to donate clothes
 		1. Orange County Rescue Mission
 	2. Find a place to donate books
@@ -12,44 +20,47 @@
 	4. Find a place to donate appliances
 		1. Orange County Rescue Mission
 		   
-5. Sell CPU and Defcon shirt
+7. Sell stuff online
+	1. CPU
+	2. Defcon Shirt
+	3. Skateboard Rail
+	4. Fire HD 10
    
-6. Figure out how to fix the NZXT Display for Linux (CAM Dashboard)
-   
-7. Continue Ricing Laptop
+8. Continue Ricing Laptop
 	1. Add the date to Polybar
 	2. Get rid of the US writing icon
 	3. I'm not sure what the quell on the top left is either
 	4. Or the box that says None on the top right
 	5. Maybe consider updating Polybar altogether
 
-8.  Remove Subscriptions:
-	1. GoDaddy subscription (If I haven't already)
-	2. Maybe Claude
-	3. Proton
+9.  Remove Subscriptions:
+	1. Maybe Claude
+	2. Proton
+	3. Google 1 (mcmicc3)
 
-9.    Clean the car
-10.  Book a dentist/ankle appointment
-11.   Read more books
-12.  Consider applying for EBT/CalFresh and Medical
-13. Study CySA+
-14.  Sell Pennies
-	1. 
-15.  Create Homelab
-16. 
-17.  Use Kohls $50 Gift Card
-18.  Learn how to make templates for Obsidian
-19.  RICE Endeavor and Pop(Waybar)
-20.  Figure out gaming on Linux
-21.  Learn how to backup dot files on Github
-22.  Dentist Appointment
-23.  Finish completing the Cyber Patriot ISO
-24.  Finish Udemy Class
-25.  Get RHEL Cert
-26.  Learn new meals to cook
-27.  Travel
-28.  Consider Creating Notion Workflow
-29.  Work on HTB modules
+10. Give RAV 4 Service?
+11. 
+12.   Read more books
+13.  Consider applying for EBT/CalFresh and Medical
+14. 
+15.  Sell Pennies
+16.  Create Homelab
+17. 
+18.  Use Kohls $50 Gift Card
+19.  Learn how to make templates for Obsidian
+20.  RICE Endeavor and Pop(Waybar)
+21. 
+22.  Learn how to backup dot files on Github
+23. 
+24.  Finish completing the Cyber Patriot ISO
+25.  Finish Udemy Class
+26. 
+27.  Learn new meals to cook
+28.  Travel
+29.  Consider Creating Notion Workflow
+30.  Work on HTB modules
+
+
 
 ## Wants
 1. New electric guitar/piano
@@ -63,7 +74,8 @@
 ## Needs
 1. Money to buy a used car
 2. A good job to move out
-3. 
+3. Dentist Appointment
+4. General Health Checkup?
 
 ## Personal Projects/Research
 1. AI Stuff
@@ -71,7 +83,7 @@
 3. NCL
 4. Command Line Book, Black Hat Python
 5. Docker
-6. Security+ 
+6. 
 7. TMUX
 8. Raspberry Pi
 9. Learn Docker Networking
@@ -110,7 +122,14 @@
 1. Linux for Hackers
 2. Cert Books (A+, Network+, Security+)
 
-
+## Homelab Software
+1. Vaultwarden
+2. WireGuard
+3. JellyFin
+4. {Stream Books & Movies}
+5. MulvadVPN
+6. {Fileserver}
+7.  More...
 
 
 
