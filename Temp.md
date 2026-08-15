@@ -5,6 +5,11 @@ I have a professor that has incredible memory, and is able to talk fast and flui
 
 ---
 
+
+
+
+## linkedIn Rough Draft
+
 Great news everyone, I remembered my LinkedIn Password!
 
 It's been a few years since I've updated my account, and there's way too much to show in just a single post, so I thought I'd make individual posts showing what I've been up to over the last few years, starting with 2024.

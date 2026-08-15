@@ -10,12 +10,16 @@
 			docker image prune -f
 5. Book/Audiobook server
 6. Casa OS
-7. Pi-Hole
+7. [Pi-Hole](https://pi-hole.net/)
 8. Reverse-Proxy?
 9. Jellyfin?  (Book server)
 10. Plex. radarr, sonarr, seerr, nextcloud, kuma?
 11. Grafana? Home Assistant? Kasm?
-
+12. 
+13. syncthing 
+	1. Continuous File Synchronization Program between two or more computers in real time. 
+14. Remmina
+	1. Remote Desktop Client software
 
 ###### Pi 4 Specs
 ![[Pi_4_Specs.jpg]]
