@@ -30,6 +30,7 @@ INSuRE
 First Open House -
 https://www.csusb.edu/inside/article/595573/csusb-highlights-ai-fools-week-launches-new-center-cyber-and-ai-commercial
 * Include web article
+* https://www.csusb.edu/inside/article/584671/csusbs-center-cyber-ai-hosts-annual-open-house
 
 
 Club treasurer???
