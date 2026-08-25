@@ -111,6 +111,15 @@ NCL?
 
 
 ----
+**2024: Getting involved**  
+INSuRE → Open House → becoming Treasurer
 
+**2025: Things accelerate**  
+NCAE → NAVSEA capstone → graduation → SOC → mentorship → community involvement
+
+**2026: Applying it and giving back**  
+CCDC → NCAE → OpenAI → cyber camp, etc.
+
+That tells a surprisingly coherent story: **researcher/student → active contributor/competitor → leader, mentor, and instructor.**
 
 

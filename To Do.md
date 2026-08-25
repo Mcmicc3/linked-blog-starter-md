@@ -14,7 +14,7 @@
 
 3. Update LinkedIn  |  Update Resume  |  Apply for jobs
 
-4. Call [Jury](https://www.occourts.org/divisions/jurorsjury-service/serving-juror-reporting-jurors/call-jurors) office *Monday*
+4. 
 5. Copy Files from WITH SOC environment
 6. Consider asking mom to pitch in on earthquake it
 7. Buy new clothes (Business Casual Attire)
@@ -32,7 +32,7 @@
 		1. Cloudfest
 	5. **FIND MORE CYBER COMMUNITIES**
 
-13. Fix VaultWarden 
+13. 
 14. Fix Feedly
 
 15. Create AI Report prompt. 
@@ -57,7 +57,7 @@
 	5. Skate Tool
 
 18. Debloat Phone | Replace it
-19. Transfer Fire HD 10 Data
+19. 
 20. Get Dual Citizenship 
    
 21. Continue Ricing Laptop
