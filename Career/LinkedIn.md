@@ -1,5 +1,124 @@
 
+## 2026
+
+## Free Write
+
+Pete Aguilar visit happened early spring during my spring 2026 semester. I had the honor of joining my team as we represented the SOC for Pete Aguilars visit to our University. He awarded the school a grant for research in AI & Virtual reality. It was just fun to be there and meet a congressmen.
+
+The most exciting competition I was involved in was the CCDC competition. It is the most prestigious competition my club participates in, and I was honored to have served in the team. It was by far the most challenging experience I've had in a cyber competition, and taught me so much. I noticed that a lot of IT leaders who I've worked for, and my friends have worked for, all had experience in that competition. Because of that, I see it as a right of passage. It taught me more about Linux Administration/monitoring/and security. How network services communicate with each other over the network, within a containerized/kubernetes domain that is managed by active directory. More operational challenges, and trying to stay headstrong and focused while tasks keep pilling up. Pivoting between securing, monitoring, and operating. As well as a more realistic view of what it's like to be attacked by red team. (In NCAE, the environments start out compromise. For CCDC, the hackers attack us from outside the network. I believe it's a greybox environment for them, as in they know the floor plans. I'm assuming this since blue team has access to the team packets, but I could be wrong.) Out of 30 something universities, our team placed eighth, which allowed us to compete in the qualifiers. Less impressively, out of 8 teams we placed last in the regional competition, but I learned a tremendous amount from my failures (If anything, all I want to mention here is that our team won qualifiers and had the opportunity to compete in qualifiers).
+
+After CCDC, we competed again at NCAE, won the regional competition again, and competed in Florida for a second time. **It's important to know that I might be critized for mentioning this by my peers, and by some of the cybersecurity community. I say this, because NCAE recommends only folks haven't competed in CCDC, since NCAE is viewed as a preporation compitition for CCDC. I wasn't the only one on my team who did this, nor do I think  other schools haven't done this, but those people aren't thinking about publicly announcing it like the way I am. Maybe if I leave out any hashtags regarding NCAE I'll be okay?**
+
+After these two competitions, I successfully completed my first year of my masters program, and applied for a job role with OpenAI. I forget the name of the exact role, I will look it up, but essentially I was invited to work as an assistant for an openAI conference that was for small business owners trying to integrate AI into their business. I got to meet people from the LA community and hear their interesting ideas on how they'd want to automate certain tasks within their business, and through my training, I was able to help them find creative ways of automating tedious tasks through OpenAI. It was a one time thing, and it was very fun and interesting. 
+
+After this (Literally the same week), I had the honors of being a mentor for the WITH Cyber Camp team. High School Students from around SoCal came to camp, and together we learned various topics of Cybersecurity over the span of four days. At the end, they competed in a CTF environment that we created. For this job, I had to learn how to create a lesson plan, create relevant Slides for two days worth of learning, and then I had to create a virtual environment for them to work through. They learned how to use elastic to parse through alerts in order to respond to incidents, and threat hunt. I had CTFs planted in my environment ranging from easy to hard. What made my environment fun, is that it was Fallout themed, including the workstations, the network environment, and the incident. This was my first time teaching high school students, and I learned a tremendous amount from this experience.
+
+Somewhere in here I need to talk about how my WITH cyber scholarship ended, and how thankful I am to the Cyber and AI center for the WITH Cyber Scholarship, as well as the CSUSB SOC center for allowing me to serve for the second cohort. How honored I am to assist with incident response, network monitoring, and threat hunting. 
+
+Then a last concluding paragraph saying that I'm eager and excited for my last year of my masters, what the journey will bring next, and how I'm open to employment opportunities and new horizons. I don't know if I want to mention that I'm considering specializing in cloud computing, or that I'm studying for Red Hat (RHCSA?). 
+
+---
+
 # 2025
+
+## Third Draft
+
+Continuing my three-post catch-up series, let’s fast-forward to **2025**. ⏩
+
+In 2024, I immersed myself in cybersecurity; in 2025, those experiences began turning into real opportunities.
+
+Early in the year, I joined my first cybersecurity team through the **NCAE Cyber Games**. 🛡️ Unlike the CTFs I was familiar with, we had to set up services, keep them running, complete objectives, and defend our systems while actively being attacked.
+
+It was only the second time CSUSB had competed in our regional event, making our **first-place finish** an unforgettable moment. 🏆
+
+The experience taught me how to troubleshoot under pressure, work as a team, and defend a network while keeping services operational. Our win also earned us an invitation to compete in Florida, which helped solidify the direction I wanted to take my cybersecurity career.
+
+At the same time, I was completing one of the largest technical projects of my undergraduate degree: the **NAVSEA Enterprise Project**. 🖥️
+
+Our team was given a network design and security requirements for a simulated ICS/SCADA environment and tasked with turning it into a working enterprise network. The project involved Windows and Linux systems, Active Directory, firewalls, monitoring, remote access, and other security controls.
+
+After months of competitions, projects, and late nights, I reached a milestone that meant even more to me personally: **I became the first person in my family to earn a bachelor’s degree while also receiving Departmental Honors in Cyber Security.** 🎓
+
+I was incredibly proud to share that achievement with my family and grateful to everyone who supported me along the way. Graduation also made me excited to continue my education by pursuing a master’s degree.
+
+Not long afterward, changes surrounding the Scholarship for Service program affected my original plans, but CSUSB offered me an alternative through the **WITH Cyber Scholarship**. That opportunity allowed me to join the second cohort of the university’s **Security Operations Center**.
+
+It became my first professional cybersecurity experience and introduced me to **threat hunting and incident response**. After years of classes, labs, and competitions, applying those skills in a SOC environment was an important step forward.
+
+I also stayed involved in the community that had given me so much. Through CISO’s Cyber Mentorship Program, I helped mentor a group of students as they formed their own NCAE team and prepared to compete alongside ours. 🤝
+
+Looking back, **2025 was the year cybersecurity stopped feeling like something I was simply studying and started feeling like the career I wanted to build.**
+
+**Stay tuned for 2026!** 🚀
+
+## Second Draft
+
+Continuing my three-post catch-up series, let’s fast-forward a year to **2025**. ⏩
+
+2024 was the year I really became involved in cybersecurity. 2025 was the year many of those experiences started turning into something more tangible.
+1
+Early in the year, I had the opportunity to compete on my first cybersecurity team through the **NCAE Cyber Games**. 🛡️ This was much more than the Capture the Flag competitions I was familiar with. We were responsible for setting up and maintaining services, completing objectives, and defending our systems while they were actively being attacked.
+
+It was only the second time CSUSB had participated in our regional competition, making our **first-place finish** an unexpected and unforgettable moment. 🏆
+
+That experience had a tremendous impact on me. It taught me how to maintain services under pressure, troubleshoot as a team, and defend a network while keeping it operational. Our win also earned us an invitation to compete in Florida. We didn’t take home first place there, but the experience helped solidify the direction I wanted to take my cybersecurity career.
+
+At the same time, I was completing one of the largest technical projects of my undergraduate degree: the **NAVSEA Enterprise Project**. 🖥️
+
+Our team was given a network design and a set of operational and security requirements based around a simulated ICS/SCADA environment, and we had to turn it into a functioning enterprise network. The project involved Windows and Linux systems, Active Directory, networking, firewalls, monitoring, remote access, and numerous security requirements.
+
+After months of competitions, projects, and late nights, I reached a milestone that meant even more to me personally: **I became the first person in my family to earn a bachelor’s degree while also receiving Departmental Honors in Cyber Security.** 🎓
+
+I was incredibly proud to share that achievement with my family, and deeply grateful to everyone who had guided, encouraged, and supported me along the way. More than anything, graduation left me excited for what came next, and I knew I wanted to continue that journey by pursuing a master’s degree.
+
+Not long afterward, another opportunity arrived in an unexpected way. Changes surrounding the Scholarship for Service program affected my original plans, but CSUSB offered me an alternative through the **WITH Cyber Scholarship**. That opportunity allowed me to join the second cohort of the university’s **Security Operations Center**.
+
+It became my first professional cybersecurity experience and introduced me to areas such as **threat hunting and incident response**. After years of classes, competitions, and labs, applying those skills in a SOC environment was an important step forward for me.
+
+I also tried to stay involved in the community that had given me so much. Through CISO’s Cyber Mentorship Program, I helped mentor a group of students as they formed their own NCAE team and prepared to compete alongside ours. I also had opportunities to attend events like **DEF CON** and support organizations such as **WiCyS**, continuing to meet and learn from people throughout the cybersecurity community. 🤝
+
+Looking back, **2025 was the year cybersecurity stopped feeling like something I was simply studying and started feeling like the career I wanted to build.**
+
+Between competition, graduation, my first SOC experience, and the opportunity to mentor other students, I finished the year much more certain about where I wanted to go next.
+
+**Stay tuned for 2026!** 🚀
+
+## First Draft
+
+Continuing my three-post catch-up series, let’s fast-forward a year to **2025**.
+
+2024 was the year I really became involved in cybersecurity. 2025 was the year many of those experiences started turning into something more tangible.
+
+Early in the year, I had the opportunity to compete on my first cybersecurity team through the **NCAE Cyber Games**. This was much more than the Capture the Flag competitions I was familiar with. We were responsible for setting up and maintaining services, completing objectives, and defending our systems while they were actively being attacked.
+
+It was only the second time CSUSB had participated in our regional competition, making our **first-place finish** an unexpected and unforgettable moment.
+
+That experience had a tremendous impact on me. It taught me how much goes into maintaining services under pressure, troubleshooting problems as a team, and defending a network while still keeping everything operational. Our win also earned us an invitation to compete in Florida. We didn’t take home first place there, but the experience helped solidify the direction I wanted to take my cybersecurity career.
+
+At the same time, I was completing one of the largest technical projects of my undergraduate degree: the **NAVSEA Enterprise Project**.
+
+Our team was given a network design and a set of operational and security requirements based around a simulated ICS/SCADA environment, and we had to turn it into a functioning enterprise network. The project involved Windows and Linux systems, Active Directory, networking, firewalls, monitoring, remote access, and a long list of administrative and security requirements.
+
+After months of competitions, projects, and late nights, I reached a milestone that meant even more to me personally: **I became the first person in my family to earn a bachelor’s degree.** 
+
+I was incredibly proud to share that achievement with my family, and deeply grateful to everyone who had guided, encouraged, and supported me along the way. More than anything, graduation left me excited for what came next, and I knew I wanted to continue that journey by pursuing a master’s degree.
+
+Not long afterward, another opportunity arrived in an unexpected way. Changes surrounding the Scholarship for Service program affected my original plans, but CSUSB offered me an alternative through the **WITH Cyber Scholarship**. That opportunity allowed me to join the second cohort of the university’s **Security Operations Center**.
+
+It became my first professional cybersecurity experience and introduced me to areas such as **threat hunting and incident response**. After years of studying cybersecurity, competitions, and labs, getting to apply those skills in a SOC environment was an important step forward for me.
+
+I also tried to stay involved in the community that had given me so much. Through CISO’s Cyber Mentorship Program, I helped mentor a group of students as they formed their own NCAE team and prepared to compete alongside ours. I also had opportunities to attend events like **DEF CON** and support organizations such as **WiCyS**, continuing to meet and learn from people throughout the cybersecurity community.
+
+Looking back, **2025 was the year cybersecurity stopped feeling like something I was simply studying and started feeling like the career I wanted to build.**
+
+Between competition, graduation, my first SOC experience, and the opportunity to mentor other students, I finished the year much more certain about where I wanted to go next.
+
+Stay tuned for 2026!
+
+
+
+---
+## Free Writing
 
 Continuing my three post series. Fast forward a year, here is a review of what I was up to in the year of 2025.
 

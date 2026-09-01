@@ -59,8 +59,7 @@ https://www.csusb.edu/its/security/security-operations-center
 Should I share my DefCON picture??
 
 CMP Photo
-- *Mikes LinkedIn Post (Random)* - https://www.linkedin.com/posts/mikegonzo_cybersecurity-mentorship-csusb-activity-7371345306988249088-mF8g?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-- Proof that I was a cyber mentor
+- https://www.linkedin.com/posts/faisalalsulaimi_cybersecurity-mentorship-csusb-activity-7371331581778657280-oTkL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI11
 
 WiCyS Post - 
 https://www.linkedin.com/posts/kasandra-adams_csusb-wicys-womenincybersecurity-activity-7390137709761187840-_evE?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
@@ -96,15 +95,12 @@ https://www.csusb.edu/inside/article/596735/csusb-cyber-camp-introduces-high-sch
 * Instagram Reels to go with it
 	* https://www.instagram.com/reel/DZGGZiohXZz/
 
-
+(Presentation i'm in for the SOC - February)
+* https://www.linkedin.com/posts/tomorrowstalent_pathfinderday-cybersecurity-stemeducation-ugcPost-7436787868519518208-T8FP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
 ### Do I mention it??
-
-WITH Cyber Scholarship
-* Maybe Mike made a post?
-
 Certs
 
-NCL?
+
 
 
 
@@ -121,5 +117,6 @@ NCAE → NAVSEA capstone → graduation → SOC → mentorship → community inv
 CCDC → NCAE → OpenAI → cyber camp, etc.
 
 That tells a surprisingly coherent story: **researcher/student → active contributor/competitor → leader, mentor, and instructor.**
+
 
 
