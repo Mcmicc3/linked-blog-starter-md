@@ -320,3 +320,17 @@ Looking back, 2024 was the year I became much more involved in both my academics
 Related:  
 CSUSB Center for Cyber & AI — 2024 Annual Open House  
 [https://www.csusb.edu/inside/article/584671/csusbs-center-cyber-ai-hosts-annual-open-house](https://www.csusb.edu/inside/article/584671/csusbs-center-cyber-ai-hosts-annual-open-house)
+
+# Roadmap
+
+
+**2024: Getting involved**  
+INSuRE → Open House → becoming Treasurer
+
+**2025: Things accelerate**  
+NCAE → NAVSEA capstone → graduation → SOC → mentorship → community involvement
+
+**2026: Applying it and giving back**  
+CCDC → NCAE → OpenAI → cyber camp, etc.
+
+That tells a surprisingly coherent story: **researcher/student → active contributor/competitor → leader, mentor, and instructor.**

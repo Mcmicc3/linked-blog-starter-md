@@ -23,6 +23,6 @@ IST 6730: Thu & (Online) | 7:00 PM - 8:15 PM
 7. [ ] Help Forum - Dec 8
 
 #### IST 6730 (Applied Cybersecurity):
-1. [ ] Week 1 Discussion Post
-2. [ ] Research Topic for speech
-3. [ ] 
+1. [ ] Week 1 Discussion Post - Sep 17th
+2. [ ] CYSA+ Questions - Oct 15th
+3. [ ] Security Presentation - Oct 15th
