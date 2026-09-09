@@ -1,6 +1,53 @@
 
 ## 2026
 
+
+## First Draft
+Continuing my three-post catch-up series, we’ve finally made it to **2026**. 🚀
+
+This year has been one of the most rewarding and challenging parts of my cybersecurity journey so far.
+
+Early in the spring, I had the opportunity to represent CSUSB’s Security Operations Center during U.S. Rep. Pete Aguilar’s visit to campus. He announced a **$1.031 million federal grant** supporting CSUSB’s new Artificial Intelligence and Virtual Reality Research and Retraining Center. It was exciting to be there representing the SOC and to see continued investment in the university’s cybersecurity and AI programs.
+
+Not long afterward came one of the most challenging experiences of my academic career: **CCDC**. 🛡️
+
+Our team advanced through qualifiers and earned the opportunity to compete at the regional competition. CCDC pushed me far beyond anything I had experienced in previous competitions. I had to manage and secure Linux systems, monitor services, troubleshoot under pressure, and constantly pivot between securing, operating, and defending an active environment against a red team.
+
+More than anything, it taught me how important it is to stay calm, prioritize, communicate, and keep systems operational when problems start piling up.
+
+Later that spring, our **NCAE Cyber Games** team again won our regional competition and returned to Florida for the invitational. 🏆 It was another opportunity to compete alongside a great team and continue building on everything I had learned over the previous year.
+
+After completing the first year of my master’s program, I had the opportunity to work as a **CSU Student Mentor** at an OpenAI event focused on helping small-business owners explore practical uses for AI.
+
+I met business owners from across the Los Angeles community, listened to the challenges they were trying to solve, and helped them think through ways AI could automate repetitive tasks and support their day-to-day operations. It was a completely different experience from cybersecurity, but one I found incredibly interesting and rewarding.
+
+That same week, I also had the opportunity to serve as a mentor for the **WITH Cyber Camp**. 👨‍🏫
+
+Over four days, high-school students from across Southern California learned cybersecurity fundamentals and eventually competed in a CTF environment our team created. I developed lesson plans, presentation material, and a virtual lab where students practiced working with Elastic, investigating alerts, responding to incidents, and threat hunting.
+
+Naturally, I also made my environment Fallout-themed.
+
+Teaching high-school students for the first time challenged me in a completely different way. It taught me how much thought goes into explaining technical concepts clearly and creating an environment where students can learn by doing.
+
+2026 also marked the end of my one-year **WITH Cyber Scholarship** and my time with CSUSB’s second Security Operations Center cohort.
+
+I’m incredibly grateful to the Center for Cyber & AI and the SOC team for giving me my first professional cybersecurity opportunity and allowing me to contribute to network monitoring, threat hunting, and incident response while helping protect the university community.
+
+As I begin the final year of my master’s program, I’m excited to see where the next chapter takes me. I’m continuing to grow in cybersecurity operations, infrastructure, and cloud security, and I’m open to new opportunities where I can keep learning, contributing, and building.
+
+That’s the end of my three-year LinkedIn catch-up. Hopefully I won’t need another one of these in 2029. 😅
+
+***draft free write***
+**CCDC**
+It was an honor being able to represent the school and compete in a prestigous competition. I can't describe how much I learned from this experience. What it's like to work as a team in working in a 
+
+
+**OpenAI**
+
+**Cyber Camp**
+
+**Closing**
+
 ## Free Write
 
 Pete Aguilar visit happened early spring during my spring 2026 semester. I had the honor of joining my team as we represented the SOC for Pete Aguilars visit to our University. He awarded the school a grant for research in AI & Virtual reality. It was just fun to be there and meet a congressmen.
