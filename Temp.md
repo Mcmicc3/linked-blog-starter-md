@@ -3,12 +3,10 @@ When the router web certificates were compromised, I didn't know how to restore 
 
 I have a professor that has incredible memory, and is able to talk fast and fluidly. I find it impressive because he seems to be older, maybe 60's or 70's. I want to ask him how he learned to stay mentally sharp, but without calling him old. What's a polite way to frame this question
 
-OpenAI
-https://www.linkedin.com/posts/ai-is-already-changing-how-small-businesses-ugcPost-7471218739133218816-HhC0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAKkCxcBfOd0huF3KcNmD7dNvIyaysWIpIA
-* Job Role: CSU Student Mentor
-
-
-https://www.csusb.edu/inside/article/594549/federal-grant-funds-artificial-intelligence-and-virtual-reality-research-and
+- the CCDC reflection
+- the OpenAI paragraph
+- the Cyber Camp paragraph
+- the very last line
 
 ---
 

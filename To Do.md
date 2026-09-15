@@ -1,7 +1,9 @@
-1. Update LinkedIn  |  Update Resume  |  Apply for jobs
+1. School work: Three Discussion Posts, Group Contract, Module One Quiz
+
+2. Update LinkedIn  |  Update Resume  |  Apply for jobs
 	1. Finish updating resume, and then upload to this [website](https://app.premiervirtual.com/events/53f978a2-1f6f-43a9-a8ba-39151c094417/2026-national-cyber-and-ai-virtual-career-fair/attendee). For CAE job fair in September.
    
-2.  Work on Homelab
+3.  Work on Homelab
 	1. pfSense
 	2. MicroComputer
 	3. Pi
@@ -113,6 +115,12 @@
 7. Meshtastic
 8. Galaxy Tab S5e Wi-Fi, SM-T720
 9. New Project Phone
+10.  New travel mouse
+11. **GL.iNet Mudi (**GL-E750 or newer GL-E5800 "Mudi 7")
+	1. Other solutions
+		1. - **Non-SIM GL.iNet travel routers** (Beryl, Slate AX/7, Mango) — cheaper, no cellular of their own, but you plug your _phone's_ hotspot or the library's ethernet/WiFi into them and they run the VPN client for you. Useful if you don't want to manage a separate SIM, but doesn't solve today's problem since the library WiFi itself is the thing getting blocked.
+		- **Standalone mobile hotspot / MiFi devices** (Netgear Nighthawk, Franklin) — basically what your phone already does, just as a dedicated battery-friendly device instead of draining your phone.
+		- **USB cellular modems/dongles** — plug straight into the laptop, no separate router to carry, but they skip the "VPN runs on the device" advantage — you're back to running NordVPN on your laptop and dealing with client-side connection issues, just over cellular instead of library WiFi.
 
 ## Needs
 1. Money to buy a used car
