@@ -17,17 +17,15 @@ More than anything, it taught me how important it is to stay calm, prioritize, c
 
 Later that spring, our **NCAE Cyber Games** team again won our regional competition and returned to Florida for the invitational. 🏆 It was another opportunity to compete alongside a great team and continue building on everything I had learned over the previous year.
 
-After completing the first year of my master’s program, I had the opportunity to work as a **CSU Student Mentor** at an OpenAI event focused on helping small-business owners explore practical uses for AI.
+After completing the first year of my master’s program, I had the opportunity to work as a **CSU Student Mentor** at an OpenAI event focused on helping small-business owners explore practical uses for *Optimizing their workflows through* AI.
 
-I met business owners from across the Los Angeles community, listened to the challenges they were trying to solve, and helped them think through ways AI could automate repetitive tasks and support their day-to-day operations. It was a completely different experience from cybersecurity, but one I found incredibly interesting and rewarding.
+I *had fun meeting* business owners from across the Los Angeles community, and ~~listened to the challenges they were trying to solve, and helped them think through ways AI could automate repetitive tasks and support their day-to-day operations~~. ~~It was a completely different experience from cybersecurity, but one I found incredibly interesting and rewarding.~~
 
-That same week, I also had the opportunity to serve as a mentor for the **WITH Cyber Camp**. 👨‍🏫
+That same week, I also had the opportunity and the privilege to serve as a mentor for the **WITH Cyber Camp**. 👨‍🏫
 
-Over four days, high-school students from across Southern California learned cybersecurity fundamentals and eventually competed in a CTF environment our team created. I developed lesson plans, presentation material, and a virtual lab where students practiced working with Elastic, investigating alerts, responding to incidents, and threat hunting.
+Over four days, we had high-school students from across Southern California visit CSUSB where we taught them cybersecurity fundamentals, developed hands on skills, and  competed in a CTF environment our team created. I developed lesson plans, presentation material, and a Fallout themed virtual lab and scenario where students practiced working with Elastic, investigating alerts, responding to incidents, and threat hunting.
 
-Naturally, I also made my environment Fallout-themed.
-
-Teaching high-school students for the first time challenged me in a completely different way. It taught me how much thought goes into explaining technical concepts clearly and creating an environment where students can learn by doing.
+Teaching high-school students for the first time challenged me in a completely different way. It *gave me the opportunity to practice teaching technical concepts from the beginning, and giving others the confidence to answer technical questions, and apply the skills they learned into action.* ~~taught me how much thought goes into explaining technical concepts clearly and creating an environment where students can learn by doing.~~
 
 2026 also marked the end of my one-year **WITH Cyber Scholarship** and my time with CSUSB’s second Security Operations Center cohort.
 
@@ -35,18 +33,9 @@ I’m incredibly grateful to the Center for Cyber & AI and the SOC team for givi
 
 As I begin the final year of my master’s program, I’m excited to see where the next chapter takes me. I’m continuing to grow in cybersecurity operations, infrastructure, and cloud security, and I’m open to new opportunities where I can keep learning, contributing, and building.
 
-That’s the end of my three-year LinkedIn catch-up. Hopefully I won’t need another one of these in 2029. 😅
-
-***draft free write***
-**CCDC**
-It was an honor being able to represent the school and compete in a prestigous competition. I can't describe how much I learned from this experience. What it's like to work as a team in working in a 
+That’s the end of my three-year LinkedIn catch-up. *Something clever about how I shouldn't need to do this again, since I learned how to host my own password manager*~~Hopefully I won’t need another one of these in 2029.~~ 😅
 
 
-**OpenAI**
-
-**Cyber Camp**
-
-**Closing**
 
 ## Free Write
 

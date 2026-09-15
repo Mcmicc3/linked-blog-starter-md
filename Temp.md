@@ -4,9 +4,18 @@ When the router web certificates were compromised, I didn't know how to restore 
 I have a professor that has incredible memory, and is able to talk fast and fluidly. I find it impressive because he seems to be older, maybe 60's or 70's. I want to ask him how he learned to stay mentally sharp, but without calling him old. What's a polite way to frame this question
 
 - the CCDC reflection
+**Dig Deep - revisit**
+It was an honor being able to represent the school and compete in a prestigous competition. I can't describe how much I learned from this experience. What it's like to work as a team in working in a 
+
+
 - the OpenAI paragraph
+I'm very thankful and honored to have the opportunity to serve as a<mentor?> for the OpenAI workshop. I *had fun meeting* business owners from across the Los Angeles community, It was fun being able to use everything I've learned to assist small business owners with thinking of new ways to optimize their workflows. It was fun meeting small business owners in the LA area, and helping them develop their own unique ideas for implementing ChatGPT into their workflows. I also learned a lot from that experience in discovering new ways of using being productive with ChatGPT through custom GPTs (Should I add more? Public GPTs? Voice Features, Folders, Assigned Roles?)
+
+
+
 - the Cyber Camp paragraph
-- the very last line
+  
+* the very last line
 
 ---
 
