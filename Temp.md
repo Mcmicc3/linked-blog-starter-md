@@ -106,3 +106,32 @@ Certs
 
 ---
 
+## Group Contract
+
+Please prepare a Group Contract, which includes:
+
+- a member list,
+- member contact info,
+- group’s goals and objectives,
+- leader(s) role,
+- member's role,
+- group norms,
+- group expectations,
+- group disciplines and consequences, and
+- any others that your group would like to put in.
+
+The contract has to be signed by each of the group members. The leader will coordinate the work among group members and submit the group's assignment - Google Docs Commercial - Market Research. Please note, please resolve any conflict and/or issue within your group first should such a situation arises. Nevertheless, if the conflict or issue cannot be resolved, you may fire a group member by the end of the 3rd week if the group has a consensus with the instructor’s approval.
+
+
+## Discussion Posts
+
+What is the difference between open source and closed source intelligence and where it is acquired
+
+
+Describe what Tactics, techniques, and Procedures (TTP)
+
+­Describe Threat actors' classification standards and common terms. 
+
+
+## Speech for Cochrans
+
