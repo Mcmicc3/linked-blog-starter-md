@@ -1,6 +1,76 @@
 
 ## 2026
 
+## Third Draft
+Continuing my three-post catch-up series, we’ve finally made it to **2026**. 🚀
+
+Early in the spring, I represented CSUSB’s Security Operations Center during U.S. Rep. Pete Aguilar’s visit to campus as he announced federal support for the university’s AI and VR research.
+
+Not long afterward came one of the most challenging experiences of my academic career: **CCDC**. 🛡️
+
+It was an honor to represent CSUSB alongside my teammates. Preparing for the competition pushed me to learn more about Docker, Linux administration, service dependencies, network enumeration, and how systems communicate across a network. During the competition, we had to keep services operational, complete business tasks, and defend against an active red team.
+
+CCDC taught me how quickly one problem can affect an entire environment, and how important it is to stay calm, prioritize, communicate, and think strategically under pressure. It also reminded me how much I still have to learn — and that continues to motivate me.
+
+Later that spring, our **NCAE Cyber Games** team again won our regional competition and returned to Florida for the invitational. 🏆
+
+After completing the first year of my master’s program, I worked as a **CSU Student Mentor** at an OpenAI workshop for small-business owners. I helped participants explore ways to use ChatGPT to optimize workflows and automate repetitive tasks, and learned new approaches to custom GPTs.
+
+That same week, I served as a mentor for the **WITH Cyber Camp**. 👨‍🏫
+
+Over four days, high-school students from across Southern California came to CSUSB to learn cybersecurity fundamentals and compete in a CTF environment our team created. I developed lesson plans, presentation material, and a Fallout-themed virtual lab where students used Elastic to investigate alerts, respond to incidents, and threat hunt.
+
+Teaching high-school students for the first time challenged me to explain technical concepts from the ground up and help students turn what they learned into action. I’m proud to have played a small part in their academic journey.
+
+2026 also marked the end of my one-year **WITH Cyber Scholarship** and my time with CSUSB’s second Security Operations Center cohort. I’m incredibly grateful to the Center for Cyber & AI and SOC team for my first professional cybersecurity opportunity, where I contributed to network monitoring, threat hunting, and incident response while helping protect the university community.
+
+As I begin the final year of my master’s program, I’m continuing to grow in cybersecurity operations, infrastructure, and cloud security, and I’m open to new opportunities where I can keep learning and contributing.
+
+That officially brings my three-year LinkedIn catch-up to an end.
+
+Thankfully, my IT skills have improved since 2024 — I self-host a password manager now, so forgetting my LinkedIn password is no longer a valid excuse. 😅
+
+## Second Draft
+
+Continuing my three-post catch-up series, we’ve finally made it to **2026**. 🚀
+
+This year has been one of the most rewarding and challenging parts of my cybersecurity journey so far.
+
+Early in the spring, I had the opportunity to represent CSUSB’s Security Operations Center during U.S. Rep. Pete Aguilar’s visit to campus. He announced a **$1.031 million federal grant** supporting CSUSB’s Artificial Intelligence and Virtual Reality Research and Retraining Center. It was exciting to be there representing the SOC and to see continued investment in the university’s cybersecurity and AI programs.
+
+Not long afterward came one of the most challenging experiences of my academic career: **CCDC**. 🛡️
+
+It was an honor to represent CSUSB and compete alongside my teammates. I can’t overstate how much I learned from the experience. We had to work together in a fast-paced environment, setting up and defending services while completing operational tasks under pressure.
+
+Preparing for the competition pushed me to learn more about Docker, Linux administration, service dependencies, network enumeration, and how different systems communicate with one another. During the competition itself, I learned how quickly one problem can affect the rest of an environment, and how important it is to stay calm, prioritize, communicate, and think strategically while being actively attacked.
+
+More than anything, CCDC reminded me how much I still have to learn — and that is exactly what continues to motivate me to improve in this field.
+
+Later that spring, our **NCAE Cyber Games** team again won our regional competition and returned to Florida for the invitational. 🏆 It was another opportunity to compete with a great team and continue building on everything I had learned over the previous year.
+
+After completing the first year of my master’s program, I had the opportunity to work as a **CSU Student Mentor** at an OpenAI workshop focused on helping small-business owners explore practical ways to optimize their workflows with AI.
+
+I’m incredibly thankful for the opportunity. I had a great time meeting business owners from across the Los Angeles area and helping them develop their own ideas for using ChatGPT within their businesses. It was rewarding to take what I had learned and help someone else think through ways to automate repetitive work, improve productivity, and approach familiar problems differently.
+
+I also came away from the workshop with new ideas of my own, especially around tools like custom GPTs and the different ways ChatGPT can be adapted to support specific workflows.
+
+That same week, I had the privilege of serving as a mentor for the **WITH Cyber Camp**. 👨‍🏫
+
+Over four days, high-school students from across Southern California came to CSUSB to learn cybersecurity fundamentals, develop hands-on skills, and eventually compete in a CTF environment our team created.
+
+For my portion of the camp, I developed lesson plans, presentation material, and a Fallout-themed virtual lab and incident scenario. Students used Elastic to investigate alerts, respond to incidents, threat hunt, and work through challenges ranging from beginner-friendly to advanced.
+
+Teaching high-school students for the first time challenged me in a completely different way. It gave me the opportunity to practice explaining technical concepts from the beginning, help students build confidence in answering technical questions, and watch them apply what they had learned. I’m proud to have played even a small part in their academic journey.
+
+2026 also marked the end of my one-year **WITH Cyber Scholarship** and my time with CSUSB’s second Security Operations Center cohort.
+
+I’m incredibly grateful to the Center for Cyber & AI and the SOC team for giving me my first professional cybersecurity opportunity and allowing me to contribute to network monitoring, threat hunting, and incident response while helping protect the university community.
+
+As I begin the final year of my master’s program, I’m excited to see where the next chapter takes me. I’m continuing to grow in cybersecurity operations, infrastructure, and cloud security, and I’m open to new opportunities where I can keep learning, contributing, and building.
+
+That officially brings my three-year LinkedIn catch-up to an end.
+
+Thankfully, my IT skills have improved since 2024 — I self-host a password manager now, so I'll never have to remember my LinkedIn password again.😅
 
 ## First Draft
 Continuing my three-post catch-up series, we’ve finally made it to **2026**. 🚀
@@ -11,7 +81,11 @@ Early in the spring, I had the opportunity to represent CSUSB’s Security Opera
 
 Not long afterward came one of the most challenging experiences of my academic career: **CCDC**. 🛡️
 
+(ChatGPT Draft)
 Our team advanced through qualifiers and earned the opportunity to compete at the regional competition. CCDC pushed me far beyond anything I had experienced in previous competitions. I had to manage and secure Linux systems, monitor services, troubleshoot under pressure, and constantly pivot between securing, operating, and defending an active environment against a red team.
+
+(My Draft)
+*It was an honor being able to represent the school and compete in a prestigous competition. I can't describe how much I learned from this experience. What it's like to work as a team in a fast pace volatile environment. Setting up services, defending them, while orange team gives us tasks to fullfil for said service. I had a lot of fun operating the phone during the qualifier competition. I enjoyed the process of studying and preparing for the competition by learning docker, understanding how services connect and work with each other, how to enumerate my network and learn what my host is serving, how one downed service can effect another, and getting a glimpse of what a real security incident and active attack can look like. I learned how to remain calm and think strategically during chaos. It also taught me that I still have so much to learn, and that experience is what drives me everyday to continue improving in my field. I will never forget this experience, and It was a huge honor serving alongside my teammates.* 
 
 More than anything, it taught me how important it is to stay calm, prioritize, communicate, and keep systems operational when problems start piling up.
 
@@ -19,13 +93,14 @@ Later that spring, our **NCAE Cyber Games** team again won our regional competit
 
 After completing the first year of my master’s program, I had the opportunity to work as a **CSU Student Mentor** at an OpenAI event focused on helping small-business owners explore practical uses for *Optimizing their workflows through* AI.
 
-I *had fun meeting* business owners from across the Los Angeles community, and ~~listened to the challenges they were trying to solve, and helped them think through ways AI could automate repetitive tasks and support their day-to-day operations~~. ~~It was a completely different experience from cybersecurity, but one I found incredibly interesting and rewarding.~~
+*I'm very thankful and honored to have the opportunity to serve as a<mentor?> for the OpenAI workshop. I had fun meeting business owners from across the Los Angeles community, It was fun being able to use everything I've learned to assist small business owners with thinking of new ways to optimize their workflows. It was fun meeting small business owners in the LA area, and helping them develop their own unique ideas for implementing ChatGPT into their workflows. I also learned a lot from that experience in discovering new ways of using being productive with ChatGPT through custom GPTs (Should I add more? Public GPTs? Voice Features, Folders, Assigned Roles?)*
+~~I *had fun meeting* business owners from across the Los Angeles community, and~~ ~~listened to the challenges they were trying to solve, and helped them think through ways AI could automate repetitive tasks and support their day-to-day operations~~. ~~It was a completely different experience from cybersecurity, but one I found incredibly interesting and rewarding.~~
 
 That same week, I also had the opportunity and the privilege to serve as a mentor for the **WITH Cyber Camp**. 👨‍🏫
 
 Over four days, we had high-school students from across Southern California visit CSUSB where we taught them cybersecurity fundamentals, developed hands on skills, and  competed in a CTF environment our team created. I developed lesson plans, presentation material, and a Fallout themed virtual lab and scenario where students practiced working with Elastic, investigating alerts, responding to incidents, and threat hunting.
 
-Teaching high-school students for the first time challenged me in a completely different way. It *gave me the opportunity to practice teaching technical concepts from the beginning, and giving others the confidence to answer technical questions, and apply the skills they learned into action.* ~~taught me how much thought goes into explaining technical concepts clearly and creating an environment where students can learn by doing.~~
+Teaching high-school students for the first time challenged me in a completely different way. It *gave me the opportunity to practice teaching technical concepts from the beginning, and giving others the confidence to answer technical questions, and apply the skills they learned into action. I'm proud to have been a part of their academic journey.* ~~taught me how much thought goes into explaining technical concepts clearly and creating an environment where students can learn by doing.~~
 
 2026 also marked the end of my one-year **WITH Cyber Scholarship** and my time with CSUSB’s second Security Operations Center cohort.
 
@@ -33,7 +108,7 @@ I’m incredibly grateful to the Center for Cyber & AI and the SOC team for givi
 
 As I begin the final year of my master’s program, I’m excited to see where the next chapter takes me. I’m continuing to grow in cybersecurity operations, infrastructure, and cloud security, and I’m open to new opportunities where I can keep learning, contributing, and building.
 
-That’s the end of my three-year LinkedIn catch-up. *Something clever about how I shouldn't need to do this again, since I learned how to host my own password manager*~~Hopefully I won’t need another one of these in 2029.~~ 😅
+That’s the end of my three-year LinkedIn catch-up. *Something clever about how I shouldn't need to do this again, since I improved my IT skills by learning how to self host a password manager*~~Hopefully I won’t need another one of these in 2029.~~ 😅
 
 
 

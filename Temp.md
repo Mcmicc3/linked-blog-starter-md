@@ -1,3 +1,9 @@
+
+## Speech Draft
+
+
+
+
 # For Manufactures Warranty
 When the router web certificates were compromised, I didn't know how to restore them. I don't even know If I fully understand what they are.
 
@@ -5,7 +11,7 @@ I have a professor that has incredible memory, and is able to talk fast and flui
 
 - the CCDC reflection
 **Dig Deep - revisit**
-It was an honor being able to represent the school and compete in a prestigous competition. I can't describe how much I learned from this experience. What it's like to work as a team in working in a 
+It was an honor being able to represent the school and compete in a prestigous competition. I can't describe how much I learned from this experience. What it's like to work as a team in a fast pace volatile environment. Setting up services, defending them, while orange team gives us tasks to fullfil for said service. I had a lot of fun operating the phone during the qualifier competition. I enjoyed the process of studying and preparing for the competition by learning docker, understanding how services connect and work with each other, how to enumerate my network and learn what my host is serving, how one downed service can effect another, and getting a glimpse of what a real security incident and active attack can look like. I learned how to remain calm and think strategically during chaos. It also taught me that I still have so much to learn, and that experience is what drives me everyday to continue improving in my field. I will never forget this experience, and It was a huge honor serving alongside my teammates. 
 
 
 - the OpenAI paragraph
