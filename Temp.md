@@ -1,143 +1,24 @@
-
-## Speech Draft
-
-
-
-
 # For Manufactures Warranty
 When the router web certificates were compromised, I didn't know how to restore them. I don't even know If I fully understand what they are.
 
 I have a professor that has incredible memory, and is able to talk fast and fluidly. I find it impressive because he seems to be older, maybe 60's or 70's. I want to ask him how he learned to stay mentally sharp, but without calling him old. What's a polite way to frame this question
 
-- the CCDC reflection
-**Dig Deep - revisit**
-It was an honor being able to represent the school and compete in a prestigous competition. I can't describe how much I learned from this experience. What it's like to work as a team in a fast pace volatile environment. Setting up services, defending them, while orange team gives us tasks to fullfil for said service. I had a lot of fun operating the phone during the qualifier competition. I enjoyed the process of studying and preparing for the competition by learning docker, understanding how services connect and work with each other, how to enumerate my network and learn what my host is serving, how one downed service can effect another, and getting a glimpse of what a real security incident and active attack can look like. I learned how to remain calm and think strategically during chaos. It also taught me that I still have so much to learn, and that experience is what drives me everyday to continue improving in my field. I will never forget this experience, and It was a huge honor serving alongside my teammates. 
+---
 
-
-- the OpenAI paragraph
-I'm very thankful and honored to have the opportunity to serve as a<mentor?> for the OpenAI workshop. I *had fun meeting* business owners from across the Los Angeles community, It was fun being able to use everything I've learned to assist small business owners with thinking of new ways to optimize their workflows. It was fun meeting small business owners in the LA area, and helping them develop their own unique ideas for implementing ChatGPT into their workflows. I also learned a lot from that experience in discovering new ways of using being productive with ChatGPT through custom GPTs (Should I add more? Public GPTs? Voice Features, Folders, Assigned Roles?)
-
-
-
-- the Cyber Camp paragraph
+EA initiatives are how we categorize units of work in an EA practice. It's how an organization turns IT related plans into reality. Each one is defined by a specific need it addresses, a scope, a business case, a sponsor, a budget, and a manager, and it can range in size from a single project to a multi-project transformation program. EA initiatives serve as a bridge that connects high level abstract business plans to low level working implementations. The following explains the general types of EA initiatives from the perspective of each stakeholder, and how they are part of the pipeline that connects the three core processes that make up EA in practice: Strategic Planning, Initiative Delivery, and Technology Optimization.  
   
-* the very last line
+Fundamental Initiatives originate from Strategic Planning, a process that takes abstract high level factors from outside the organization (economic shifts, new competitors, changing regulations), and translates them into concrete rules and directions for business and IT. It is concerned with business environment changes and how they should react to them. Fundamental initiatives are planned in nature, and they are initiated top down directly by high level global business executives. Their motivation is to grow permanent business capabilities, things businesses will always need no matter which strategy, such as customer relationship management and supply chain management. Its goal is to build a reusable digitized platform that outlives any one strategy. The concern with fundamental initiatives is that they're not tied to a strategy, meaning they have to prove real strategic and tactical value, and avoid wasting resources and building things because they seem foundational.  
+  
+Next is the Strategic Initiative. Similar to the Fundamental Initiative, it originates from the strategic planning process and is also planned and iniatived top down directly by high level global business executives. The motivation that makes Strategic Initiatives different from Fundamental Initiatives is that it exists specifically to execute the current business strategy. They are the direct workhorse that makes strategies happen. Because it is tightly coupled with current strategies, organizations need to understand that they risk becoming wasted resources once a strategy changes. The concern is ensuring they deliver value that lasts beyond the current strategy's lifespan.  
+  
+Local Initiatives, the last initiative that is planned and originates from the strategic planning process, differentiates from the other two because it is initiated bottom up, by local business unit executives via formal business proposals that are then reviewed and approved by global executives. The motivation for local initiatives is to address tactical needs specific to one business unit or division, rather than the whole organization. These initiatives come from a narrow local vantage point, so the concern with them is making sure that their goals still align with the overall business strategy and actually fit the organization as a whole, rather than just serving one unit's interests.  
+  
+The last two initiatives do not originate from the Strategic Planning Process. Instead, Urgent Initiatives originate from business environments directly. They are unplanned and initiated bottom up by any business leader, and executed immediately without waiting for any normal planning cycles. What motivates them are reactions to sudden, unanticipated business needs, such as regulatory changes, a competitor's surprise move, a critical problem that got missed, etc. Things that the organization could not have planned for. The concern with Urgent Initiatives is aligning them with the general strategic direction as much as possible after the fact, to avoid creating inconsistencies or technical debt.  
+  
+Lastly, we have Architectural Initiatives. This initiative originates from the Technology Optimization Process, a process which translates information about the current IT landscape into technical rationalization suggestions, using Standards and Landscapes, normally carried out by Enterprise Architects alone. It is planned and initiated top down by proposing architects and approved by IT executives. The motivation for them is to improve the technical quality of the IT landscape itself. It does this by decommissioning legacy systems, consolidating duplicated assets, upgrading aging infrastructure, etc. It is essentially a technical cleanup. Because they add no visible business value, organizations try to avoid running them as standalone initiatives where possible, folding the technical improvements into regular business initiatives instead, but some purely architectural work is unavoidable.   
+  
+Together, these five initiatives embody EA practice, each pulling from a different origin and why, but all working toward the same end of aligning business needs with IT reality.
 
----
+**References**
 
-# UPDATE LinkedIn then Resume
-
-## 2026
-
-Total Topics (4-5?)
-
-Pete - Visit
-https://www.csusb.edu/inside/article/594549/federal-grant-funds-artificial-intelligence-and-virtual-reality-research-and
-* Instagram Reel to go with it
-* *Mikes Post* - https://www.linkedin.com/posts/mikegonzo_csusb-boldvision-inlandempire-activity-7425765272755576832-jA5b?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-* *Mikes Second Post* - https://www.linkedin.com/posts/california-state-university-san-bernardino_csusb-lifeandcareerready-boldvision-ugcPost-7425356991138643968-k6tV?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-
-CCDC
-.... Group Photo
-
-NCAE 2 - News Article
-https://www.csusb.edu/inside/article/595515/csusb-cybersecurity-students-excel-regional-cyber-games-gaining-real-world
-* Challenge Coins Photo
-* Instagram Reel to go with it
-* *Mikes Post* - https://www.linkedin.com/posts/mikegonzo_what-an-awesome-experience-competing-at-invitationals-activity-7452166301642301440-j_aW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-* *Mikes Second Post* - https://www.linkedin.com/posts/mikegonzo_what-an-amazing-day-my-cybersecurity-activity-7431382305497206784-QkBz?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-
-OpenAI w/Robert
-* Roberts Post - https://www.linkedin.com/posts/rm-v_ai-openai-smallbusiness-activity-7470968533854773248-RyAS?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-* OpenAI's Post - https://www.linkedin.com/posts/openai-global-affairs_ai-is-already-changing-how-small-businesses-ugcPost-7471218739133218816-fqZU?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-
-WITH Cyber Camp
-https://www.csusb.edu/inside/article/596735/csusb-cyber-camp-introduces-high-school-students-cybersecurity-careers
-* Include the picture of me infront of my slides
-* Instagram Reels to go with it
-	* https://www.instagram.com/reel/DZGGZiohXZz/
-
-(Presentation i'm in for the SOC - February)
-* https://www.linkedin.com/posts/tomorrowstalent_pathfinderday-cybersecurity-stemeducation-ugcPost-7436787868519518208-T8FP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-
-## 2024
-
-Total Topics (4)
-
-INSuRE
-* Take a picture of the INSuRE poster
-
-First Open House -
-https://www.csusb.edu/inside/article/595573/csusb-highlights-ai-fools-week-launches-new-center-cyber-and-ai-commercial
-* Include web article
-* https://www.csusb.edu/inside/article/584671/csusbs-center-cyber-ai-hosts-annual-open-house
-
-
-Club treasurer???
-* All I have is the board
-
-## 2025
-
-Total Topics (4-6?)
-
-NCAE 1 
-* Group Photo, Challenge Coins
-* Possible NCAE LinkedIn Post
-
-Include the NAVSEA Enterprise Project
-* https://www.linkedin.com/posts/mikegonzo_excited-to-share-a-recent-cybersecurity-project-activity-7337181688466198528-1OhU?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-
-Graduation Photos
-* Check
-* Departmental Honors
-
-SOC - Name on Cohort website
-https://www.csusb.edu/its/security/security-operations-center
-* Include Website
-* Maybe there's a better picture out somewhere of me presenting for the SOC
-
-Should I share my DefCON picture??
-
-CMP Photo
-- https://www.linkedin.com/posts/faisalalsulaimi_cybersecurity-mentorship-csusb-activity-7371331581778657280-oTkL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI11
-
-WiCyS Post - 
-https://www.linkedin.com/posts/kasandra-adams_csusb-wicys-womenincybersecurity-activity-7390137709761187840-_evE?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
-* Supporting Women
-
-
-### Do I mention it??
-Certs
-
-
----
-
-## Group Contract
-
-Please prepare a Group Contract, which includes:
-
-- a member list,
-- member contact info,
-- group’s goals and objectives,
-- leader(s) role,
-- member's role,
-- group norms,
-- group expectations,
-- group disciplines and consequences, and
-- any others that your group would like to put in.
-
-The contract has to be signed by each of the group members. The leader will coordinate the work among group members and submit the group's assignment - Google Docs Commercial - Market Research. Please note, please resolve any conflict and/or issue within your group first should such a situation arises. Nevertheless, if the conflict or issue cannot be resolved, you may fire a group member by the end of the 3rd week if the group has a consensus with the instructor’s approval.
-
-
-## Discussion Posts
-
-What is the difference between open source and closed source intelligence and where it is acquired
-
-
-Describe what Tactics, techniques, and Procedures (TTP)
-
-­Describe Threat actors' classification standards and common terms. 
-
-
-## Speech for Cochrans
-
+Kotusev, S. (2021). The practice of enterprise architecture: A modern approach to business and IT alignment (2nd ed.). SK Publishing.

@@ -1,5 +1,71 @@
 
-## 2026
+# 2026
+
+**Photos from 2026 📸**
+
+**Photos 1–2 — Pete Aguilar Visit**  
+Representing CSUSB’s Security Operations Center during Rep. Pete Aguilar’s visit to campus and the announcement of federal funding supporting AI and VR research at CSUSB.
+
+**Photos 3–5 — CCDC**  
+Representing CSUSB at the Collegiate Cyber Defense Competition, from preparing and defending our environment to competing alongside an incredible team.
+
+**Photos 6–8 — NCAE Cyber Games**  
+Our second NCAE season, from competition through our return to Florida for the 2026 Invitational.
+
+**Photo 9 — OpenAI Academy**  
+Serving as a CSU Student Mentor and helping small-business owners explore practical ways to integrate AI into their workflows.
+
+**Photos 10–11 — WITH Cyber Camp**  
+Teaching defensive cybersecurity through the Fallout-themed lab I created and celebrating the conclusion of camp with the WITH Cyber team.
+
+**SOC**  
+My time serving with CSUSB’s second Security Operations Center cohort is also reflected in the related links below.
+
+**Related links 🔗**
+
+**Pete Aguilar Visit**
+
+CSUSB article:  
+[https://www.csusb.edu/inside/article/594549/federal-grant-funds-artificial-intelligence-and-virtual-reality-research-and](https://www.csusb.edu/inside/article/594549/federal-grant-funds-artificial-intelligence-and-virtual-reality-research-and)
+
+LinkedIn post:  
+[https://www.linkedin.com/posts/california-state-university-san-bernardino_csusb-lifeandcareerready-boldvision-ugcPost-7425356991138643968-k6tV/](https://www.linkedin.com/posts/california-state-university-san-bernardino_csusb-lifeandcareerready-boldvision-ugcPost-7425356991138643968-k6tV/)
+
+**CCDC — Western Regional Collegiate Cyber Defense Competition**
+
+Cal Poly Pomona recap:  
+[https://www.cpp.edu/cba/news/wrccdc-cybersecurity-competition-cal-poly-pomona.shtml](https://www.cpp.edu/cba/news/wrccdc-cybersecurity-competition-cal-poly-pomona.shtml?utm_source=chatgpt.com)
+
+**NCAE Cyber Games**
+
+LinkedIn post:  
+[https://www.linkedin.com/posts/mikegonzo_what-an-awesome-experience-competing-at-invitationals-activity-7452166301642301440-j_aW/](https://www.linkedin.com/posts/mikegonzo_what-an-awesome-experience-competing-at-invitationals-activity-7452166301642301440-j_aW/)
+
+LinkedIn post: https://www.linkedin.com/posts/rm-v_ai-openai-smallbusiness-activity-7470968533854773248-RyAS/
+
+CSUSB article:  
+[https://www.csusb.edu/inside/article/595515/csusb-cybersecurity-students-excel-regional-cyber-games-gaining-real-world](https://www.csusb.edu/inside/article/595515/csusb-cybersecurity-students-excel-regional-cyber-games-gaining-real-world)
+
+**OpenAI / CSU Student Mentor**
+
+LinkedIn post:  
+[https://www.linkedin.com/posts/openai-global-affairs_ai-is-already-changing-how-small-businesses-ugcPost-7471218739133218816-fqZU/](https://www.linkedin.com/posts/openai-global-affairs_ai-is-already-changing-how-small-businesses-ugcPost-7471218739133218816-fqZU/)
+
+**WITH Cyber Camp**
+
+CSUSB article:  
+[https://www.csusb.edu/inside/article/596735/csusb-cyber-camp-introduces-high-school-students-cybersecurity-careers](https://www.csusb.edu/inside/article/596735/csusb-cyber-camp-introduces-high-school-students-cybersecurity-careers)
+
+Instagram post:  
+[https://www.instagram.com/reel/DZGGZiohXZz/](https://www.instagram.com/reel/DZGGZiohXZz/)
+
+**CSUSB Security Operations Center — Second Cohort**
+
+SOC website:  
+[https://www.csusb.edu/its/security/security-operations-center](https://www.csusb.edu/its/security/security-operations-center)
+
+Related LinkedIn post:  
+[https://www.linkedin.com/posts/tomorrowstalent_pathfinderday-cybersecurity-stemeducation-ugcPost-7436787868519518208-T8FP/](https://www.linkedin.com/posts/tomorrowstalent_pathfinderday-cybersecurity-stemeducation-ugcPost-7436787868519518208-T8FP/)
 
 ## Third Draft
 Continuing my three-post catch-up series, we’ve finally made it to **2026**. 🚀
@@ -8,9 +74,9 @@ Early in the spring, I represented CSUSB’s Security Operations Center during U
 
 Not long afterward came one of the most challenging experiences of my academic career: **CCDC**. 🛡️
 
-It was an honor to represent CSUSB alongside my teammates. Preparing for the competition pushed me to learn more about Docker, Linux administration, service dependencies, network enumeration, and how systems communicate across a network. During the competition, we had to keep services operational, complete business tasks, and defend against an active red team.
+It was an honor to represent CSUSB *and compete* alongside my teammates. *I can't overstate how much I learned from this experience* Preparing for the competition pushed me to learn more about Docker, Linux administration, service dependencies, network enumeration, and how systems communicate across a network. During the competition, we had to keep services operational, complete business tasks, and defend against an active red team.
 
-CCDC taught me how quickly one problem can affect an entire environment, and how important it is to stay calm, prioritize, communicate, and think strategically under pressure. It also reminded me how much I still have to learn — and that continues to motivate me.
+CCDC taught me how quickly one problem can affect an entire environment, and how important it is to stay calm, prioritize, communicate, and think strategically under pressure. *More than anything, CCDC reminded me how fun cybersecurity is and how there is still much more to learn. This experience continues to motivate me everyday to improve in this field.*
 
 Later that spring, our **NCAE Cyber Games** team again won our regional competition and returned to Florida for the invitational. 🏆
 
@@ -445,3 +511,85 @@ NCAE → NAVSEA capstone → graduation → SOC → mentorship → community inv
 CCDC → NCAE → OpenAI → cyber camp, etc.
 
 That tells a surprisingly coherent story: **researcher/student → active contributor/competitor → leader, mentor, and instructor.**
+
+# Links
+
+## 2026
+
+Total Topics (4-5?)
+
+Pete - Visit
+https://www.csusb.edu/inside/article/594549/federal-grant-funds-artificial-intelligence-and-virtual-reality-research-and
+* Instagram Reel to go with it
+* *Mikes Post* - https://www.linkedin.com/posts/mikegonzo_csusb-boldvision-inlandempire-activity-7425765272755576832-jA5b?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+* *Mikes Second Post* - https://www.linkedin.com/posts/california-state-university-san-bernardino_csusb-lifeandcareerready-boldvision-ugcPost-7425356991138643968-k6tV?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+
+CCDC
+.... Group Photo
+
+NCAE 2 - News Article
+https://www.csusb.edu/inside/article/595515/csusb-cybersecurity-students-excel-regional-cyber-games-gaining-real-world
+* Challenge Coins Photo
+* Instagram Reel to go with it
+* *Mikes Post* - https://www.linkedin.com/posts/mikegonzo_what-an-awesome-experience-competing-at-invitationals-activity-7452166301642301440-j_aW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+* *Mikes Second Post* - https://www.linkedin.com/posts/mikegonzo_what-an-amazing-day-my-cybersecurity-activity-7431382305497206784-QkBz?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+
+OpenAI w/Robert
+* Roberts Post - https://www.linkedin.com/posts/rm-v_ai-openai-smallbusiness-activity-7470968533854773248-RyAS?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+* OpenAI's Post - https://www.linkedin.com/posts/openai-global-affairs_ai-is-already-changing-how-small-businesses-ugcPost-7471218739133218816-fqZU?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+
+WITH Cyber Camp
+https://www.csusb.edu/inside/article/596735/csusb-cyber-camp-introduces-high-school-students-cybersecurity-careers
+* Include the picture of me infront of my slides
+* Instagram Reels to go with it
+	* https://www.instagram.com/reel/DZGGZiohXZz/
+
+(Presentation i'm in for the SOC - February)
+* https://www.linkedin.com/posts/tomorrowstalent_pathfinderday-cybersecurity-stemeducation-ugcPost-7436787868519518208-T8FP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+
+## 2024
+
+Total Topics (4)
+
+INSuRE
+* Take a picture of the INSuRE poster
+
+First Open House -
+https://www.csusb.edu/inside/article/595573/csusb-highlights-ai-fools-week-launches-new-center-cyber-and-ai-commercial
+* Include web article
+* https://www.csusb.edu/inside/article/584671/csusbs-center-cyber-ai-hosts-annual-open-house
+
+
+Club treasurer???
+* All I have is the board
+
+## 2025
+
+Total Topics (4-6?)
+
+NCAE 1 
+* Group Photo, Challenge Coins
+* Possible NCAE LinkedIn Post
+
+Include the NAVSEA Enterprise Project
+* https://www.linkedin.com/posts/mikegonzo_excited-to-share-a-recent-cybersecurity-project-activity-7337181688466198528-1OhU?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+
+Graduation Photos
+* Check
+* Departmental Honors
+
+SOC - Name on Cohort website
+https://www.csusb.edu/its/security/security-operations-center
+* Include Website
+* Maybe there's a better picture out somewhere of me presenting for the SOC
+
+Should I share my DefCON picture??
+
+CMP Photo
+- https://www.linkedin.com/posts/faisalalsulaimi_cybersecurity-mentorship-csusb-activity-7371331581778657280-oTkL?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI11
+
+WiCyS Post - 
+https://www.linkedin.com/posts/kasandra-adams_csusb-wicys-womenincybersecurity-activity-7390137709761187840-_evE?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXFXxcB3IBpyj6pAcXZgGVZ92Yj24CMRgI
+* Supporting Women
+
+
