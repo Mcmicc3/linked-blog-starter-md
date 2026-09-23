@@ -1,6 +1,6 @@
 
 #### IST 6890 (Planning Security & Policy): 
-*  [{*Zoom Link*}](https://csusb.zoom.us/j/84606889013#success) 
+*  [{*Zoom Link*}](https://csusb.zoom.us/j/86857725456) 
 
 #### IST 6730 (Applied Cybersecurity):
 * *Zoom Link* - {link}
