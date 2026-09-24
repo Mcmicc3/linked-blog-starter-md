@@ -1,4 +1,10 @@
 
+*Students will present a current event related to a policy topic. The write-up will be 1-2 pages in
+length. The student will find two additional references on the topic. The student will summarize
+the article for the first half of the evaluation and then evaluate of why the topic matters to an IT
+professional. The student will present the article to the class. No PowerPoint will be needed for
+the presentation – The presentation will be during the first five weeks*
+
 ## Speech
 
 1. ***(Update from CISA)*** Important news related to the Cybersecurity and Infrastructure Security Agency (CISA). Starting September 28, 2026, CISA is discontinuing its weekly Vulnerability Bulletin.
