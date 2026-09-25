@@ -1,10 +1,9 @@
-1.  Apply for jobs  
-2.  Laptop needs EA Book
-	1. Notebook LLM for 6&7, 8&9, 10&11,
-3.  Red Hat
-4.  CYSA+ Questions (October 15)
-5.  Create Memo for Speech (October 15)
-6.  IOC Review (Sep 24)
+1.  Apply for jobs 
+2.  Red Hat
+3.  CYSA+ Questions (October 15)
+4.  Create Memo for Speech (October 15)
+5. Renew with studentbeans
+6. Authentication for Collaboration isn't working (*Contact Professor Lin*)
    
 7.  Work on Homelab
 	1. pfSense
