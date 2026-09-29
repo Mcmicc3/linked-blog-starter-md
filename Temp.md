@@ -1,4 +1,13 @@
 
+Person 3 — "Visions: Foundations" (slides 13–18  
+• Ch.11 divider  
+• What Visions Are  
+• How Visions Guide IT Investment  
+• Role & Benefits  
+• Visions vs. Considerations/Landscapes/Outlines  
+• Five Subtypes overview card
+
+--- 
 # For Manufactures Warranty
 When the router web certificates were compromised, I didn't know how to restore them. I don't even know If I fully understand what they are.
 
