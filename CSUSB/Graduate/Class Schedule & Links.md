@@ -5,12 +5,16 @@
 #### IST 6730 (Applied Cybersecurity):
 * *Zoom Link* - {link}
 
-
 ## Schedule
 IST 6890: Tue & (Online) | 7:00 PM - 8:15 PM
 IST 6730: Thu & (Online) | 7:00 PM - 8:15 PM
 
-
+#### Journaling
+**Topic: Journaling For Growth Group (Thursdays)  
+Time: Thusdays at 9 AM
+[Zoom](https://csusb-shc.zoom.us/j/85260820084?pwd=ujYGD0bsRd6wTmPKMGmyE1M6y02Bfm.1)
+**Meeting ID: 852 6082 0084**
+**Passcode: Fall26JFG**
 
 # Homework Assignments
 #### IST 6890 (Planning Security & Policy): 
