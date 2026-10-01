@@ -9,7 +9,6 @@ Before we go into it, I thought it would be helpful to understand why do Visions
 I'll explain how that works, and why it matters, over the next few slides. We'll cover what Visions are, how they're used, why they matter, and the specific types of Visions organizations use."
 
 
-
 ## **Slide 14 - What Visions are**
 "So what exactly is a Vision? Put simply, it's a shared picture of where the business is headed, and business and IT agree on it together.
 
