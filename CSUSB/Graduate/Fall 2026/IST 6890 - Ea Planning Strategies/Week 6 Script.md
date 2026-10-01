@@ -1,6 +1,6 @@
 
 ## **Slide 13 - Visions**
-"That wraps up Chapter 10. Up to this point we've been inside the IT department. Standards are written by architects, for architects, and most business leaders never see them.
+"That wraps up Chapter 10. My name is Mario, and Up to this point we've been inside the IT department. Standards are written by architects, for architects, and most business leaders never see them.
 
 Chapter 11 moves us to the business side. We're going from a technical artifact to a business one: Visions.
 
