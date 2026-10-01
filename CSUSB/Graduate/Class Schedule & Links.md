@@ -24,9 +24,9 @@ Time: Thusdays at 9 AM
 4. [x] Week 3 Discussion - Sep 13 | *Write a reply*
 5. [x] Group Contract - Sep 20
 6. [x] Module One Quiz - Sep 20 
-7. [ ] Presentation 1 - Sep 29th
-8. [ ] Week 5 Discussion - Sep 27th | *Write a reply*
-9. [ ] Week 6 Discussion - Oct 4th
+7. [x] Presentation 1 - Sep 29th
+8. [x] Week 5 Discussion - Sep 27th | *Write a reply*
+9. [ ] Week 6 Discussion - Oct 4th | *Write a reply*
 10. [ ] Week 7 Group Discussion - Oct 8th
 11. [ ] Week 7 Discussion - Oct 11th
 12. [ ] Group Project Midterm Submission - Oct 11th
@@ -44,7 +44,7 @@ Time: Thusdays at 9 AM
 4. [x] Week 4 Discussion Posts (3)
 5. [x] Week 5 Discussion Posts (2)
 6. [x] IOC Review - Sep 24
-7. [ ] Week 7 Discussion post (1)
+7. [x] Week 7 Discussion post (1)
 8. [ ] Port Scanning Exercise - Oct 1
 9. [ ] Vulnerability Scan Exercise - Oct 8
 10. [ ] CYSA+ Questions - Oct 15th
