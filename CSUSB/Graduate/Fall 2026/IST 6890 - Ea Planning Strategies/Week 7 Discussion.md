@@ -12,5 +12,5 @@ Kotusev (2021) identifies two main concerns with Landscapes. The first is misusi
 Outlines, by contrast, are business-focused artifacts that describe individual IT initiatives in language executives understand. Kotusev (2021) characterizes them as benefit, time, and price tags for proposed investments. Architects develop them with business sponsors during the initiation step, alongside the business case. The process often moves from an Initiative Proposal, which presents an early idea and rough estimates to secure seed funding or reject weak ideas, to an Options Assessment that compares alternatives, and finally to a Solution Overview. Throughout, Outlines estimate business impact by describing process changes, expected tactical and strategic benefits, CAPEX and OPEX costs, timelines, and risks. They also show strategic alignment through Principles, capability footprints, or Roadmaps. Their level of detail should be just enough to support the investment decision. After implementation, archived Outlines can support benefit reviews that check whether the promised value was achieved, which improves the efficiency and ROI of IT investments.
 
 **Reference**
-
+Cap
 Kotusev, S. (2021). _The practice of enterprise architecture: A modern approach to business and IT alignment_ (2nd ed.). SK Publishing.

@@ -26,9 +26,9 @@ Time: Thusdays at 9 AM
 6. [x] Module One Quiz - Sep 20 
 7. [x] Presentation 1 - Sep 29th
 8. [x] Week 5 Discussion - Sep 27th | *Write a reply*
-9. [ ] Week 6 Discussion - Oct 4th | *Write a reply*
+9. [x] Week 6 Discussion - Oct 4th | *Write a reply*
 10. [ ] Week 7 Group Discussion - Oct 8th
-11. [ ] Week 7 Discussion - Oct 11th
+11. [ ] Week 7 Discussion - Oct 11th | *Write a reply*
 12. [ ] Group Project Midterm Submission - Oct 11th
 13. [ ] Week 8 Discussion - Oct 18th
 14. [ ] Module Two Quiz - Oct 25th

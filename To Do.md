@@ -1,5 +1,5 @@
 1.  Apply for jobs 
-2.  Call Financial Aid Office
+2.  Resolve Financial Aid Issue
 3.  Red Hat
 4.  CYSA+ Questions (October 15)
 5.  Create Memo for Speech (October 15)
