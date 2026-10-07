@@ -1,9 +1,8 @@
 I'm finding a consistent problem, where if I mention cybersecurity to tech interviews, they'll say something like, yeah, our regulations position, we already have someone who handles that, and they stick to it from a compliance, Mid/Senior level security position. Whereas, I'm looking at it like, every position has something to teach me that will make me a stronger future cybersecurity professional. I think it's reasonable for these organizations to say, this guy with two years of tech support, doesn't have enough skills to become our compliance auditor, nor any mid level high responsibility positions. So, do I just avoid mentioning cybersecurity at all? I don't know if they're looking at my resume, and thinking that I don't have any technical skills. In a way, sometimes they make the feeling of taking an entry level cloud administrator/specialist job, as a step back in my career, but I'm looking for something entry level that will give me enough experience to handle the mid level role I'm looking for someday. 
 
-
-
-
 Advisor: Katherine Gonzalez: Financial advisor
+
+
 
 They emphasize federal standards, security clearances, safety procedures, reliable documentation, and supply-chain compliance. Their solutions reference requirements such as NIST SP 800-171, FIPS 140-2, FIPS 201, FAR clauses, and NDAA/TAA-compliant equipment. They also hold SBA 8(a), MBE, DBE, and CPUC certifications and are a 100% Native American-owned business
 

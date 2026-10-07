@@ -45,10 +45,10 @@ Time: Thusdays at 9 AM
 5. [x] Week 5 Discussion Posts (2)
 6. [x] IOC Review - Sep 24
 7. [x] Week 7 Discussion post (1)
-8. [ ] Port Scanning Exercise - Oct 1
-9. [ ] Vulnerability Scan Exercise - Oct 8
+8. [x] Port Scanning Exercise - Oct 1
+9. [x] Vulnerability Scan Exercise - Oct 8
 10. [ ] CYSA+ Questions - Oct 15th
-11. [ ] Speech 1 Memo - Oct 15th
+11. [x] Speech 1 Memo - Oct 15th
 12. [ ] Risk ID Exercise - Oct 15th
 13. [ ] Scenario #2 - Oct 15th
 14. [ ] ATT&CK Exercise - Oct 29th

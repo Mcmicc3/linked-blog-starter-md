@@ -165,10 +165,12 @@
 	1. [Cooking for Geeks](https://learning.oreilly.com/library/view/cooking-for-geeks/9781491928110/)
 5. Hacking
 	1. [Black Hat Python](https://learning.oreilly.com/library/view/black-hat-python/9781098128906/)
+	2. [Evasion Engineering](https://nostarch.com/evasion-engineering)
 6. Defensive Cyber
 	1. [Network Security Assessment](https://learning.oreilly.com/library/view/network-security-assessment/9781491911044/)
 7. Programming
-	1. 
+8. Interesting
+	1. [The Spacecraft Hacker's Handbook](https://nostarch.com/spacecraft-hackers-handbook)
 
 ## Finished Books
 1. Linux for Hackers
