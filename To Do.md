@@ -1,19 +1,22 @@
 1.  Apply for jobs 
 2.  Resolve Financial Aid Issue
+	1. Advisor: Katherine Gonzalez: Financial advisor
 3.  Red Hat
 4.  CYSA+ Questions (October 15)
 5.  Create Memo for Speech (October 15)
 6. Renew with studentbeans
 7. Authentication for Collaboration isn't working (*Contact Professor Lin*)
+8. MSIST Student advising (Oct. 12, Monday, 2:30 PM)
+	1. [Zoom](https://csusb.zoom.us/j/9095373342)
    
-8.  Work on Homelab
+9.  Work on Homelab
 	1. pfSense
 	2. MicroComputer
 	3. Pi
 	   
-9. Check for *Deviated Septum*  | *General Health Checkup (Insulin resistance, testosterone, vitamin levels)*  | Check spot on scalp
+10. Check for *Deviated Septum*  | *General Health Checkup (Insulin resistance, testosterone, vitamin levels)*  | Check spot on scalp
 		
-10. STUDY CERTS
+11. STUDY CERTS
 	1. [RHCSA](https://rha.ole.redhat.com/rha/app/summary) -  Limited Time to Complete (December)
 	2. [AWS Solutions Architect](https://www.udemy.com/courses/search/?src=ukw&q=AWS+Solutions+Architect)
 			1. [Pwnlabs](https://pwnedlabs.io/) - Free Cloud Hacking Training
@@ -25,14 +28,14 @@
 	4. AWS CloudOps Engineer
 
 
-11. Copy Files from WITH SOC environment
-12. Consider asking mom to pitch in on earthquake it
-13. Buy new clothes (Business Casual Attire)
-14. 
-15. Change Protonmail Username
-16. Clean Garage
-17. Look for new car
-18. Go to Cyber Conferences
+12. Copy Files from WITH SOC environment
+13. Consider asking mom to pitch in on earthquake it
+14. Buy new clothes (Business Casual Attire)
+15. 
+16. Change Protonmail Username
+17. Clean Garage
+18. Look for new car
+19. Go to Cyber Conferences
 	1. [ISACA](https://www.isaca.org/)
 	2. [ISSA](https://issa.org/)
 		1. [CISM](https://www.google.com/search?q=CISM+&sca_esv=d0b210a9e94f1392&sxsrf=APpeQnsamrbUAvPaae7xqGTJZ2bmHCqQKQ%3A1785461128230&source=hp&ei=iPlraqzqC_7RkPIPpp7MuAM&iflsig=ABILxe8AAAAAamwHmHYe4-q18SzBAOzfx8vpxazHTSeO&ved=0ahUKEwiszrmC4fuVAxX-KEQIHSYPEzcQ4dUDCDE&uact=5&oq=CISM+&gs_lp=Egdnd3Mtd2l6IgVDSVNNIDIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIqgZQAFj6A3AAeACQAQCYAa4BoAHCA6oBAzQuMbgBA8gBAPgBAZgCBaAC0QPCAg4QLhiABBixAxjHARjRA8ICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAhEQLhiDARjHARixAxjRAxiABMICGhAuGIAEGIoFGI0GGLEDGIMBGMcBGK8BGI4FwgIREC4YgAQYsQMYxwEYrwEYjgXCAhcQLhiABBiKBRiNBhixAxjHARivARiOBcICCxAuGIAEGLEDGIMBwgILEC4YgAQYxwEY0QPCAhIQLhiABBgKGAsY0QMYsQMYxwGYAwCSBwM0LjGgB7s3sgcDNC4xuAfRA8IHBTAuNC4xyAcKgAgB&sclient=gws-wiz) - Cyber Management Certificate
@@ -42,13 +45,13 @@
 		1. Cloudfest
 	5. **FIND MORE CYBER COMMUNITIES**
 
-19. 
 20. 
+21. 
 
-21. Create AI Report prompt. 
+22. Create AI Report prompt. 
 	1. Reports are made for each complicated task. 
    
-22.  DONATE (Clean Garage)
+23.  DONATE (Clean Garage)
 	1. Find a place to donate clothes
 		1. Orange County Rescue Mission
 	2. Find a place to donate books
@@ -59,7 +62,7 @@
 	4. Find a place to donate appliances
 		1. Orange County Rescue Mission
 		   
-23. SELL STUFF ONLINE
+24. SELL STUFF ONLINE
 	1. 
 	2. Defcon Shirt
 	3. Skateboard Rail
@@ -67,44 +70,44 @@
 	5. Skate Tool
 	6. Snowboard
 
-24. Debloat Phone | Replace it
-25. 
-26. Get Dual Citizenship 
+25. Debloat Phone | Replace it
+26. 
+27. Get Dual Citizenship 
    
-27. Continue Ricing Laptop
+28. Continue Ricing Laptop
 	1. Add the date to Polybar
 	2. Get rid of the US writing icon
 	3. I'm not sure what the quell on the top left is either
 	4. Or the box that says None on the top right
 	5. Maybe consider updating Polybar altogether
 
-28.  Remove Subscriptions:
+29.  Remove Subscriptions:
 	1. Maybe Claude
 	2. Proton
 	3. Google 1 (mcmicc3)
 
-29.  Consider Creating Notion Workflow 
+30.  Consider Creating Notion Workflow 
 
-30. 
 31. 
-32.   Read more books
-33.  Consider applying for EBT/CalFresh and Medical
-34. 
-35.  Sell Pennies
-36.  Create Homelab
-37. 
-38.  Use Kohls $50 Gift Card
-39.  Learn how to make templates for Obsidian
-40.  RICE Endeavor and Pop(Waybar)
-41. 
-42.  Learn how to backup dot files on Github
-43. 
-44.  Finish completing the Cyber Patriot ISO
-45. 
+32. 
+33.   Read more books
+34.  Consider applying for EBT/CalFresh and Medical
+35. 
+36.  Sell Pennies
+37.  Create Homelab
+38. 
+39.  Use Kohls $50 Gift Card
+40.  Learn how to make templates for Obsidian
+41.  RICE Endeavor and Pop(Waybar)
+42. 
+43.  Learn how to backup dot files on Github
+44. 
+45.  Finish completing the Cyber Patriot ISO
 46. 
-47.  Learn new meals to cook
-48.  Travel
-49.  Work on HTB modules
+47. 
+48.  Learn new meals to cook
+49.  Travel
+50.  Work on HTB modules
 
 
 

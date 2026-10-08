@@ -16,3 +16,16 @@ Each group member should submit both the *project and the PowerPoint presentatio
 
 ---
 
+### **Group 3 Project Midterm Status**
+
+1. Hospitality
+2. We have already decided how we’re going to divide up the work
+
+Our team is in constant communication over the captsone project. We are currently in the planning, and learning phase of the group project. Educating ourselves on the material and reviewing the provided documents to ensure that we complete the assignemnt correctly. 
+
+Right now, We agreed to choose Hospitality as our industry of choice. We are still planning the scope of our business, and the specifics of what our industry provides. 
+
+Once we have all of that sorted, our goal is to divide the tasks across each team member and collaborate using tools such as Google Documents and Google Slides. We will hold each other accountable, and ensure that we have everything planned before we begin piecing it together. Our expecation is to have everything well thought out, and submitted before the due date.
+
+---
+
