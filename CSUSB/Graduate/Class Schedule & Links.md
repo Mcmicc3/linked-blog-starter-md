@@ -27,7 +27,7 @@ Time: Thusdays at 9 AM
 7. [x] Presentation 1 - Sep 29th
 8. [x] Week 5 Discussion - Sep 27th | *Write a reply*
 9. [x] Week 6 Discussion - Oct 4th | *Write a reply*
-10. [ ] Week 7 Group Discussion - Oct 8th
+10. [x] Week 7 Group Discussion - Oct 8th
 11. [x] Week 7 Discussion - Oct 11th | *Write a reply*
 12. [ ] Group Project Midterm Submission - Oct 11th
 13. [ ] Week 8 Discussion - Oct 18th
@@ -47,7 +47,7 @@ Time: Thusdays at 9 AM
 7. [x] Week 7 Discussion post (1)
 8. [x] Port Scanning Exercise - Oct 1
 9. [x] Vulnerability Scan Exercise - Oct 8
-10. [ ] CYSA+ Questions - Oct 15th
+10. [x] CYSA+ Questions - Oct 15th
 11. [x] Speech 1 Memo - Oct 15th
 12. [ ] Risk ID Exercise - Oct 15th
 13. [ ] Scenario #2 - Oct 15th
